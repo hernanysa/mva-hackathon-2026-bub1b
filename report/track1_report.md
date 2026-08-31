@@ -191,11 +191,12 @@ tissue is below the detection limit of BAF/depth analysis (≈ 10–15 % of cell
 
 ## 6. Reproducibility
 
-All code, parameters and intermediate outputs are in the accompanying GitHub repository
-(`analisis/` = VCF pipeline, `align/` = targeted re-alignment). The controlled-access dataset is
-**not** redistributed. Key scripts: `01_cnv_baf.py`, `02_genes_candidatos.py`, `03_bub1b_workup.py`,
-`extraer_bub1b.sh`, `05_analisis_bam.py`. External resources: Ensembl REST / VEP REST, Ensembl
-GRCh38 chromosome-15 FASTA.
+All code and parameters are in the accompanying GitHub repository (`analisis/` = VCF pipeline,
+`align/` = targeted re-alignment). The controlled-access dataset, aligned reads and per-position
+genotype outputs are **not** redistributed. Key scripts: `01_cnv_baf.py`, `02_genes_candidatos.py`,
+`03_bub1b_workup.py`, `extraer_bub1b.sh`, `05_analisis_bam.py`. External resources: Ensembl
+REST / VEP REST, Ensembl GRCh38 chromosome-15 FASTA. The completed methods-description form is at
+`report/methods_description_track1.xlsx`.
 
 ## 7. AI-assistance disclosure
 
