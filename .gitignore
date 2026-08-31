@@ -1,0 +1,20 @@
+# datos de acceso controlado y todo lo derivado a nivel individuo
+data/
+ref/
+*.bam
+*.bam.bai
+*.fq.gz
+*.fastq.gz
+*.vcf.gz
+*.vcf.gz.tbi
+analisis/out/
+align/*.log
+align/RESULTADO_fase2.txt
+align/L00*.done
+# entornos
+venv/
+.mamba/
+.hf/
+__pycache__/
+*.pyc
+.conda/

@@ -1,0 +1,6 @@
+pysam
+numpy
+pandas
+matplotlib
+huggingface_hub
+openpyxl
