@@ -201,12 +201,20 @@ REST / VEP REST, Ensembl GRCh38 chromosome-15 FASTA. The completed methods-descr
 ## 7. AI-assistance disclosure
 
 This analysis was performed with substantial assistance from **Claude (Anthropic), via Claude
-Code** (agentic CLI). Claude designed and wrote the analysis scripts, ran them locally, interpreted
-outputs and drafted this report, under human direction. **Data handling:** all genomic files were
-processed by scripts executing on the local machine; the raw controlled-access data (FASTQ, VCF)
-were never uploaded to Anthropic. Portions of derived results and a limited number of individual
-VCF lines passed through the model's context during the interactive session. No dataset content
-was used for model training (Claude Code API traffic is not trained on).
+Code** (agentic CLI), on a **Claude Pro plan (Anthropic consumer terms)**. Claude designed and wrote
+the analysis scripts, ran them locally, interpreted outputs and drafted this report, under human
+direction. **Data handling:** all genomic files were processed by scripts executing on the local
+machine; the raw controlled-access data (FASTQ, VCF) were never uploaded to Anthropic. Portions of
+derived results and a limited number of individual VCF lines passed through the model's context
+during the interactive session.
+
+**Correction (October 2026).** The submitted version of this section ended: "No dataset content was
+used for model training (Claude Code API traffic is not trained on)." That was wrong. The account's
+model-training setting ("Help improve Claude") was **on** during this work; we found it on
+7 October 2026 and switched it off the same day. No feedback was ever given on outputs. The incident
+was self-reported to Sage's Privacy, Security & Compliance Office, and on 9 October 2026 we requested
+permanent deletion of Anthropic's server-side copies of the sessions. Details are in the
+AI-assistance section of our Track 2 report.
 
 ## 8. Author's note
 
