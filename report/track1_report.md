@@ -17,7 +17,7 @@ Transcript: `NM_001211.6` / `ENST00000287598.11` (MANE Select), GRCh38.
 **EPCR (estimated probability of causal relationship): 0.92.**
 
 The phenotype supplied for the proband — rhabdomyosarcoma (HP:0002859), severe pre- and post-natal
-growth restriction (born ~1 kg at 32 weeks, HP:0001518/HP:0001622), nephrocalcinosis since birth
+growth restriction and prematurity (HP:0001518/HP:0001622), nephrocalcinosis since birth
 (HP:0000121), failure to thrive with skeletal-muscle atrophy (HP:0001508/HP:0003202), and a
 parental history of recurrent pregnancy loss (HP:0200067) — is the characteristic constellation of
 MVA1, which confers a high risk of embryonal rhabdomyosarcoma and Wilms tumour.

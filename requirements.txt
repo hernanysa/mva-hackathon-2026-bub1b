@@ -4,3 +4,9 @@ pandas
 matplotlib
 huggingface_hub
 openpyxl
+networkx
+markdown
+weasyprint
+cairosvg
+Pillow
+piper-tts

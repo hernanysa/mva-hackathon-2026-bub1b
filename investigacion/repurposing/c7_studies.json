@@ -1,0 +1,3792 @@
+{
+ "NCT06990256": {
+  "nct": "NCT06990256",
+  "title": "Evaluation of Urolithin A and Fisetin on Improving Sleep and Aging Biomarkers",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Sleep Disorder",
+   "Aging"
+  ],
+  "intr": [
+   "Fisetin intervention",
+   "Placebo",
+   "Urolithin A intervention"
+  ],
+  "n": 83,
+  "start": "2025-09-16",
+  "sponsor": "Huazhong University of Science and Technology",
+  "results": false,
+  "why": [
+   "fisetin\u00b7senescence frailty aging"
+  ],
+  "gold": false
+ },
+ "NCT04733534": {
+  "nct": "NCT04733534",
+  "title": "An Open-Label Intervention Trial to Reduce Senescence and Improve Frailty in Adult Survivors of Childhood Cancer",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Frailty",
+   "Childhood Cancer"
+  ],
+  "intr": [
+   "Dasatinib plus Quercetin",
+   "Fisetin"
+  ],
+  "n": 120,
+  "start": "2022-06-06",
+  "sponsor": "St. Jude Children's Research Hospital",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence",
+   "fisetin\u00b7childhood cancer survivor",
+   "fisetin\u00b7senescence frailty aging"
+  ],
+  "gold": true
+ },
+ "NCT06431932": {
+  "nct": "NCT06431932",
+  "title": "Pilot Trial of Fisetin in Healthy Volunteers and Older Patients With Multimorbidity",
+  "status": "RECRUITING",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Multimorbidity",
+   "Healthy"
+  ],
+  "intr": [
+   "Fisetin",
+   "Placebo"
+  ],
+  "n": 60,
+  "start": "2026-03-24",
+  "sponsor": "Ove Andersen",
+  "results": false,
+  "why": [
+   "fisetin\u00b7senescence frailty aging"
+  ],
+  "gold": false
+ },
+ "NCT05595499": {
+  "nct": "NCT05595499",
+  "title": "Fisetin to Improve Physical Function in Stage I-III Breast Cancer Survivors",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Anatomic Stage I Breast Cancer AJCC v8",
+   "Anatomic Stage II Breast Cancer AJCC v8",
+   "Anatomic Stage III Breast Cancer AJCC v8"
+  ],
+  "intr": [
+   "Biospecimen Collection",
+   "Fisetin",
+   "Placebo Administration",
+   "Quality-of-Life Assessment",
+   "Questionnaire Administration"
+  ],
+  "n": 88,
+  "start": "2023-03-27",
+  "sponsor": "Jonsson Comprehensive Cancer Center",
+  "results": false,
+  "why": [
+   "fisetin\u00b7senescence frailty aging"
+  ],
+  "gold": false
+ },
+ "NCT07195318": {
+  "nct": "NCT07195318",
+  "title": "Fisetin Supplementation for Healthy Aging",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Healthy"
+  ],
+  "intr": [
+   "Fisetin",
+   "Placebo"
+  ],
+  "n": 120,
+  "start": "2025-09-24",
+  "sponsor": "Ove Andersen",
+  "results": false,
+  "why": [
+   "fisetin\u00b7senescence frailty aging"
+  ],
+  "gold": false
+ },
+ "NCT03675724": {
+  "nct": "NCT03675724",
+  "title": "Alleviation by Fisetin of Frailty, Inflammation, and Related Measures in Older Adults",
+  "status": "ENROLLING_BY_INVITATION",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Frail Elderly Syndrome"
+  ],
+  "intr": [
+   "Fisetin",
+   "Placebo oral capsule"
+  ],
+  "n": 40,
+  "start": "2018-11-15",
+  "sponsor": "Mayo Clinic",
+  "results": false,
+  "why": [
+   "fisetin\u00b7senescence frailty aging"
+  ],
+  "gold": false
+ },
+ "NCT05506488": {
+  "nct": "NCT05506488",
+  "title": "Dasatinib and Quercetin to Treat Fibrotic Non-alcoholic Fatty Liver Disease",
+  "status": "COMPLETED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "NAFLD",
+   "NASH With Fibrosis",
+   "Liver Fibrosis"
+  ],
+  "intr": [
+   "Dasatinib 100 MG + Quercetin (1000 MG)",
+   "Placebo"
+  ],
+  "n": 30,
+  "start": "2023-07-05",
+  "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT07270120": {
+  "nct": "NCT07270120",
+  "title": "Senolytics for Secondary Progressive MS",
+  "status": "NOT_YET_RECRUITING",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Multiple Sclerosis (MS) Secondary Progressive"
+  ],
+  "intr": [
+   "Dasatinib and quercetin"
+  ],
+  "n": 30,
+  "start": "2026-01-15",
+  "sponsor": "Ohio State University",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT04994561": {
+  "nct": "NCT04994561",
+  "title": "VIAging Deceleration Trial Using Metformin, Dasatinib, Rapamycin and Nutritional Supplements",
+  "status": "WITHDRAWN",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Aging"
+  ],
+  "intr": [
+   "Study Drugs and Nutritional Supplements"
+  ],
+  "n": 0,
+  "start": "2022-06",
+  "sponsor": "Vitality in Aging Research Group, Inc.",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT04313634": {
+  "nct": "NCT04313634",
+  "title": "Targeting Cellular Senescence With Senolytics to Improve Skeletal Health in Older Humans",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Healthy"
+  ],
+  "intr": [
+   "Dasatinib",
+   "Quercetin",
+   "Fisetin"
+  ],
+  "n": 74,
+  "start": "2020-06-09",
+  "sponsor": "Sundeep Khosla, M.D.",
+  "results": true,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT05422885": {
+  "nct": "NCT05422885",
+  "title": "Safety and Feasibility of Dasatinib and Quercetin in Adults at Risk for Alzheimer's Disease",
+  "status": "COMPLETED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Aging"
+  ],
+  "intr": [
+   "Dasatinib",
+   "Quercetin"
+  ],
+  "n": 15,
+  "start": "2022-05-20",
+  "sponsor": "Lewis Lipsitz",
+  "results": true,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT05653258": {
+  "nct": "NCT05653258",
+  "title": "Single Nuclei RNA-seq to Map Adipose Cellular Populations and Senescent Cells in Older Subjects",
+  "status": "RECRUITING",
+  "phase": "PHASE2/PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Obesity",
+   "Healthy Lifestyle"
+  ],
+  "intr": [
+   "Lifestyle Intervention",
+   "Dasatinib 100 MG",
+   "Quercetin 1000mg",
+   "Placebo",
+   "Abdominal adipose tissue biopsy"
+  ],
+  "n": 160,
+  "start": "2023-10-17",
+  "sponsor": "Cedars-Sinai Medical Center",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT04063124": {
+  "nct": "NCT04063124",
+  "title": "Senolytic Therapy to Modulate Progression of Alzheimer's Disease",
+  "status": "COMPLETED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Alzheimer Disease"
+  ],
+  "intr": [
+   "Dasatinib + Quercetin"
+  ],
+  "n": 5,
+  "start": "2020-02-14",
+  "sponsor": "The University of Texas Health Science Center at San Antonio",
+  "results": true,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT07144293": {
+  "nct": "NCT07144293",
+  "title": "Improving Physical Ability and Cellular Senescence Elimination in HIV",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "HIV",
+   "Frailty",
+   "Prefrail",
+   "Aging Problems"
+  ],
+  "intr": [
+   "Dasatinib",
+   "Quercetin",
+   "Placebo - Dasatinib",
+   "Placebo - Quercetin"
+  ],
+  "n": 82,
+  "start": "2025-12-04",
+  "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT06018467": {
+  "nct": "NCT06018467",
+  "title": "Senolytics to Improve Osteoporosis Therapy",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Osteopenia, Osteoporosis",
+   "Age-related Bone Loss"
+  ],
+  "intr": [
+   "Dasatinib 100 Mg Oral Tablet",
+   "Quercetin 1.250 mg (oral)",
+   "Nicotinamide Riboside 1g (oral)"
+  ],
+  "n": 120,
+  "start": "2023-09-06",
+  "sponsor": "Odense University Hospital",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT07025226": {
+  "nct": "NCT07025226",
+  "title": "Medication Combinations of Dasatinib, Quercetin, Fisetin, Temozolomide, LMP744, and Autologous TLPO Vaccine for the Treatment of Previously Treated Glioma With Residual Disease",
+  "status": "RECRUITING",
+  "phase": "EARLY_PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Glioma"
+  ],
+  "intr": [
+   "Biospecimen Collection",
+   "Dasatinib",
+   "Fisetin",
+   "Magnetic Resonance Imaging",
+   "Patient Observation",
+   "Positron Emission Tomography",
+   "Quercetin",
+   "Temozolomide",
+   "Topoisomerase-1 Inhibitor LMP744",
+   "Single Agent Therapy"
+  ],
+  "n": 30,
+  "start": "2025-08-12",
+  "sponsor": "Mayo Clinic",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT04685590": {
+  "nct": "NCT04685590",
+  "title": "Senolytic Therapy to Modulate the Progression of Alzheimer's Disease (SToMP-AD) Study",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Alzheimer Disease, Early Onset",
+   "Mild Cognitive Impairment"
+  ],
+  "intr": [
+   "Dasatinib + Quercetin",
+   "Placebo Capsules"
+  ],
+  "n": 48,
+  "start": "2021-12-22",
+  "sponsor": "Washington University School of Medicine",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT06355037": {
+  "nct": "NCT06355037",
+  "title": "Dasatinib Combined With Quercetin to Reverse Chemo Resistance in Triple Negative Breast Cancer",
+  "status": "UNKNOWN",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Triple-negative Breast Cancer"
+  ],
+  "intr": [
+   "Quercetin",
+   "Dasatinib",
+   "Taxane/Anthracycline/Eribulin Mesylate/Vinorelbine/Capecitabine/Carboplatin/UTD1/platinum"
+  ],
+  "n": 10,
+  "start": "2024-05-20",
+  "sponsor": "Fudan University",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT02848131": {
+  "nct": "NCT02848131",
+  "title": "Senescence in Chronic Kidney Disease",
+  "status": "ENROLLING_BY_INVITATION",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Chronic Kidney Disease"
+  ],
+  "intr": [
+   "Group 2: Dasatinib",
+   "Group 2: Quercetin"
+  ],
+  "n": 30,
+  "start": "2016-07",
+  "sponsor": "Mayo Clinic",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT07000734": {
+  "nct": "NCT07000734",
+  "title": "Fortifying Healthy Behaviors, Optimizing Medical Therapies and Enhancing Cognitive Function in Older Adults-pilot Study",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Aging",
+   "Cognitive Decline",
+   "Older Adults",
+   "Cardiovascular",
+   "Sedentary Behaviors",
+   "Immune Senescence",
+   "Motor Function"
+  ],
+  "intr": [
+   "Risk managment",
+   "Dasatinib",
+   "Quercetin (dietary supplement)",
+   "Vortioxetine"
+  ],
+  "n": 23,
+  "start": "2025-07-28",
+  "sponsor": "Washington University School of Medicine",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT02652052": {
+  "nct": "NCT02652052",
+  "title": "Hematopoietic Stem Cell Transplant Survivors Study",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Stem Cell Transplant"
+  ],
+  "intr": [
+   "Standard of Care - Observation Only",
+   "Group 2: Quercetin",
+   "Group 2: Dasatinib"
+  ],
+  "n": 9,
+  "start": "2016-03-01",
+  "sponsor": "Mayo Clinic",
+  "results": false,
+  "why": [
+   "dasatinib quercetin\u00b7senescence"
+  ],
+  "gold": false
+ },
+ "NCT05455294": {
+  "nct": "NCT05455294",
+  "title": "Combination Navitoclax, Venetoclax and Decitabine for Advanced Myeloid Neoplasms",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Myeloid Malignancy",
+   "Myelodysplastic Syndromes",
+   "Myelofibrosis",
+   "Acute Myeloid Leukemia",
+   "Myeloproliferative Neoplasm"
+  ],
+  "intr": [
+   "Navitoclax",
+   "Venetoclax",
+   "Decitabine"
+  ],
+  "n": 16,
+  "start": "2022-07-18",
+  "sponsor": "Jacqueline Garcia, MD",
+  "results": false,
+  "why": [
+   "navitoclax\u00b7myelofibrosis"
+  ],
+  "gold": false
+ },
+ "NCT04041050": {
+  "nct": "NCT04041050",
+  "title": "A Study Evaluating Safety and Tolerability, and Pharmacokinetics of Navitoclax Monotherapy and in Combination With Ruxolitinib in Participants With Myeloproliferative Neoplasm",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Myeloproliferative Neoplasm"
+  ],
+  "intr": [
+   "Navitoclax",
+   "Ruxolitinib",
+   "Celecoxib"
+  ],
+  "n": 85,
+  "start": "2019-11-08",
+  "sponsor": "AbbVie",
+  "results": false,
+  "why": [
+   "navitoclax\u00b7myelofibrosis"
+  ],
+  "gold": false
+ },
+ "NCT04454658": {
+  "nct": "NCT04454658",
+  "title": "Safety and Tolerability Study of Oral ABBV-744 Tablet Alone or in Combination With Oral Ruxolitinib Tablet or Oral Navitoclax Tablet in Adult Participants With Myelofibrosis",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Myelofibrosis (MF)"
+  ],
+  "intr": [
+   "ABBV-744",
+   "Navitoclax",
+   "Ruxolitinib"
+  ],
+  "n": 21,
+  "start": "2020-11-11",
+  "sponsor": "AbbVie",
+  "results": false,
+  "why": [
+   "navitoclax\u00b7myelofibrosis"
+  ],
+  "gold": false
+ },
+ "NCT04468984": {
+  "nct": "NCT04468984",
+  "title": "Study of Oral Navitoclax Tablet in Combination With Oral Ruxolitinib Tablet Versus Best Available Therapy to Assess Change in Spleen Volume in Adult Participants With Relapsed/Refractory Myelofibrosis",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Myelofibrosis (MF)"
+  ],
+  "intr": [
+   "Navitoclax",
+   "Ruxolitinib",
+   "Best Available Therapy (BAT)"
+  ],
+  "n": 330,
+  "start": "2020-08-31",
+  "sponsor": "AbbVie",
+  "results": false,
+  "why": [
+   "navitoclax\u00b7myelofibrosis"
+  ],
+  "gold": false
+ },
+ "NCT04472598": {
+  "nct": "NCT04472598",
+  "title": "Study of Oral Navitoclax Tablet In Combination With Oral Ruxolitinib Tablet When Compared With Oral Ruxolitinib Tablet To Assess Change In Spleen Volume In Adult Participants With Myelofibrosis",
+  "status": "COMPLETED",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Myelofibrosis (MF)"
+  ],
+  "intr": [
+   "Placebo for Navitoclax",
+   "Ruxolitinib",
+   "Navitoclax"
+  ],
+  "n": 252,
+  "start": "2020-09-29",
+  "sponsor": "AbbVie",
+  "results": true,
+  "why": [
+   "navitoclax\u00b7myelofibrosis"
+  ],
+  "gold": false
+ },
+ "NCT03222609": {
+  "nct": "NCT03222609",
+  "title": "A Study Evaluating Tolerability and Efficacy of Navitoclax Alone or in Combination With Ruxolitinib in Participants With Myelofibrosis",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Myelofibrosis (MF)"
+  ],
+  "intr": [
+   "Ruxolitinib",
+   "Navitoclax"
+  ],
+  "n": 191,
+  "start": "2017-10-31",
+  "sponsor": "AbbVie",
+  "results": true,
+  "why": [
+   "navitoclax\u00b7myelofibrosis"
+  ],
+  "gold": false
+ },
+ "NCT03592576": {
+  "nct": "NCT03592576",
+  "title": "Expanded Access to Navitoclax",
+  "status": "NO_LONGER_AVAILABLE",
+  "phase": "NA",
+  "type": "EXPANDED_ACCESS",
+  "cond": [
+   "Myelofibrosis",
+   "Acute Lymphocytic Leukemia (ALL)",
+   "Lymphoblastic Lymphoma"
+  ],
+  "intr": [
+   "Navitoclax",
+   "Venetoclax"
+  ],
+  "n": null,
+  "start": "",
+  "sponsor": "AbbVie",
+  "results": false,
+  "why": [
+   "navitoclax\u00b7myelofibrosis"
+  ],
+  "gold": false
+ },
+ "NCT04480086": {
+  "nct": "NCT04480086",
+  "title": "Safety and Tolerability Study of Mivebresib Tablet Alone or in Combination With Ruxolitinib Tablet or Navitoclax Tablet in Adult Participants With Myelofibrosis",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Myelofibrosis (MF)"
+  ],
+  "intr": [
+   "Mivebresib",
+   "Navitoclax",
+   "Ruxolitinib"
+  ],
+  "n": 1,
+  "start": "2021-03-17",
+  "sponsor": "AbbVie",
+  "results": false,
+  "why": [
+   "navitoclax\u00b7myelofibrosis"
+  ],
+  "gold": false
+ },
+ "NCT03398824": {
+  "nct": "NCT03398824",
+  "title": "Pilot Study of Metformin for Patients With Fanconi Anemia",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Fanconi Anemia"
+  ],
+  "intr": [
+   "metformin HCl"
+  ],
+  "n": 15,
+  "start": "2018-03-29",
+  "sponsor": "Boston Children's Hospital",
+  "results": true,
+  "why": [
+   "metformin\u00b7DNA repair deficiency",
+   "metformin\u00b7Fanconi anemia",
+   "metformin\u00b7bone marrow failure"
+  ],
+  "gold": true
+ },
+ "NCT06519786": {
+  "nct": "NCT06519786",
+  "title": "Safety and Efficacy of Metformin for Treatment of Cytopenia in Children and Adolescents With Fanconi Anemia",
+  "status": "UNKNOWN",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Fanconi Anemia"
+  ],
+  "intr": [
+   "Metformin"
+  ],
+  "n": 30,
+  "start": "2022-10-05",
+  "sponsor": "Ain Shams University",
+  "results": false,
+  "why": [
+   "metformin\u00b7DNA repair deficiency",
+   "metformin\u00b7Fanconi anemia",
+   "metformin\u00b7bone marrow failure"
+  ],
+  "gold": true
+ },
+ "NCT03568630": {
+  "nct": "NCT03568630",
+  "title": "Blood Markers of Early Pancreas Cancer",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "type": "OBSERVATIONAL",
+  "cond": [
+   "Diabetes Mellitus, Type 2",
+   "PreDiabetes",
+   "Pancreas Cyst",
+   "Chronic Pancreatitis",
+   "Genetic Predisposition to Disease",
+   "Inherited Disease"
+  ],
+  "intr": [],
+  "n": 1250,
+  "start": "2018-07-26",
+  "sponsor": "University of Nebraska",
+  "results": false,
+  "why": [
+   "metformin\u00b7Li-Fraumeni",
+   "metformin\u00b7Lynch syndrome",
+   "metformin\u00b7ataxia telangiectasia"
+  ],
+  "gold": true
+ },
+ "NCT01981525": {
+  "nct": "NCT01981525",
+  "title": "A Pilot Study of Metformin in Patients With a Diagnosis of Li-Fraumeni Syndrome",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Li-Fraumeni Syndrome"
+  ],
+  "intr": [
+   "Metformin"
+  ],
+  "n": 26,
+  "start": "2014-01-27",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "metformin\u00b7DNA repair deficiency",
+   "metformin\u00b7Li-Fraumeni"
+  ],
+  "gold": true
+ },
+ "NCT02733679": {
+  "nct": "NCT02733679",
+  "title": "Response of Individuals With Ataxia-Telangiectasia to Metformin and Pioglitazone",
+  "status": "COMPLETED",
+  "phase": "PHASE4",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Ataxia-Telangiectasia"
+  ],
+  "intr": [
+   "Metformin",
+   "Pioglitazone"
+  ],
+  "n": 27,
+  "start": "2016-09-29",
+  "sponsor": "NHS Tayside",
+  "results": false,
+  "why": [
+   "metformin\u00b7DNA repair deficiency",
+   "metformin\u00b7ataxia telangiectasia"
+  ],
+  "gold": true
+ },
+ "NCT01750567": {
+  "nct": "NCT01750567",
+  "title": "A Pilot Study of Metformin Therapy in Patients With Relapsed Chronic Lymphocytic Leukemia (CLL) and Untreated CLL",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Relapsed Chronic Lymphocytic Leukemia"
+  ],
+  "intr": [
+   "Metformin"
+  ],
+  "n": 37,
+  "start": "2012-11",
+  "sponsor": "University of Michigan Rogel Cancer Center",
+  "results": true,
+  "why": [
+   "metformin\u00b7bone marrow failure"
+  ],
+  "gold": true
+ },
+ "NCT04300790": {
+  "nct": "NCT04300790",
+  "title": "Study to Evaluate the Effect of Metformin in the Prevention of HG in HR[+]/HER2[-] PIK3CA-mut Advanced BC Patients",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Breast Cancer"
+  ],
+  "intr": [
+   "Alpelisib",
+   "Metformin",
+   "Fulvestrant",
+   "Letrozole",
+   "Exemestane",
+   "Vildagliptin",
+   "Tamoxifen"
+  ],
+  "n": 69,
+  "start": "2020-10-23",
+  "sponsor": "MedSIR",
+  "results": false,
+  "why": [
+   "metformin\u00b7cancer prevention hereditary"
+  ],
+  "gold": true
+ },
+ "NCT02495103": {
+  "nct": "NCT02495103",
+  "title": "Vandetanib in Combination With Metformin in People With HLRCC or SDH-Associated Kidney Cancer or Sporadic Papillary Renal Cell Carcinoma",
+  "status": "TERMINATED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Renal Cell Carcinoma",
+   "Hereditary Leiomyomatosis",
+   "Renal Cell Cancer"
+  ],
+  "intr": [
+   "Vandetanib",
+   "Metformin",
+   "Vandetanib/Metformin"
+  ],
+  "n": 7,
+  "start": "2015-08-26",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": true,
+  "why": [
+   "metformin\u00b7cancer prevention hereditary"
+  ],
+  "gold": true
+ },
+ "NCT04742751": {
+  "nct": "NCT04742751",
+  "title": "An Open-Label Pilot Intervention Trial to Prevent Diabetes in Prediabetic Adult Survivors of Childhood Cancer",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "PreDiabetes",
+   "Adult Children"
+  ],
+  "intr": [
+   "Metformin",
+   "Digital Intervention"
+  ],
+  "n": 96,
+  "start": "2022-03-02",
+  "sponsor": "St. Jude Children's Research Hospital",
+  "results": false,
+  "why": [
+   "metformin\u00b7childhood cancer survivor"
+  ],
+  "gold": true
+ },
+ "NCT00004314": {
+  "nct": "NCT00004314",
+  "title": "Phase II Pilot Study of Aminoimidazole Carboxamide Riboside (AICAR), a Precursor of Purine Synthesis, for Lesch-Nyhan Disease",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Lesch-Nyhan Syndrome"
+  ],
+  "intr": [
+   "aminomidazole carboxamide riboside"
+  ],
+  "n": 2,
+  "start": "1996-02",
+  "sponsor": "National Center for Research Resources (NCRR)",
+  "results": false,
+  "why": [
+   "AICAR"
+  ],
+  "gold": false
+ },
+ "NCT00168519": {
+  "nct": "NCT00168519",
+  "title": "Contraction (Exercise) Mediated Glucose Uptake as a Therapeutic Target in Type 2 Diabetes",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Diabetes Mellitus, Type 2"
+  ],
+  "intr": [
+   "nitroprusside, pentalong, imdur, AICAR, isoptin"
+  ],
+  "n": 40,
+  "start": "2002-10",
+  "sponsor": "Baker Heart Research Institute",
+  "results": false,
+  "why": [
+   "AICAR"
+  ],
+  "gold": false
+ },
+ "NCT04870866": {
+  "nct": "NCT04870866",
+  "title": "NAD Supplementation to Prevent Progressive Neurological Disease in Ataxia Telangiectasia",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Ataxia Telangiectasia"
+  ],
+  "intr": [
+   "Nicotinamide ribonucleoside"
+  ],
+  "n": 13,
+  "start": "2019-06-05",
+  "sponsor": "University Hospital, Akershus",
+  "results": false,
+  "why": [
+   "nicotinamide riboside\u00b7DNA repair",
+   "nicotinamide riboside\u00b7ataxia"
+  ],
+  "gold": true
+ },
+ "NCT06324877": {
+  "nct": "NCT06324877",
+  "title": "Ataxia-telangiectasia: Treating Mitochondrial Dysfunction With Nicotinamide Riboside",
+  "status": "UNKNOWN",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Ataxia Telangiectasia"
+  ],
+  "intr": [
+   "Nicotinamide riboside"
+  ],
+  "n": 10,
+  "start": "2024-05-01",
+  "sponsor": "The University of Queensland",
+  "results": false,
+  "why": [
+   "nicotinamide riboside\u00b7DNA repair",
+   "nicotinamide riboside\u00b7ataxia"
+  ],
+  "gold": true
+ },
+ "NCT06208527": {
+  "nct": "NCT06208527",
+  "title": "The NADage Study: Nicotinamide Riboside Replenishment Therapy Against Functional Decline in Aging",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Frailty",
+   "Frail Elderly Syndrome",
+   "Frailty Syndrome",
+   "Aging"
+  ],
+  "intr": [
+   "Nicotinamide Riboside (NR)",
+   "Placebo"
+  ],
+  "n": 100,
+  "start": "2025-01",
+  "sponsor": "Haukeland University Hospital",
+  "results": false,
+  "why": [
+   "nicotinamide riboside\u00b7DNA repair"
+  ],
+  "gold": true
+ },
+ "NCT03962114": {
+  "nct": "NCT03962114",
+  "title": "Effects of Vitamin B3 in Patients With Ataxia Telangiectasia",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Ataxia Telangiectasia",
+   "ATM Gene Mutation"
+  ],
+  "intr": [
+   "Vitamin B3"
+  ],
+  "n": 24,
+  "start": "2019-03-18",
+  "sponsor": "Radboud University Medical Center",
+  "results": false,
+  "why": [
+   "nicotinamide riboside\u00b7DNA repair",
+   "nicotinamide riboside\u00b7ataxia"
+  ],
+  "gold": true
+ },
+ "NCT04192136": {
+  "nct": "NCT04192136",
+  "title": "NAD+ and Exercise in FA",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Friedreich Ataxia 1"
+  ],
+  "intr": [
+   "Nicotinamide Riboside",
+   "Placebo",
+   "Exercise Intervention"
+  ],
+  "n": 75,
+  "start": "2020-09-03",
+  "sponsor": "Children's Hospital of Philadelphia",
+  "results": true,
+  "why": [
+   "nicotinamide riboside\u00b7ataxia"
+  ],
+  "gold": true
+ },
+ "NCT05590468": {
+  "nct": "NCT05590468",
+  "title": "A Study to Evaluate Vitamin B3 Derivative to Treat Mitochondrial Myopathy",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Mitochondrial Myopathy"
+  ],
+  "intr": [
+   "Nicotinamide Riboside",
+   "Placebo"
+  ],
+  "n": 34,
+  "start": "2023-05-26",
+  "sponsor": "Ralitza Gavrilova",
+  "results": false,
+  "why": [
+   "nicotinamide riboside\u00b7mitochondrial myopathy"
+  ],
+  "gold": false
+ },
+ "NCT03432871": {
+  "nct": "NCT03432871",
+  "title": "Nicotinamide Riboside and Mitochondrial Biogenesis",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Mitochondrial Diseases",
+   "Mitochondrial Myopathies",
+   "Progressive External Ophthalmoplegia",
+   "Progressive Ophthalmoplegia",
+   "Progressive; Ophthalmoplegia, External",
+   "Mitochondria DNA Deletion",
+   "MELAS"
+  ],
+  "intr": [
+   "Nicotinamide Riboside"
+  ],
+  "n": 13,
+  "start": "2017-12-08",
+  "sponsor": "Cambridge University Hospitals NHS Foundation Trust",
+  "results": false,
+  "why": [
+   "nicotinamide riboside\u00b7mitochondrial myopathy"
+  ],
+  "gold": false
+ },
+ "NCT03789175": {
+  "nct": "NCT03789175",
+  "title": "Nicotinamide Riboside on Mitochondrial Function in Li-Fraumeni Syndrome",
+  "status": "COMPLETED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Cancer",
+   "Skin Fibroblasts",
+   "Muscle Weakness"
+  ],
+  "intr": [
+   "Nicotinamide Riboside (NR)"
+  ],
+  "n": 1,
+  "start": "2019-03-25",
+  "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+  "results": true,
+  "why": [
+   "nicotinamide riboside\u00b7mitochondrial myopathy"
+  ],
+  "gold": false
+ },
+ "NCT05732051": {
+  "nct": "NCT05732051",
+  "title": "Nicotinamide Riboside and Prevention of Cancer Therapy Related Cardiac Dysfunction in Breast Cancer Patients",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Breast Cancer",
+   "Metastatic Breast Cancer",
+   "Cancer Therapy-Related Cardiac Dysfunction",
+   "Cardiotoxicity",
+   "Heart Failure"
+  ],
+  "intr": [
+   "Nicotinamide Riboside",
+   "Placebo"
+  ],
+  "n": 60,
+  "start": "2023-03-16",
+  "sponsor": "University Hospital, Akershus",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT05886673": {
+  "nct": "NCT05886673",
+  "title": "Development of a Protective Cream Against Radiodermatitis Caused by Radiotherapy.",
+  "status": "UNKNOWN",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Radiodermatitis"
+  ],
+  "intr": [
+   "experimental cream",
+   "standard of care"
+  ],
+  "n": 5,
+  "start": "2023-03-29",
+  "sponsor": "Antonio J. Conde Moreno",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT05702398": {
+  "nct": "NCT05702398",
+  "title": "Pilot Trial of Supplemental Vitamin A and Nicotinamide",
+  "status": "RECRUITING",
+  "phase": "EARLY_PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Skin Cancer",
+   "Kidney Transplant Recipients"
+  ],
+  "intr": [
+   "Vitamin A",
+   "Nicotinamide",
+   "Other: Placebo"
+  ],
+  "n": 30,
+  "start": "2023-04-01",
+  "sponsor": "Rhode Island Hospital",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT03769285": {
+  "nct": "NCT03769285",
+  "title": "Skin Cancer Prevention With Nicotinamide in Transplant Recipients - Pilot Trial",
+  "status": "UNKNOWN",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Non-melanoma Skin Cancer",
+   "Carcinoma, Squamous Cell",
+   "Carcinoma, Basal Cell"
+  ],
+  "intr": [
+   "Nicotinamide",
+   "Placebo oral capsule"
+  ],
+  "n": 120,
+  "start": "2018-12-03",
+  "sponsor": "Women's College Hospital",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT01041482": {
+  "nct": "NCT01041482",
+  "title": "A Multi-Center, Non-Controlled Clinical Study of Sorafenib Adjuvant Therapy in Advanced Renal-Cell Carcinoma",
+  "status": "UNKNOWN",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Renal Cell Carcinoma"
+  ],
+  "intr": [
+   "sorafenib"
+  ],
+  "n": 140,
+  "start": "2008-11",
+  "sponsor": "Chinese Academy of Medical Sciences",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT05955924": {
+  "nct": "NCT05955924",
+  "title": "Nicotinamide Chemoprevention for Keratinocyte Carcinoma in Solid Organ Transplant Recipients - Pivotal Trial",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Non-melanoma Skin Cancer",
+   "Carcinoma, Squamous Cell",
+   "Carcinoma, Basal Cell",
+   "Keratinocyte Carcinoma"
+  ],
+  "intr": [
+   "Nicotinamide",
+   "Placebo"
+  ],
+  "n": 396,
+  "start": "2023-08-28",
+  "sponsor": "Women's College Hospital",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT00499525": {
+  "nct": "NCT00499525",
+  "title": "Phase 2b Study of Taxol Plus Sorafenib or Placebo in Patients With Advanced Breast Cancer",
+  "status": "UNKNOWN",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Breast Cancer"
+  ],
+  "intr": [
+   "paclitaxel",
+   "sorafenib tosylate",
+   "placebo"
+  ],
+  "n": 180,
+  "start": "2007-06",
+  "sponsor": "Northwestern University",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT07049068": {
+  "nct": "NCT07049068",
+  "title": "Comparison of Nicotinamide Treatments for Actinic Keratosis",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Actinic Keratoses"
+  ],
+  "intr": [
+   "Oral Nicotinamide",
+   "topical nicotinamide"
+  ],
+  "n": 74,
+  "start": "2022-02-01",
+  "sponsor": "Federal University of Rio Grande do Sul",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7actinic keratosis",
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT07286318": {
+  "nct": "NCT07286318",
+  "title": "A Randomized Controlled Trial of Topical 5% Niacinamide for Skin Cancer Prevention in Transplant Recipients",
+  "status": "RECRUITING",
+  "phase": "EARLY_PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Skin Cancer",
+   "Cutaneous Squamous Cell Carcinoma (CSCC)",
+   "Actinic Keratosis (AK)",
+   "Organ Transplant Recipient"
+  ],
+  "intr": [
+   "Topical niacinamide 5% cream",
+   "Sunscreen"
+  ],
+  "n": 20,
+  "start": "2026-05-01",
+  "sponsor": "Marissa Lobl",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7actinic keratosis",
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT07337486": {
+  "nct": "NCT07337486",
+  "title": "\"Evaluation of a Non-Pharmacological Skin Care Intervention for the Prevention and Treatment of Skin Toxicities Caused by Immunotherapy in Cancer Patients\"",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Skin Toxicity in Patients on Checkpoint Inhibitors"
+  ],
+  "intr": [
+   "Shea Butter and Niacinamide",
+   "Argan Oil and Coconut Butter"
+  ],
+  "n": 130,
+  "start": "2022-05-30",
+  "sponsor": "Fundaci\u00f3 Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT04843553": {
+  "nct": "NCT04843553",
+  "title": "Nicotinamide for Prevention of Pre-malignant Actinic Keratosis in Kidney Transplant Recipients",
+  "status": "COMPLETED",
+  "phase": "EARLY_PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Actinic Keratoses"
+  ],
+  "intr": [
+   "Oral Nicotinamide"
+  ],
+  "n": 30,
+  "start": "2016-10-14",
+  "sponsor": "Rhode Island Hospital",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7actinic keratosis",
+   "nicotinamide\u00b7skin cancer prevention"
+  ],
+  "gold": true
+ },
+ "NCT04844528": {
+  "nct": "NCT04844528",
+  "title": "Effects of Nicotinamide in Patients With Chronic Lymphocytic Leukemia With History of Non-melanoma Skin Cancers",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Chronic Lymphocytic Leukemia",
+   "Non-melanoma Skin Cancer (NMSC)"
+  ],
+  "intr": [
+   "Nicotinamide",
+   "Placebo"
+  ],
+  "n": 86,
+  "start": "2022-02-25",
+  "sponsor": "University of Utah",
+  "results": false,
+  "why": [
+   "nicotinamide\u00b7actinic keratosis"
+  ],
+  "gold": true
+ },
+ "NCT05878119": {
+  "nct": "NCT05878119",
+  "title": "Effects of MIB-626 With and Without A High-Intensity Multi-Dimensional Exercise Training Program",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Healthy"
+  ],
+  "intr": [
+   "Investigational Product - MIB 626",
+   "Placebo",
+   "Standardized, progressive, high intensity, multidimensional exercise",
+   "Usual Physical Activity"
+  ],
+  "n": 124,
+  "start": "2023-10-25",
+  "sponsor": "Metro International Biotech, LLC",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT07144527": {
+  "nct": "NCT07144527",
+  "title": "Nicotinamide Mononucleotide Supplementation for Exercise Tolerance Improvement in Healthy Older Adults",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Aging",
+   "Frailty",
+   "Exercise Tolerance",
+   "Healthy Male and Female Subjects"
+  ],
+  "intr": [
+   "NMN and TMG (Euexia)",
+   "Nicotinamide Mononucleotide (NMN)",
+   "Placebo"
+  ],
+  "n": 40,
+  "start": "2026-02-21",
+  "sponsor": "Scott Silveira",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT07013591": {
+  "nct": "NCT07013591",
+  "title": "Nicotinamide Mononucleotide in Patients Undergoing Cardiac Surgery",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Cardiac Surgery"
+  ],
+  "intr": [
+   "MIB-626",
+   "Placebo"
+  ],
+  "n": 90,
+  "start": "2026-06-10",
+  "sponsor": "Brigham and Women's Hospital",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT06739720": {
+  "nct": "NCT06739720",
+  "title": "RCT of Efficacy and Safety of CP003 on CFS/ME or Post COVID-19 Fatigue",
+  "status": "RECRUITING",
+  "phase": "PHASE2/PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Chronic Fatigue Syndrome (CFS)",
+   "Post-COVID ME/CFS"
+  ],
+  "intr": [
+   "LingZhi capsule"
+  ],
+  "n": 130,
+  "start": "2025-01-02",
+  "sponsor": "The University of Hong Kong",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT04903210": {
+  "nct": "NCT04903210",
+  "title": "Nicotinamide Mononucleotide in Hypertensive Patients",
+  "status": "UNKNOWN",
+  "phase": "PHASE4",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Hypertension"
+  ],
+  "intr": [
+   "Nicotinamide mononucleotide supplied as 400mg capsule",
+   "Lifestyle modification"
+  ],
+  "n": 20,
+  "start": "2021-06-01",
+  "sponsor": "First Affiliated Hospital, Sun Yat-Sen University",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT06592859": {
+  "nct": "NCT06592859",
+  "title": "Intervention of Nicotinamide Mononucleotide in Middle-aged and Elderly People",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Aging",
+   "NMN"
+  ],
+  "intr": [
+   "NMN",
+   "placebo"
+  ],
+  "n": 240,
+  "start": "2023-08-23",
+  "sponsor": "People's Hospital of Quzhou",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT06889740": {
+  "nct": "NCT06889740",
+  "title": "Evaluate the Safety, Tolerability, and Efficacy of UthPeak NMNH (Reduced Nicotinamide Mononucleotide) in Healthy Adult Participants",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Healthy Aging"
+  ],
+  "intr": [
+   "NMNH",
+   "Placebo"
+  ],
+  "n": 80,
+  "start": "2024-07-08",
+  "sponsor": "EffePharm LTD",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT07451496": {
+  "nct": "NCT07451496",
+  "title": "PRecision gerOMedicinE: Tailored Healthy agEing With Lifestyle, sUpplements and drugS (PROMETHEUS)",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Ageing"
+  ],
+  "intr": [
+   "Sleep and dietary counseling",
+   "Supervised exercise and exergaming program",
+   "Motivational interviewing",
+   "Whey protein",
+   "Creatine Monohydrate",
+   "Fucoidan",
+   "Urolithin A",
+   "Nicotinamide Mononucleotide (NMN)",
+   "Multivitamin",
+   "Ergothioneine"
+  ],
+  "n": 20,
+  "start": "2025-09-29",
+  "sponsor": "National University of Singapore",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT04228640": {
+  "nct": "NCT04228640",
+  "title": "Evaluate the Efficacy and Safety of Uthever NMN(Nicotinamide Mononucleotide, a Form of Vitamin B3)",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Aging"
+  ],
+  "intr": [
+   "NMN",
+   "Placebo"
+  ],
+  "n": 66,
+  "start": "2020-12-15",
+  "sponsor": "EffePharm LTD",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT04823260": {
+  "nct": "NCT04823260",
+  "title": "To Evaluate the Efficacy and Safety of NMN as an Anti-ageing Supplement in Middle Aged and Older (40-65 Years) Adults",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Aging"
+  ],
+  "intr": [
+   "Nicotinamide Mononucleotide",
+   "Placebo"
+  ],
+  "n": 90,
+  "start": "2021-05-25",
+  "sponsor": "Abinopharm, Inc",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT06907329": {
+  "nct": "NCT06907329",
+  "title": "The Impact of Nicotinamide Mononucleotide Sustained-release Tablets on Immunosenescence and Metablism in Middle-aged and Elderly Individuals With Metabolic Disorders.",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Immunosenescence",
+   "Metabolism"
+  ],
+  "intr": [
+   "NMN",
+   "Placebo"
+  ],
+  "n": 126,
+  "start": "2025-06-05",
+  "sponsor": "Qing Su",
+  "results": false,
+  "why": [
+   "nicotinamide mononucleotide\u00b7aging"
+  ],
+  "gold": false
+ },
+ "NCT03871972": {
+  "nct": "NCT03871972",
+  "title": "Umbilical Cord Blood Transfusion in Progeria Syndrome",
+  "status": "COMPLETED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Hutchinson-Gilford Progeria Syndrome"
+  ],
+  "intr": [
+   "Umbilical Cord Blood Unit"
+  ],
+  "n": 2,
+  "start": "2019-03-05",
+  "sponsor": "Bundang CHA Hospital",
+  "results": false,
+  "why": [
+   "sirolimus\u00b7progeria Hutchinson-Gilford"
+  ],
+  "gold": true
+ },
+ "NCT02579044": {
+  "nct": "NCT02579044",
+  "title": "Phase I/II Trial of Everolimus in Combination With Lonafarnib in Progeria",
+  "status": "ENROLLING_BY_INVITATION",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Progeria"
+  ],
+  "intr": [
+   "Everolimus and lonafarnib"
+  ],
+  "n": 80,
+  "start": "2015-12",
+  "sponsor": "Boston Children's Hospital",
+  "results": false,
+  "why": [
+   "everolimus\u00b7progeria",
+   "sirolimus\u00b7progeria Hutchinson-Gilford"
+  ],
+  "gold": true
+ },
+ "NCT03016715": {
+  "nct": "NCT03016715",
+  "title": "Using Topical Sirolimus 2% for Patients With Epidermolysis Bullous Simplex (EBS) Study",
+  "status": "UNKNOWN",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Epidermolysis Bullosa Simplex",
+   "Epidermolysis Bullosa Simplex Kobner",
+   "Weber-Cockayne Syndrome"
+  ],
+  "intr": [
+   "Sirolimus 2%",
+   "Vehicle"
+  ],
+  "n": 8,
+  "start": "2016-05",
+  "sponsor": "Premier Specialists, Australia",
+  "results": false,
+  "why": [
+   "sirolimus\u00b7Down syndrome"
+  ],
+  "gold": true
+ },
+ "NCT05144698": {
+  "nct": "NCT05144698",
+  "title": "RAPA-201 Therapy of Solid Tumors",
+  "status": "RECRUITING",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Solid Tumor",
+   "Small Cell and Non-small Cell Lung Cancer",
+   "Head and Neck Cancer",
+   "Squamous Cell Carcinoma of Oral Cavity",
+   "Squamous Cell Carcinoma of Larynx",
+   "Squamous Cell Carcinoma of Nasopharynx",
+   "Squamous Cell Carcinoma of Other Specified Sites of Skin",
+   "Malignant Melanoma",
+   "Esophageal Squamous Cell Carcinoma"
+  ],
+  "intr": [
+   "RAPA-201 Rapamycin Resistant T Cells",
+   "Chemotherapy Prior to RAPA-201 Therapy",
+   "Pembrolizumab (PD-1 Blocking Antibody)"
+  ],
+  "n": 37,
+  "start": "2021-08-01",
+  "sponsor": "Rapa Therapeutics LLC",
+  "results": false,
+  "why": [
+   "sirolimus\u00b7Down syndrome"
+  ],
+  "gold": true
+ },
+ "NCT00819546": {
+  "nct": "NCT00819546",
+  "title": "RAD001 in Combination With PKC412 in Patients With Relapsed, Refractory or Poor Prognosis AML or MDS",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Acute Myeloid Leukemia",
+   "Myelodysplastic Syndrome"
+  ],
+  "intr": [
+   "RAD001",
+   "PKC412"
+  ],
+  "n": 29,
+  "start": "2009-01",
+  "sponsor": "Richard Stone, MD",
+  "results": false,
+  "why": [
+   "sirolimus\u00b7Down syndrome"
+  ],
+  "gold": true
+ },
+ "NCT02766465": {
+  "nct": "NCT02766465",
+  "title": "Bone Marrow Transplantation vs Standard of Care in Patients With Severe Sickle Cell Disease (BMT CTN 1503)",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Sickle Cell Disease"
+  ],
+  "intr": [
+   "Busulfan",
+   "Fludarabine",
+   "r-ATG",
+   "Hematopoietic Cell Transplant",
+   "Tacrolimus",
+   "Methotrexate",
+   "Standard of Care",
+   "Alemtuzumab",
+   "Total Body Irradiation (TBI)",
+   "Sirolimus",
+   "Melphalan",
+   "G-CSF"
+  ],
+  "n": 138,
+  "start": "2017-03-16",
+  "sponsor": "Medical College of Wisconsin",
+  "results": true,
+  "why": [
+   "sirolimus\u00b7Down syndrome"
+  ],
+  "gold": true
+ },
+ "NCT06950385": {
+  "nct": "NCT06950385",
+  "title": "Phase 3 Trial of eRapa in Patients With Familial Adenomatous Polyposis",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Familial Adenomatous Polyposis (FAP)"
+  ],
+  "intr": [
+   "eRapa (encapsulated rapamycin)",
+   "Placebo"
+  ],
+  "n": 168,
+  "start": "2025-07-18",
+  "sponsor": "Rapamycin Holdings Inc.",
+  "results": false,
+  "why": [
+   "sirolimus\u00b7Down syndrome"
+  ],
+  "gold": true
+ },
+ "NCT02960997": {
+  "nct": "NCT02960997",
+  "title": "Using Topical Sirolimus 2% for Patients With Epidermolysis Bullous Simplex (EBS) Study",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Epidermolysis Bullosa Simplex",
+   "Epidermolysis Bullosa Simplex Kobner",
+   "Weber-Cockayne Syndrome"
+  ],
+  "intr": [
+   "Sirolimus, 2%",
+   "Vehicle"
+  ],
+  "n": 8,
+  "start": "2016-05",
+  "sponsor": "Stanford University",
+  "results": true,
+  "why": [
+   "sirolimus\u00b7Down syndrome"
+  ],
+  "gold": true
+ },
+ "NCT07844694": {
+  "nct": "NCT07844694",
+  "title": "Low-Dose Sirolimus for the Treatment of RUNX1 Familial Platelet Disorder",
+  "status": "RECRUITING",
+  "phase": "EARLY_PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Familial Platelet Disorder With Associated Myeloid Malignancy"
+  ],
+  "intr": [
+   "Biospecimen Collection",
+   "Bone Marrow Aspiration",
+   "Bone Marrow Biopsy",
+   "Questionnaire Administration",
+   "Sirolimus"
+  ],
+  "n": 6,
+  "start": "2026-09-30",
+  "sponsor": "OHSU Knight Cancer Institute",
+  "results": false,
+  "why": [
+   "sirolimus\u00b7Down syndrome"
+  ],
+  "gold": true
+ },
+ "NCT02332902": {
+  "nct": "NCT02332902",
+  "title": "Everolimus for Treatment of Disfiguring Cutaneous Lesions in Neurofibromatosis1 CRAD001CUS232T",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Neurofibromatosis 1"
+  ],
+  "intr": [
+   "Everolimus"
+  ],
+  "n": 24,
+  "start": "2015-02",
+  "sponsor": "The University of Texas Health Science Center, Houston",
+  "results": true,
+  "why": [
+   "sirolimus\u00b7Down syndrome"
+  ],
+  "gold": true
+ },
+ "NCT02497820": {
+  "nct": "NCT02497820",
+  "title": "Finding the Best Dose of Aspirin to Prevent Lynch Syndrome Cancers",
+  "status": "NOT_YET_RECRUITING",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Lynch Syndrome I (Site-specific Colonic Cancer)"
+  ],
+  "intr": [
+   "Aspirin"
+  ],
+  "n": 1800,
+  "start": "2016-09",
+  "sponsor": "Tel-Aviv Sourasky Medical Center",
+  "results": false,
+  "why": [
+   "aspirin\u00b7Lynch syndrome"
+  ],
+  "gold": true
+ },
+ "NCT02813824": {
+  "nct": "NCT02813824",
+  "title": "Effect of Chemoprevention by Low-dose Aspirin of New or Recurrent Colorectal Adenomas in Patients With Lynch Syndrome",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Lynch Syndrome"
+  ],
+  "intr": [
+   "Acetylsalicylic acid lysinate 300 mg",
+   "Placebo (for Aspirin 300)",
+   "Acetylsalicylic acid lysinate 100 mg",
+   "Placebo 100 (for Aspirin 100)"
+  ],
+  "n": 852,
+  "start": "2017-11-14",
+  "sponsor": "Assistance Publique - H\u00f4pitaux de Paris",
+  "results": false,
+  "why": [
+   "aspirin\u00b7Lynch syndrome"
+  ],
+  "gold": true
+ },
+ "NCT05411718": {
+  "nct": "NCT05411718",
+  "title": "A Phase IIa Randomized, Double-Blinded Clinical Trial of Naproxen or Aspirin for Cancer Immune Interception in Lynch Syndrome",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "T Cells",
+   "Colorectal Cancer",
+   "Lynch Syndrome"
+  ],
+  "intr": [
+   "Naproxen",
+   "Aspirin"
+  ],
+  "n": 40,
+  "start": "2023-03-21",
+  "sponsor": "M.D. Anderson Cancer Center",
+  "results": false,
+  "why": [
+   "aspirin\u00b7Lynch syndrome"
+  ],
+  "gold": true
+ },
+ "NCT04379999": {
+  "nct": "NCT04379999",
+  "title": "Atorvastatin \u00b1 Aspirin in Lynch Syndrome Syndrome",
+  "status": "COMPLETED",
+  "phase": "EARLY_PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Lynch Syndrome"
+  ],
+  "intr": [
+   "Atorvastatin 20mg",
+   "Atorvastatin 20mg AND Aspirin 325 mg"
+  ],
+  "n": 43,
+  "start": "2018-09-10",
+  "sponsor": "Fox Chase Cancer Center",
+  "results": false,
+  "why": [
+   "aspirin\u00b7Lynch syndrome"
+  ],
+  "gold": true
+ },
+ "NCT02060396": {
+  "nct": "NCT02060396",
+  "title": "Study of Biochemical Markers to Determine the Acetylsalicylic Acid Chemopreventive Effect Through Antiplatelet Action",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Healthy Volunteers"
+  ],
+  "intr": [
+   "Acetylsalicylic acid"
+  ],
+  "n": 24,
+  "start": "2013-04",
+  "sponsor": "Aragon Institute of Health Sciences",
+  "results": false,
+  "why": [
+   "aspirin\u00b7familial adenomatous polyposis"
+  ],
+  "gold": true
+ },
+ "NCT00578396": {
+  "nct": "NCT00578396",
+  "title": "Phase I Biomarker Study of Dietary Grape-derived Low Dose Resveratrol for Colon Cancer Prevention",
+  "status": "WITHDRAWN",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Colon Cancer"
+  ],
+  "intr": [
+   "grapes",
+   "grapes",
+   "grapes"
+  ],
+  "n": 0,
+  "start": "2007-12",
+  "sponsor": "University of California, Irvine",
+  "results": false,
+  "why": [
+   "resveratrol\u00b7cancer prevention"
+  ],
+  "gold": false
+ },
+ "NCT00256334": {
+  "nct": "NCT00256334",
+  "title": "Resveratrol for Patients With Colon Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Colon Cancer",
+   "Cancer"
+  ],
+  "intr": [
+   "Resveratrol"
+  ],
+  "n": 11,
+  "start": "2005-07",
+  "sponsor": "University of California, Irvine",
+  "results": false,
+  "why": [
+   "resveratrol\u00b7cancer prevention"
+  ],
+  "gold": false
+ },
+ "NCT01375959": {
+  "nct": "NCT01375959",
+  "title": "Pilot Study of Resveratrol in Older Adults With Impaired Glucose Tolerance",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Impaired Glucose Tolerance"
+  ],
+  "intr": [
+   "resveratrol",
+   "Placebo"
+  ],
+  "n": 38,
+  "start": "2011-04",
+  "sponsor": "Albert Einstein College of Medicine",
+  "results": true,
+  "why": [
+   "resveratrol\u00b7cancer prevention"
+  ],
+  "gold": false
+ },
+ "NCT00087386": {
+  "nct": "NCT00087386",
+  "title": "Tanespimycin in Treating Patients With Stage III-IV Melanoma",
+  "status": "TERMINATED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Recurrent Melanoma",
+   "Stage III Melanoma",
+   "Stage IV Melanoma"
+  ],
+  "intr": [
+   "tanespimycin",
+   "laboratory biomarker analysis"
+  ],
+  "n": 50,
+  "start": "2004-06",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00096005": {
+  "nct": "NCT00096005",
+  "title": "Tanespimycin and Bortezomib in Treating Patients With Advanced Solid Tumors or Lymphomas",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Adult Grade III Lymphomatoid Granulomatosis",
+   "AIDS-related Peripheral/Systemic Lymphoma",
+   "Anaplastic Large Cell Lymphoma",
+   "Angioimmunoblastic T-cell Lymphoma",
+   "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue",
+   "Nodal Marginal Zone B-cell Lymphoma",
+   "Recurrent Adult Burkitt Lymphoma",
+   "Recurrent Adult Diffuse Large Cell Lymphoma",
+   "Recurrent Adult Diffuse Mixed Cell Lymphoma",
+   "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Recurrent Adult Grade III Lymphomatoid Granulomatosis",
+   "Recurrent Adult Hodgkin Lymphoma",
+   "Recurrent Adult Immunoblastic Large Cell Lymphoma",
+   "Recurrent Adult Lymphoblastic Lymphoma",
+   "Recurrent Adult T-cell Leukemia/Lymphoma",
+   "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Recurrent Grade 1 Follicular Lymphoma",
+   "Recurrent Grade 2 Follicular Lymphoma",
+   "Recurrent Grade 3 Follicular Lymphoma",
+   "Recurrent Mantle Cell Lymphoma",
+   "Recurrent Marginal Zone Lymphoma",
+   "Recurrent Mycosis Fungoides/Sezary Syndrome",
+   "Recurrent Small Lymphocytic Lymphoma",
+   "Stage III Adult Burkitt Lymphoma",
+   "Stage III Adult Diffuse Large Cell Lymphoma",
+   "Stage III Adult Diffuse Mixed Cell Lymphoma",
+   "Stage III Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Stage III Adult Hodgkin Lymphoma",
+   "Stage III Adult Immunoblastic Large Cell Lymphoma",
+   "Stage III Adult Lymphoblastic Lymphoma",
+   "Stage III Adult T-cell Leukemia/Lymphoma",
+   "Stage III Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Stage III Grade 1 Follicular Lymphoma",
+   "Stage III Grade 2 Follicular Lymphoma",
+   "Stage III Grade 3 Follicular Lymphoma",
+   "Stage III Mantle Cell Lymphoma",
+   "Stage III Marginal Zone Lymphoma",
+   "Stage III Mycosis Fungoides/Sezary Syndrome",
+   "Stage III Small Lymphocytic Lymphoma",
+   "Stage IV Adult Burkitt Lymphoma",
+   "Stage IV Adult Diffuse Large Cell Lymphoma",
+   "Stage IV Adult Diffuse Mixed Cell Lymphoma",
+   "Stage IV Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Stage IV Adult Hodgkin Lymphoma",
+   "Stage IV Adult Immunoblastic Large Cell Lymphoma",
+   "Stage IV Adult Lymphoblastic Lymphoma",
+   "Stage IV Adult T-cell Leukemia/Lymphoma",
+   "Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Stage IV Grade 1 Follicular Lymphoma",
+   "Stage IV Grade 2 Follicular Lymphoma",
+   "Stage IV Grade 3 Follicular Lymphoma",
+   "Stage IV Mantle Cell Lymphoma",
+   "Stage IV Marginal Zone Lymphoma",
+   "Stage IV Mycosis Fungoides/Sezary Syndrome",
+   "Stage IV Small Lymphocytic Lymphoma",
+   "Unspecified Adult Solid Tumor, Protocol Specific",
+   "Waldenstr\u00f6m Macroglobulinemia"
+  ],
+  "intr": [
+   "tanespimycin",
+   "bortezomib",
+   "laboratory biomarker analysis"
+  ],
+  "n": 36,
+  "start": "2004-11",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT01427946": {
+  "nct": "NCT01427946",
+  "title": "Phase 1b/2 Study of Retaspimycin HCl (IPI-504) in Combination With Everolimus in KRAS Mutant Non-small Cell Lung Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Non-small Cell Lung Cancer"
+  ],
+  "intr": [
+   "IPI-504",
+   "Everolimus"
+  ],
+  "n": 47,
+  "start": "2011-07",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00132015": {
+  "nct": "NCT00132015",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Systemic Mastocytosis",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Chronic Myeloproliferative Disorders",
+   "Leukemia",
+   "Lymphoma",
+   "Nonneoplastic Condition",
+   "Precancerous Condition"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": 37,
+  "start": "2006-05",
+  "sponsor": "National Institutes of Health Clinical Center (CC)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00724425": {
+  "nct": "NCT00724425",
+  "title": "A Phase 1 Dose Escalation Study of IPI-493",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Advanced Malignancies"
+  ],
+  "intr": [
+   "IPI-493"
+  ],
+  "n": 53,
+  "start": "2008-07",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00319930": {
+  "nct": "NCT00319930",
+  "title": "Phase 1, Dose-Escalation, Pharmacodynamic Study of IV CNF1010 in ZAP-70 Positive CLL",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Chronic Lymphocytic Leukemia"
+  ],
+  "intr": [
+   "CNF1010 (17-AAG)"
+  ],
+  "n": 10,
+  "start": "2005-05",
+  "sponsor": "Biogen",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00004065": {
+  "nct": "NCT00004065",
+  "title": "Chemotherapy in Treating Patients With Refractory Advanced Solid Tumors or Hematologic Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Bladder Cancer",
+   "Breast Cancer",
+   "Colorectal Cancer",
+   "Gastric Cancer",
+   "Head and Neck Cancer",
+   "Kidney Cancer",
+   "Leukemia",
+   "Lung Cancer",
+   "Melanoma (Skin)",
+   "Ovarian Cancer",
+   "Prostate Cancer",
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": null,
+  "start": "1999-07",
+  "sponsor": "Memorial Sloan Kettering Cancer Center",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00817362": {
+  "nct": "NCT00817362",
+  "title": "Efficacy and Safety of IPI-504 With Trastuzumab Pretreated, Locally Advanced or Metastatic HER2 Positive Breast Cancer",
+  "status": "TERMINATED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Breast Cancer",
+   "HER2 Positive Breast Cancer",
+   "Metastatic Breast Cancer",
+   "Cancer of the Breast"
+  ],
+  "intr": [
+   "IPI-504",
+   "Trastuzumab"
+  ],
+  "n": 29,
+  "start": "2009-03",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00113204": {
+  "nct": "NCT00113204",
+  "title": "Safety Study of IPI-504 in Patients With Relapsed and Relapsed Refractory Multiple Myeloma",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Multiple Myeloma"
+  ],
+  "intr": [
+   "IPI-504"
+  ],
+  "n": 18,
+  "start": "2005-06",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00606814": {
+  "nct": "NCT00606814",
+  "title": "Phase I Study of IPI-504 and Docetaxel in Patients With Advanced Solid Tumors",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Solid Tumors"
+  ],
+  "intr": [
+   "IPI-504, docetaxel"
+  ],
+  "n": 60,
+  "start": "2007-12",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00096109": {
+  "nct": "NCT00096109",
+  "title": "Tanespimycin in Treating Women With Refractory Locally Advanced or Metastatic Breast Cancer",
+  "status": "TERMINATED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Recurrent Breast Cancer",
+   "Stage IIIB Breast Cancer",
+   "Stage IIIC Breast Cancer",
+   "Stage IV Breast Cancer"
+  ],
+  "intr": [
+   "tanespimycin",
+   "laboratory biomarker analysis"
+  ],
+  "n": 11,
+  "start": "2005-09",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": true,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00276302": {
+  "nct": "NCT00276302",
+  "title": "Safety Study of IPI-504 in Patients With Gastrointestinal Stromal Tumors (GIST) or Soft Tissue Sarcomas (STS)",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Gastrointestinal Stromal Tumors",
+   "Soft Tissue Sarcomas"
+  ],
+  "intr": [
+   "IPI-504"
+  ],
+  "n": 63,
+  "start": "2005-12",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00093821": {
+  "nct": "NCT00093821",
+  "title": "Tanespimycin in Treating Young Patients With Recurrent or Refractory Leukemia or Solid Tumors",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Childhood Chronic Myelogenous Leukemia",
+   "Childhood Desmoplastic Small Round Cell Tumor",
+   "Disseminated Neuroblastoma",
+   "Metastatic Childhood Soft Tissue Sarcoma",
+   "Metastatic Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor",
+   "Metastatic Osteosarcoma",
+   "Previously Treated Childhood Rhabdomyosarcoma",
+   "Recurrent Childhood Acute Lymphoblastic Leukemia",
+   "Recurrent Childhood Acute Myeloid Leukemia",
+   "Recurrent Childhood Rhabdomyosarcoma",
+   "Recurrent Childhood Soft Tissue Sarcoma",
+   "Recurrent Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor",
+   "Recurrent Neuroblastoma",
+   "Recurrent Osteosarcoma"
+  ],
+  "intr": [
+   "tanespimycin",
+   "pharmacological study",
+   "laboratory biomarker analysis"
+  ],
+  "n": 70,
+  "start": "2004-09",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00303797": {
+  "nct": "NCT00303797",
+  "title": "Sorafenib and Bortezomib in Treating Patients With Advanced Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Refractory Chronic Lymphocytic Leukemia",
+   "Refractory Multiple Myeloma",
+   "Stage III Multiple Myeloma",
+   "Stage IV Chronic Lymphocytic Leukemia",
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "17-N-allylamino-17-demethoxygeldanamycin/bortezomib",
+   "sorafenib tosylate"
+  ],
+  "n": 50,
+  "start": "2005-12",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00019708": {
+  "nct": "NCT00019708",
+  "title": "Geldanamycin Analogue in Treating Patients With Advanced Solid Tumors or Non-Hodgkin's Lymphoma",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue",
+   "Nodal Marginal Zone B-cell Lymphoma",
+   "Non-Hodgkin Lymphoma",
+   "Recurrent Adult Burkitt Lymphoma",
+   "Recurrent Adult Diffuse Large Cell Lymphoma",
+   "Recurrent Adult Diffuse Mixed Cell Lymphoma",
+   "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Recurrent Adult Immunoblastic Large Cell Lymphoma",
+   "Recurrent Adult Lymphoblastic Lymphoma",
+   "Recurrent Grade 1 Follicular Lymphoma",
+   "Recurrent Grade 2 Follicular Lymphoma",
+   "Recurrent Grade 3 Follicular Lymphoma",
+   "Recurrent Marginal Zone Lymphoma",
+   "Recurrent Small Lymphocytic Lymphoma",
+   "Splenic Marginal Zone Lymphoma",
+   "Stage IV Adult Burkitt Lymphoma",
+   "Stage IV Adult Diffuse Large Cell Lymphoma",
+   "Stage IV Adult Diffuse Mixed Cell Lymphoma",
+   "Stage IV Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Stage IV Adult Immunoblastic Large Cell Lymphoma",
+   "Stage IV Adult Lymphoblastic Lymphoma",
+   "Stage IV Grade 1 Follicular Lymphoma",
+   "Stage IV Grade 2 Follicular Lymphoma",
+   "Stage IV Grade 3 Follicular Lymphoma",
+   "Stage IV Mantle Cell Lymphoma",
+   "Stage IV Marginal Zone Lymphoma",
+   "Stage IV Small Lymphocytic Lymphoma",
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": 45,
+  "start": "1999-06",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00431015": {
+  "nct": "NCT00431015",
+  "title": "Phase I/II Safety Study of IPI-504 in Relapsed/Refractory Stage IIIb, or Stage IV Non-small Cell Lung Cancer (NSCLC)",
+  "status": "COMPLETED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Lung Cancer"
+  ],
+  "intr": [
+   "IPI-504"
+  ],
+  "n": 88,
+  "start": "2007-01",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00969917": {
+  "nct": "NCT00969917",
+  "title": "Study Evaluating the Efficacy and Safety of IPI 504 in Patients With Advanced Dedifferentiated Liposarcoma",
+  "status": "WITHDRAWN",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Dedifferentiated Liposarcoma"
+  ],
+  "intr": [
+   "IPI-504"
+  ],
+  "n": 0,
+  "start": "2010-01",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00118248": {
+  "nct": "NCT00118248",
+  "title": "Tanespimycin in Treating Patients With Inoperable Locoregionally Advanced or Metastatic Thyroid Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Recurrent Thyroid Cancer",
+   "Stage IV Follicular Thyroid Cancer",
+   "Stage IV Papillary Thyroid Cancer",
+   "Thyroid Gland Medullary Carcinoma"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": 41,
+  "start": "2004-12",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": true,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00354185": {
+  "nct": "NCT00354185",
+  "title": "PXD101 and 17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Metastatic or Unresectable Solid Tumors or Lymphoma",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Adult Nasal Type Extranodal NK/T-cell Lymphoma",
+   "Anaplastic Large Cell Lymphoma",
+   "Angioimmunoblastic T-cell Lymphoma",
+   "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue",
+   "Intraocular Lymphoma",
+   "Nodal Marginal Zone B-cell Lymphoma",
+   "Post-transplant Lymphoproliferative Disorder",
+   "Recurrent Adult Burkitt Lymphoma",
+   "Recurrent Adult Diffuse Large Cell Lymphoma",
+   "Recurrent Adult Diffuse Mixed Cell Lymphoma",
+   "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Recurrent Adult Grade III Lymphomatoid Granulomatosis",
+   "Recurrent Adult Hodgkin Lymphoma",
+   "Recurrent Adult Immunoblastic Large Cell Lymphoma",
+   "Recurrent Adult Lymphoblastic Lymphoma",
+   "Recurrent Adult T-cell Leukemia/Lymphoma",
+   "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Recurrent Grade 1 Follicular Lymphoma",
+   "Recurrent Grade 2 Follicular Lymphoma",
+   "Recurrent Grade 3 Follicular Lymphoma",
+   "Recurrent Mantle Cell Lymphoma",
+   "Recurrent Marginal Zone Lymphoma",
+   "Recurrent Mycosis Fungoides/Sezary Syndrome",
+   "Recurrent Small Lymphocytic Lymphoma",
+   "Small Intestine Lymphoma",
+   "Splenic Marginal Zone Lymphoma",
+   "Stage III Adult Burkitt Lymphoma",
+   "Stage III Adult Diffuse Large Cell Lymphoma",
+   "Stage III Adult Diffuse Mixed Cell Lymphoma",
+   "Stage III Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Stage III Adult Hodgkin Lymphoma",
+   "Stage III Adult Immunoblastic Large Cell Lymphoma",
+   "Stage III Adult Lymphoblastic Lymphoma",
+   "Stage III Adult T-cell Leukemia/Lymphoma",
+   "Stage III Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Stage III Grade 1 Follicular Lymphoma",
+   "Stage III Grade 2 Follicular Lymphoma",
+   "Stage III Grade 3 Follicular Lymphoma",
+   "Stage III Mantle Cell Lymphoma",
+   "Stage III Marginal Zone Lymphoma",
+   "Stage III Mycosis Fungoides/Sezary Syndrome",
+   "Stage III Small Lymphocytic Lymphoma",
+   "Stage IV Adult Burkitt Lymphoma",
+   "Stage IV Adult Diffuse Large Cell Lymphoma",
+   "Stage IV Adult Diffuse Mixed Cell Lymphoma",
+   "Stage IV Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Stage IV Adult Hodgkin Lymphoma",
+   "Stage IV Adult Immunoblastic Large Cell Lymphoma",
+   "Stage IV Adult Lymphoblastic Lymphoma",
+   "Stage IV Adult T-cell Leukemia/Lymphoma",
+   "Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Stage IV Grade 1 Follicular Lymphoma",
+   "Stage IV Grade 2 Follicular Lymphoma",
+   "Stage IV Grade 3 Follicular Lymphoma",
+   "Stage IV Mantle Cell Lymphoma",
+   "Stage IV Marginal Zone Lymphoma",
+   "Stage IV Mycosis Fungoides/Sezary Syndrome",
+   "Stage IV Small Lymphocytic Lymphoma",
+   "Unspecified Adult Solid Tumor, Protocol Specific",
+   "Waldenstr\u00f6m Macroglobulinemia"
+  ],
+  "intr": [
+   "tanespimycin",
+   "belinostat",
+   "laboratory biomarker analysis",
+   "pharmacological study"
+  ],
+  "n": 36,
+  "start": "2006-05",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00118092": {
+  "nct": "NCT00118092",
+  "title": "17-AAG in Treating Patients With Metastatic Prostate Cancer That Did Not Respond to Previous Hormone Therapy",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Adenocarcinoma of the Prostate",
+   "Recurrent Prostate Cancer",
+   "Stage IV Prostate Cancer"
+  ],
+  "intr": [
+   "tanespimycin",
+   "laboratory biomarker analysis"
+  ],
+  "n": 17,
+  "start": "2005-01",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": true,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00082966": {
+  "nct": "NCT00082966",
+  "title": "Bortezomib in Treating Patients With Relapsed or Refractory Hodgkin's Lymphoma",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Adult Lymphocyte Depletion Hodgkin Lymphoma",
+   "Adult Mixed Cellularity Hodgkin Lymphoma",
+   "Adult Nodular Sclerosis Hodgkin Lymphoma",
+   "Recurrent Adult Hodgkin Lymphoma"
+  ],
+  "intr": [
+   "17-N-allylamino-17-demethoxygeldanamycin/bortezomib"
+  ],
+  "n": 43,
+  "start": "2004-03",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00627419": {
+  "nct": "NCT00627419",
+  "title": "A Study Evaluating the Safety and Antitumor Activity of IPI-504, in Patients With Metastatic Melanoma",
+  "status": "TERMINATED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Metastatic Melanoma"
+  ],
+  "intr": [
+   "IPI-504"
+  ],
+  "n": 1,
+  "start": "2008-02",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00003969": {
+  "nct": "NCT00003969",
+  "title": "Geldanamycin Analogue in Treating Patients With Advanced Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": null,
+  "start": "1998-08",
+  "sponsor": "Cancer Research UK",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00004241": {
+  "nct": "NCT00004241",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Advanced Epithelial Cancer, Malignant Lymphoma, or Sarcoma",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "AIDS-related Peripheral/Systemic Lymphoma",
+   "AIDS-related Primary CNS Lymphoma",
+   "Anaplastic Large Cell Lymphoma",
+   "Angioimmunoblastic T-cell Lymphoma",
+   "Chondrosarcoma",
+   "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue",
+   "Intraocular Lymphoma",
+   "Metastatic Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor",
+   "Metastatic Osteosarcoma",
+   "Nodal Marginal Zone B-cell Lymphoma",
+   "Ovarian Sarcoma",
+   "Primary Central Nervous System Non-Hodgkin Lymphoma",
+   "Recurrent Adult Burkitt Lymphoma",
+   "Recurrent Adult Diffuse Large Cell Lymphoma",
+   "Recurrent Adult Diffuse Mixed Cell Lymphoma",
+   "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Recurrent Adult Hodgkin Lymphoma",
+   "Recurrent Adult Immunoblastic Large Cell Lymphoma",
+   "Recurrent Adult Lymphoblastic Lymphoma",
+   "Recurrent Adult Soft Tissue Sarcoma",
+   "Recurrent Adult T-cell Leukemia/Lymphoma",
+   "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Recurrent Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor",
+   "Recurrent Grade 1 Follicular Lymphoma",
+   "Recurrent Grade 2 Follicular Lymphoma",
+   "Recurrent Grade 3 Follicular Lymphoma",
+   "Recurrent Mantle Cell Lymphoma",
+   "Recurrent Marginal Zone Lymphoma",
+   "Recurrent Mycosis Fungoides/Sezary Syndrome",
+   "Recurrent Osteosarcoma",
+   "Recurrent Small Lymphocytic Lymphoma",
+   "Recurrent Uterine Sarcoma",
+   "Small Intestine Lymphoma",
+   "Splenic Marginal Zone Lymphoma",
+   "Stage IV Adult Burkitt Lymphoma",
+   "Stage IV Adult Diffuse Large Cell Lymphoma",
+   "Stage IV Adult Diffuse Mixed Cell Lymphoma",
+   "Stage IV Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Stage IV Adult Hodgkin Lymphoma",
+   "Stage IV Adult Immunoblastic Large Cell Lymphoma",
+   "Stage IV Adult Lymphoblastic Lymphoma",
+   "Stage IV Adult Soft Tissue Sarcoma",
+   "Stage IV Adult T-cell Leukemia/Lymphoma",
+   "Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Stage IV Grade 1 Follicular Lymphoma",
+   "Stage IV Grade 2 Follicular Lymphoma",
+   "Stage IV Grade 3 Follicular Lymphoma",
+   "Stage IV Mantle Cell Lymphoma",
+   "Stage IV Marginal Zone Lymphoma",
+   "Stage IV Mycosis Fungoides/Sezary Syndrome",
+   "Stage IV Small Lymphocytic Lymphoma",
+   "Stage IV Uterine Sarcoma",
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "tanespimycin",
+   "pharmacological study"
+  ],
+  "n": 60,
+  "start": "1999-10",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00820768": {
+  "nct": "NCT00820768",
+  "title": "A Trial of ABI-010 & ABI-007 in Patients With Advanced Non-Hematologic Malignancies",
+  "status": "WITHDRAWN",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Solid Tumor"
+  ],
+  "intr": [
+   "ABI-010"
+  ],
+  "n": 0,
+  "start": "2012-04-01",
+  "sponsor": "Celgene",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT01228435": {
+  "nct": "NCT01228435",
+  "title": "IPI-504 in NSCLC Patients With ALK Translocations",
+  "status": "TERMINATED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Lung Cancer",
+   "Stage IIIb Lung Cancer",
+   "Stage IV Lung Cancer"
+  ],
+  "intr": [
+   "IPI-504"
+  ],
+  "n": 3,
+  "start": "2010-10",
+  "sponsor": "Massachusetts General Hospital",
+  "results": true,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT01362400": {
+  "nct": "NCT01362400",
+  "title": "A Double-blind Study Evaluating IPI-504 and Docetaxel in Patients With Non-Small Cell Lung Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Non Small Cell Lung Cancer"
+  ],
+  "intr": [
+   "IPI 504 plus Docetaxel",
+   "Placebo plus Docetaxel"
+  ],
+  "n": 226,
+  "start": "2011-05",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00514371": {
+  "nct": "NCT00514371",
+  "title": "A Study of Tanespimycin (KOS-953) in Patients With Relapsed-refractory Multiple Myeloma",
+  "status": "COMPLETED",
+  "phase": "PHASE2/PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Multiple Myeloma"
+  ],
+  "intr": [
+   "tanespimycin",
+   "Bortezomib"
+  ],
+  "n": 22,
+  "start": "2007-08",
+  "sponsor": "Bristol-Myers Squibb",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00079404": {
+  "nct": "NCT00079404",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin in Treating Young Patients With Relapsed or Refractory Solid Tumors or Leukemia",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Acute Undifferentiated Leukemia",
+   "Recurrent Childhood Acute Lymphoblastic Leukemia",
+   "Recurrent Childhood Acute Myeloid Leukemia",
+   "Secondary Acute Myeloid Leukemia",
+   "Unspecified Childhood Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": 36,
+  "start": "2004-03",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00087217": {
+  "nct": "NCT00087217",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin and Paclitaxel in Treating Patients With Metastatic or Unresectable Solid Tumor",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "tanespimycin",
+   "paclitaxel",
+   "laboratory biomarker analysis",
+   "pharmacological study"
+  ],
+  "n": 35,
+  "start": "2004-05",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00117988": {
+  "nct": "NCT00117988",
+  "title": "17-AAG in Treating Patients With Relapsed or Refractory Anaplastic Large Cell Lymphoma, Mantle Cell Lymphoma, or Hodgkin's Lymphoma",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Anaplastic Large Cell Lymphoma",
+   "Recurrent Adult Hodgkin Lymphoma",
+   "Recurrent Mantle Cell Lymphoma"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": 22,
+  "start": "2005-02",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": true,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00100997": {
+  "nct": "NCT00100997",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Chronic Phase Chronic Myelogenous Leukemia That Did Not Respond to Imatinib Mesylate",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Leukemia"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": null,
+  "start": "2004-10",
+  "sponsor": "Jonsson Comprehensive Cancer Center",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00088374": {
+  "nct": "NCT00088374",
+  "title": "17AAG to Treat Kidney Tumors in Von Hippel-Lindau Disease",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Hippel-Lindau Disease",
+   "Kidney Cancer"
+  ],
+  "intr": [
+   "17 allylamino-17-demethoxygeldanamycin",
+   "18 FDG (Fludeoxyglucose 18F)",
+   "[15-O] H2O",
+   "EPL diluent"
+  ],
+  "n": 9,
+  "start": "2004-07",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": true,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00093496": {
+  "nct": "NCT00093496",
+  "title": "Gemcitabine Hydrochloride and Tanespimycin in Treating Patients With Recurrent Advanced Ovarian Epithelial or Peritoneal Cavity Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Primary Peritoneal Cavity Cancer",
+   "Recurrent Ovarian Epithelial Cancer",
+   "Stage III Ovarian Epithelial Cancer",
+   "Stage IV Ovarian Epithelial Cancer"
+  ],
+  "intr": [
+   "gemcitabine hydrochloride",
+   "tanespimycin"
+  ],
+  "n": 29,
+  "start": "2007-10",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": true,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00119236": {
+  "nct": "NCT00119236",
+  "title": "17-AAG and Irinotecan in Treating Patients With Locally Advanced or Metastatic Solid Tumors",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "tanespimycin",
+   "irinotecan hydrochloride"
+  ],
+  "n": 48,
+  "start": "2005-05",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00688766": {
+  "nct": "NCT00688766",
+  "title": "Study Evaluating IPI-504 in Patients With Gastrointestinal Stromal Tumors (GIST) Following Failure of at Least Imatinib and Sunitinib",
+  "status": "TERMINATED",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Gastrointestinal Stromal Tumors"
+  ],
+  "intr": [
+   "retaspimycin hydrochloride (IPI-504)",
+   "placebo",
+   "Best supportive care"
+  ],
+  "n": 47,
+  "start": "2008-08",
+  "sponsor": "Infinity Pharmaceuticals, Inc.",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00104897": {
+  "nct": "NCT00104897",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Metastatic Malignant Melanoma",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Melanoma (Skin)"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": 25,
+  "start": "2005-03",
+  "sponsor": "Cancer Research UK",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00546780": {
+  "nct": "NCT00546780",
+  "title": "A Study of Tanespimycin (KOS-953) in Patients With Multiple Myeloma in First Relapse",
+  "status": "COMPLETED",
+  "phase": "PHASE3",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Multiple Myeloma"
+  ],
+  "intr": [
+   "Tanespimycin",
+   "Bortezomib"
+  ],
+  "n": 31,
+  "start": "2008-02",
+  "sponsor": "Bristol-Myers Squibb",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00004075": {
+  "nct": "NCT00004075",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Solid Tumors That Cannot Be Removed By Surgery",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Lymphoma",
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": null,
+  "start": "1999-08",
+  "sponsor": "Mayo Clinic",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00773344": {
+  "nct": "NCT00773344",
+  "title": "Clinical Trial of the Combination of Trastuzumab (Herceptin) and Tanespimycin in Patients With Solid Tumors and Her2 Positive Metastatic Breast Cancer That Have Previously Failed Herceptin",
+  "status": "COMPLETED",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Solid Tumors",
+   "Breast Cancer"
+  ],
+  "intr": [
+   "Tanespimycin"
+  ],
+  "n": 25,
+  "start": "2005-12",
+  "sponsor": "Bristol-Myers Squibb",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00577889": {
+  "nct": "NCT00577889",
+  "title": "Gemcitabine Hydrochloride and Tanespimycin in Treating Patients With Stage IV Pancreatic Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Adenocarcinoma of the Pancreas",
+   "Recurrent Pancreatic Cancer",
+   "Stage IV Pancreatic Cancer"
+  ],
+  "intr": [
+   "gemcitabine hydrochloride",
+   "tanespimycin"
+  ],
+  "n": 21,
+  "start": "2008-03",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": true,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00098423": {
+  "nct": "NCT00098423",
+  "title": "Tanespimycin and Cytarabine in Treating Patients With Relapsed or Refractory Acute Myeloid Leukemia, Acute Lymphoblastic Leukemia, Chronic Myelogenous Leukemia, Chronic Myelomonocytic Leukemia, or Myelodysplastic Syndromes",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Accelerated Phase Chronic Myelogenous Leukemia",
+   "Adult Acute Basophilic Leukemia",
+   "Adult Acute Eosinophilic Leukemia",
+   "Adult Acute Megakaryoblastic Leukemia (M7)",
+   "Adult Acute Minimally Differentiated Myeloid Leukemia (M0)",
+   "Adult Acute Monoblastic Leukemia (M5a)",
+   "Adult Acute Monocytic Leukemia (M5b)",
+   "Adult Acute Myeloblastic Leukemia With Maturation (M2)",
+   "Adult Acute Myeloblastic Leukemia Without Maturation (M1)",
+   "Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities",
+   "Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)",
+   "Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)",
+   "Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)",
+   "Adult Acute Myelomonocytic Leukemia (M4)",
+   "Adult Erythroleukemia (M6a)",
+   "Adult Pure Erythroid Leukemia (M6b)",
+   "Blastic Phase Chronic Myelogenous Leukemia",
+   "Chronic Myelomonocytic Leukemia",
+   "de Novo Myelodysplastic Syndromes",
+   "Previously Treated Myelodysplastic Syndromes",
+   "Recurrent Adult Acute Lymphoblastic Leukemia",
+   "Recurrent Adult Acute Myeloid Leukemia",
+   "Refractory Anemia With Excess Blasts in Transformation",
+   "Relapsing Chronic Myelogenous Leukemia",
+   "Secondary Acute Myeloid Leukemia",
+   "Secondary Myelodysplastic Syndromes"
+  ],
+  "intr": [
+   "tanespimycin",
+   "cytarabine"
+  ],
+  "n": 42,
+  "start": "2004-11",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00779428": {
+  "nct": "NCT00779428",
+  "title": "Clinical Trial of Continuing Treatment for Patients Who Have Participated on a Prior Protocol Investigating Tanespimycin",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Advanced Malignancies"
+  ],
+  "intr": [
+   "Tanespimycin"
+  ],
+  "n": 6,
+  "start": "2006-07",
+  "sponsor": "Bristol-Myers Squibb",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00103272": {
+  "nct": "NCT00103272",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin and Bortezomib in Treating Patients With Relapsed or Refractory Hematologic Cancer",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Adult Acute Basophilic Leukemia",
+   "Adult Acute Eosinophilic Leukemia",
+   "Adult Acute Megakaryoblastic Leukemia (M7)",
+   "Adult Acute Minimally Differentiated Myeloid Leukemia (M0)",
+   "Adult Acute Monoblastic Leukemia (M5a)",
+   "Adult Acute Monocytic Leukemia (M5b)",
+   "Adult Acute Myeloblastic Leukemia With Maturation (M2)",
+   "Adult Acute Myeloblastic Leukemia Without Maturation (M1)",
+   "Adult Acute Myeloid Leukemia With 11q23 (MLL) Abnormalities",
+   "Adult Acute Myeloid Leukemia With Inv(16)(p13;q22)",
+   "Adult Acute Myeloid Leukemia With t(16;16)(p13;q22)",
+   "Adult Acute Myeloid Leukemia With t(8;21)(q22;q22)",
+   "Adult Acute Myelomonocytic Leukemia (M4)",
+   "Adult Erythroleukemia (M6a)",
+   "Adult Pure Erythroid Leukemia (M6b)",
+   "Anaplastic Large Cell Lymphoma",
+   "Angioimmunoblastic T-cell Lymphoma",
+   "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue",
+   "Nodal Marginal Zone B-cell Lymphoma",
+   "Recurrent Adult Acute Lymphoblastic Leukemia",
+   "Recurrent Adult Acute Myeloid Leukemia",
+   "Recurrent Adult Diffuse Large Cell Lymphoma",
+   "Recurrent Adult T-cell Leukemia/Lymphoma",
+   "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Recurrent Grade 1 Follicular Lymphoma",
+   "Recurrent Grade 2 Follicular Lymphoma",
+   "Recurrent Grade 3 Follicular Lymphoma",
+   "Recurrent Mantle Cell Lymphoma",
+   "Recurrent Marginal Zone Lymphoma",
+   "Recurrent Mycosis Fungoides/Sezary Syndrome",
+   "Recurrent Small Lymphocytic Lymphoma",
+   "Refractory Chronic Lymphocytic Leukemia",
+   "Small Intestine Lymphoma",
+   "Splenic Marginal Zone Lymphoma",
+   "Waldenstr\u00f6m Macroglobulinemia"
+  ],
+  "intr": [
+   "tanespimycin",
+   "bortezomib"
+  ],
+  "n": 74,
+  "start": "2005-04",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00047047": {
+  "nct": "NCT00047047",
+  "title": "Tanespimycin, Gemcitabine Hydrochloride, and Cisplatin in Treating Patients With Advanced Solid Tumors",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "gemcitabine hydrochloride",
+   "tanespimycin",
+   "cisplatin",
+   "laboratory biomarker analysis"
+  ],
+  "n": 78,
+  "start": "2002-08",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00098488": {
+  "nct": "NCT00098488",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin With or Without Rituximab in Treating Patients With Relapsed B-Cell Chronic Lymphocytic Leukemia or Prolymphocytic Leukemia",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "B-cell Chronic Lymphocytic Leukemia",
+   "Prolymphocytic Leukemia",
+   "Refractory Chronic Lymphocytic Leukemia"
+  ],
+  "intr": [
+   "tanespimycin",
+   "rituximab"
+  ],
+  "n": 30,
+  "start": "2005-04",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00066326": {
+  "nct": "NCT00066326",
+  "title": "Imatinib Mesylate and 17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Chronic Myelogenous Leukemia",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Leukemia"
+  ],
+  "intr": [
+   "imatinib mesylate",
+   "tanespimycin"
+  ],
+  "n": null,
+  "start": "2003-06",
+  "sponsor": "Barbara Ann Karmanos Cancer Institute",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00121264": {
+  "nct": "NCT00121264",
+  "title": "17-AAG and Sorafenib in Treating Patients With Unresectable or Metastatic Solid Tumors",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "sorafenib tosylate",
+   "tanespimycin",
+   "laboratory biomarker analysis",
+   "pharmacological study",
+   "magnetic resonance imaging"
+  ],
+  "n": 54,
+  "start": "2005-03",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00093405": {
+  "nct": "NCT00093405",
+  "title": "17-N-Allylamino-17-Demethoxygeldanamycin in Treating Patients With Metastatic Kidney Cancer",
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Kidney Cancer"
+  ],
+  "intr": [
+   "tanespimycin"
+  ],
+  "n": null,
+  "start": "2004-08",
+  "sponsor": "Memorial Sloan Kettering Cancer Center",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00627627": {
+  "nct": "NCT00627627",
+  "title": "A Study to Evaluate the Antitumor Activity and Safety of IPI-504 in Patients With Advanced Breast Cancer",
+  "status": "WITHDRAWN",
+  "phase": "PHASE1/PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Breast Cancer"
+  ],
+  "intr": [
+   "IPI-504"
+  ],
+  "n": 56,
+  "start": "2008-04",
+  "sponsor": "MedImmune LLC",
+  "results": false,
+  "why": [
+   "tanespimycin"
+  ],
+  "gold": false
+ },
+ "NCT01126502": {
+  "nct": "NCT01126502",
+  "title": "Alvespimycin Hydrochloride in Treating Patients With Relapsed Chronic Lymphocytic Leukemia, Small Lymphocytic Lymphoma, or B-Cell Prolymphocytic Leukemia",
+  "status": "TERMINATED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "B-cell Chronic Lymphocytic Leukemia",
+   "Prolymphocytic Leukemia",
+   "Recurrent Small Lymphocytic Lymphoma",
+   "Refractory Chronic Lymphocytic Leukemia"
+  ],
+  "intr": [
+   "alvespimycin hydrochloride",
+   "diagnostic laboratory biomarker analysis",
+   "pharmacogenomic studies",
+   "pharmacological study"
+  ],
+  "n": 30,
+  "start": "2010-05",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "alvespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00780000": {
+  "nct": "NCT00780000",
+  "title": "Clinical Trial of Intravenous Alvespimycin in Patients With Her2 Positive Breast Cancer",
+  "status": "TERMINATED",
+  "phase": "PHASE2",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Breast Cancer"
+  ],
+  "intr": [
+   "Alvespimycin"
+  ],
+  "n": 4,
+  "start": "2008-04",
+  "sponsor": "Bristol-Myers Squibb",
+  "results": false,
+  "why": [
+   "alvespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00089271": {
+  "nct": "NCT00089271",
+  "title": "17-DMAG in Treating Patients With Metastatic or Unresectable Solid Tumors or Lymphomas",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Anaplastic Large Cell Lymphoma",
+   "Angioimmunoblastic T-cell Lymphoma",
+   "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue",
+   "Intraocular Lymphoma",
+   "Nodal Marginal Zone B-cell Lymphoma",
+   "Recurrent Adult Burkitt Lymphoma",
+   "Recurrent Adult Diffuse Large Cell Lymphoma",
+   "Recurrent Adult Diffuse Mixed Cell Lymphoma",
+   "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Recurrent Adult Hodgkin Lymphoma",
+   "Recurrent Adult T-cell Leukemia/Lymphoma",
+   "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Recurrent Grade 1 Follicular Lymphoma",
+   "Recurrent Grade 2 Follicular Lymphoma",
+   "Recurrent Grade 3 Follicular Lymphoma",
+   "Recurrent Mantle Cell Lymphoma",
+   "Recurrent Marginal Zone Lymphoma",
+   "Recurrent Mycosis Fungoides/Sezary Syndrome",
+   "Recurrent Small Lymphocytic Lymphoma",
+   "Splenic Marginal Zone Lymphoma",
+   "Stage III Adult Burkitt Lymphoma",
+   "Stage III Adult Diffuse Large Cell Lymphoma",
+   "Stage III Adult Diffuse Mixed Cell Lymphoma",
+   "Stage III Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Stage III Adult Hodgkin Lymphoma",
+   "Stage III Adult T-cell Leukemia/Lymphoma",
+   "Stage III Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Stage III Grade 1 Follicular Lymphoma",
+   "Stage III Grade 2 Follicular Lymphoma",
+   "Stage III Grade 3 Follicular Lymphoma",
+   "Stage III Mantle Cell Lymphoma",
+   "Stage III Marginal Zone Lymphoma",
+   "Stage III Mycosis Fungoides/Sezary Syndrome",
+   "Stage III Small Lymphocytic Lymphoma",
+   "Stage IV Adult Burkitt Lymphoma",
+   "Stage IV Adult Diffuse Large Cell Lymphoma",
+   "Stage IV Adult Diffuse Mixed Cell Lymphoma",
+   "Stage IV Adult Diffuse Small Cleaved Cell Lymphoma",
+   "Stage IV Adult Hodgkin Lymphoma",
+   "Stage IV Adult T-cell Leukemia/Lymphoma",
+   "Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma",
+   "Stage IV Grade 1 Follicular Lymphoma",
+   "Stage IV Grade 2 Follicular Lymphoma",
+   "Stage IV Grade 3 Follicular Lymphoma",
+   "Stage IV Mantle Cell Lymphoma",
+   "Stage IV Marginal Zone Lymphoma",
+   "Stage IV Mycosis Fungoides/Sezary Syndrome",
+   "Stage IV Small Lymphocytic Lymphoma",
+   "Unspecified Adult Solid Tumor, Protocol Specific",
+   "Waldenstr\u00f6m Macroglobulinemia"
+  ],
+  "intr": [
+   "alvespimycin hydrochloride",
+   "laboratory biomarker analysis"
+  ],
+  "n": 60,
+  "start": "2004-07",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "alvespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00089362": {
+  "nct": "NCT00089362",
+  "title": "Alvespimycin Hydrochloride in Treating Patients With Metastatic or Unresectable Solid Tumors",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Male Breast Cancer",
+   "Recurrent Adenoid Cystic Carcinoma of the Oral Cavity",
+   "Recurrent Basal Cell Carcinoma of the Lip",
+   "Recurrent Breast Cancer",
+   "Recurrent Colon Cancer",
+   "Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity",
+   "Recurrent Gastric Cancer",
+   "Recurrent Inverted Papilloma of the Paranasal Sinus and Nasal Cavity",
+   "Recurrent Lymphoepithelioma of the Nasopharynx",
+   "Recurrent Lymphoepithelioma of the Oropharynx",
+   "Recurrent Melanoma",
+   "Recurrent Metastatic Squamous Neck Cancer With Occult Primary",
+   "Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity",
+   "Recurrent Mucoepidermoid Carcinoma of the Oral Cavity",
+   "Recurrent Ovarian Epithelial Cancer",
+   "Recurrent Prostate Cancer",
+   "Recurrent Renal Cell Cancer",
+   "Recurrent Salivary Gland Cancer",
+   "Recurrent Squamous Cell Carcinoma of the Hypopharynx",
+   "Recurrent Squamous Cell Carcinoma of the Larynx",
+   "Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity",
+   "Recurrent Squamous Cell Carcinoma of the Nasopharynx",
+   "Recurrent Squamous Cell Carcinoma of the Oropharynx",
+   "Recurrent Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity",
+   "Recurrent Verrucous Carcinoma of the Larynx",
+   "Recurrent Verrucous Carcinoma of the Oral Cavity",
+   "Stage III Adenoid Cystic Carcinoma of the Oral Cavity",
+   "Stage III Basal Cell Carcinoma of the Lip",
+   "Stage III Colon Cancer",
+   "Stage III Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity",
+   "Stage III Gastric Cancer",
+   "Stage III Inverted Papilloma of the Paranasal Sinus and Nasal Cavity",
+   "Stage III Lymphoepithelioma of the Nasopharynx",
+   "Stage III Lymphoepithelioma of the Oropharynx",
+   "Stage III Melanoma",
+   "Stage III Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity",
+   "Stage III Mucoepidermoid Carcinoma of the Oral Cavity",
+   "Stage III Ovarian Epithelial Cancer",
+   "Stage III Renal Cell Cancer",
+   "Stage III Salivary Gland Cancer",
+   "Stage III Squamous Cell Carcinoma of the Hypopharynx",
+   "Stage III Squamous Cell Carcinoma of the Larynx",
+   "Stage III Squamous Cell Carcinoma of the Lip and Oral Cavity",
+   "Stage III Squamous Cell Carcinoma of the Nasopharynx",
+   "Stage III Squamous Cell Carcinoma of the Oropharynx",
+   "Stage III Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity",
+   "Stage III Verrucous Carcinoma of the Larynx",
+   "Stage III Verrucous Carcinoma of the Oral Cavity",
+   "Stage IIIB Breast Cancer",
+   "Stage IIIC Breast Cancer",
+   "Stage IV Adenoid Cystic Carcinoma of the Oral Cavity",
+   "Stage IV Basal Cell Carcinoma of the Lip",
+   "Stage IV Breast Cancer",
+   "Stage IV Colon Cancer",
+   "Stage IV Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity",
+   "Stage IV Gastric Cancer",
+   "Stage IV Inverted Papilloma of the Paranasal Sinus and Nasal Cavity",
+   "Stage IV Lymphoepithelioma of the Nasopharynx",
+   "Stage IV Lymphoepithelioma of the Oropharynx",
+   "Stage IV Melanoma",
+   "Stage IV Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity",
+   "Stage IV Mucoepidermoid Carcinoma of the Oral Cavity",
+   "Stage IV Ovarian Epithelial Cancer",
+   "Stage IV Prostate Cancer",
+   "Stage IV Renal Cell Cancer",
+   "Stage IV Salivary Gland Cancer",
+   "Stage IV Squamous Cell Carcinoma of the Hypopharynx",
+   "Stage IV Squamous Cell Carcinoma of the Larynx",
+   "Stage IV Squamous Cell Carcinoma of the Lip and Oral Cavity",
+   "Stage IV Squamous Cell Carcinoma of the Nasopharynx",
+   "Stage IV Squamous Cell Carcinoma of the Oropharynx",
+   "Stage IV Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity",
+   "Stage IV Verrucous Carcinoma of the Larynx",
+   "Stage IV Verrucous Carcinoma of the Oral Cavity",
+   "Unspecified Adult Solid Tumor, Protocol Specific",
+   "Untreated Metastatic Squamous Neck Cancer With Occult Primary"
+  ],
+  "intr": [
+   "alvespimycin hydrochloride",
+   "laboratory biomarker analysis",
+   "pharmacological study"
+  ],
+  "n": 30,
+  "start": "2004-07",
+  "sponsor": "National Cancer Institute (NCI)",
+  "results": false,
+  "why": [
+   "alvespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00803556": {
+  "nct": "NCT00803556",
+  "title": "Clinical Trial of the Combination of Intravenous Alvespimycin (KOS-1022), Trastuzumab With or Without Paclitaxel in Patients With Advanced Solid Tumor Malignancies or Her2 Positive Metastatic Breast Cancer Who Have Previously Failed Trastuzumab Therapy",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Solid Tumor",
+   "Breast Cancer"
+  ],
+  "intr": [
+   "Alvespimycin",
+   "Trastuzumab",
+   "Paclitaxel"
+  ],
+  "n": 29,
+  "start": "2006-01",
+  "sponsor": "Bristol-Myers Squibb",
+  "results": false,
+  "why": [
+   "alvespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00088868": {
+  "nct": "NCT00088868",
+  "title": "17-Dimethylaminoethylamino-17-demethoxygeldanamycin (17-DMAG) in Treating Patients With an Advanced Solid Tumor or Lymphoma",
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Lymphoma",
+   "Small Intestine Cancer",
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "alvespimycin hydrochloride"
+  ],
+  "n": 40,
+  "start": "2004-06",
+  "sponsor": "National Institutes of Health Clinical Center (CC)",
+  "results": false,
+  "why": [
+   "alvespimycin"
+  ],
+  "gold": false
+ },
+ "NCT00248521": {
+  "nct": "NCT00248521",
+  "title": "17-Dimethylaminoethylamino-17-Demethoxygeldanamycin (17-DMAG) in Treating Patients With Metastatic Solid Tumors or Tumors That Cannot Be Removed By Surgery",
+  "status": "UNKNOWN",
+  "phase": "PHASE1",
+  "type": "INTERVENTIONAL",
+  "cond": [
+   "Unspecified Adult Solid Tumor, Protocol Specific"
+  ],
+  "intr": [
+   "alvespimycin hydrochloride"
+  ],
+  "n": 35,
+  "start": "2005-10",
+  "sponsor": "Institute of Cancer Research, United Kingdom",
+  "results": false,
+  "why": [
+   "alvespimycin"
+  ],
+  "gold": false
+ }
+}

@@ -1,0 +1,192 @@
+1
+00:00:00,600 --> 00:00:01,436
+One child.
+
+2
+00:00:01,716 --> 00:00:02,621
+One gene.
+
+3
+00:00:02,901 --> 00:00:06,306
+Mosaic variegated aneuploidy is an ultra-rare disease:
+
+4
+00:00:06,306 --> 00:00:10,529
+children grow very slowly and face a high risk of childhood cancer.
+
+5
+00:00:10,809 --> 00:00:15,860
+The child in this challenge, PROBAND01, carries two faulty copies of BUB1B,
+
+6
+00:00:15,860 --> 00:00:18,216
+the cause we pinpointed in Track 1.
+
+7
+00:00:18,866 --> 00:00:19,906
+BUB1B makes BUBR1,
+
+8
+00:00:19,906 --> 00:00:24,468
+a key part of the checkpoint that holds cell division until every chromosome is
+
+9
+00:00:24,468 --> 00:00:25,507
+properly attached.
+
+10
+00:00:25,787 --> 00:00:29,392
+One copy is cut short; the other is predicted to misfold,
+
+11
+00:00:29,392 --> 00:00:31,732
+so some working BUBR1 is likely left.
+
+12
+00:00:32,012 --> 00:00:34,984
+Too little of it causes two problems from one defect.
+
+13
+00:00:35,264 --> 00:00:38,909
+Chromosomes are gained and lost, which raises the risk of cancer.
+
+14
+00:00:39,189 --> 00:00:43,566
+And cells age too early, which is linked to growth failure and muscle loss.
+
+15
+00:00:43,846 --> 00:00:44,379
+In fact,
+
+16
+00:00:44,379 --> 00:00:49,642
+the first proof that clearing aged cells delays age-related disease was made in
+
+17
+00:00:49,642 --> 00:00:50,975
+mice with low BubR1.
+
+18
+00:00:51,625 --> 00:00:53,680
+Can a drug fix the gene itself?
+
+19
+00:00:53,960 --> 00:00:54,575
+No.
+
+20
+00:00:54,855 --> 00:00:59,290
+BUB1B is essential for every dividing cell, and no drug targets it.
+
+21
+00:00:59,570 --> 00:01:04,175
+The only drugs that act nearby are chemotherapies that would weaken the checkpoint
+
+22
+00:01:04,175 --> 00:01:04,737
+even more.
+
+23
+00:01:05,017 --> 00:01:07,617
+So we looked downstream, at the two consequences.
+
+24
+00:01:08,267 --> 00:01:12,486
+We scored every candidate against eleven independent lines of evidence,
+
+25
+00:01:12,486 --> 00:01:17,062
+from network medicine to real BubR1 mouse data and clinical-trial registries,
+
+26
+00:01:17,062 --> 00:01:19,320
+and kept the ones most lines agree on.
+
+27
+00:01:19,600 --> 00:01:23,002
+A script re-checks every number in the report against its source.
+
+28
+00:01:23,652 --> 00:01:27,312
+Three candidates rise to the top, ranked by evidence in children:
+
+29
+00:01:27,312 --> 00:01:30,409
+one approved drug and two widely available supplements.
+
+30
+00:01:30,689 --> 00:01:32,244
+First, metformin.
+
+31
+00:01:32,524 --> 00:01:37,232
+It activates an energy-stress pathway that aneuploid cells tolerate poorly,
+
+32
+00:01:37,232 --> 00:01:42,066
+and a trial in Fanconi anemia, another childhood genome-instability syndrome,
+
+33
+00:01:42,066 --> 00:01:45,330
+gives a tested pediatric dose and reassuring safety.
+
+34
+00:01:45,610 --> 00:01:49,523
+Second, nicotinamide riboside, a form of vitamin B3.
+
+35
+00:01:49,803 --> 00:01:52,505
+In mice, raising NAD lifts BUBR1 levels,
+
+36
+00:01:52,505 --> 00:01:56,896
+and in children with ataxia-telangiectasia it was well tolerated.
+
+37
+00:01:57,176 --> 00:02:00,416
+Third, fisetin, which clears aged cells.
+
+38
+00:02:00,696 --> 00:02:05,920
+It fits the aging axis best, but it has only adult data, so it comes last.
+
+39
+00:02:06,570 --> 00:02:09,654
+This child's pharmacogenes show no barrier to these drugs,
+
+40
+00:02:09,654 --> 00:02:12,526
+though kidney function must be watched with metformin.
+
+41
+00:02:12,806 --> 00:02:16,542
+And none of this replaces the recommended step: tumor surveillance,
+
+42
+00:02:16,542 --> 00:02:19,888
+with a kidney ultrasound every three months until age seven.
+
+43
+00:02:20,168 --> 00:02:23,497
+This is a hypothesis for a supervised single-patient trial,
+
+44
+00:02:23,497 --> 00:02:25,811
+with biomarkers to tell whether it works.
+
+45
+00:02:26,091 --> 00:02:27,588
+It is not a proven treatment.
+
+46
+00:02:28,238 --> 00:02:31,790
+The whole pipeline uses public databases and runs on a laptop,
+
+47
+00:02:31,790 --> 00:02:35,169
+so it can be reused for the next child with a rare disease.
+
+48
+00:02:35,449 --> 00:02:38,712
+Thank you to the child and family behind PROBAND01.
+

@@ -1,0 +1,865 @@
+{
+ "gse277997_up": [
+  "Tnni1",
+  "Fgf21",
+  "Insl6",
+  "Tbx3os1",
+  "Mir1839",
+  "Cdkn2b",
+  "Gdf15",
+  "Ostn",
+  "Crabp1",
+  "Nmrk2",
+  "Syt12",
+  "Mlana",
+  "Igfbp2",
+  "Egr2",
+  "Nppa",
+  "Crlf1",
+  "Nek6",
+  "Kif23",
+  "Timp1",
+  "Rhobtb1",
+  "Csnk1g2",
+  "Pcna-ps2",
+  "Kcne1",
+  "Tnni2",
+  "S100a9",
+  "Cdkn1a",
+  "Myh7",
+  "Apod",
+  "Gchfr",
+  "Cst6",
+  "Phlda3",
+  "Gpx3",
+  "Capg",
+  "Shisa4",
+  "Trem2",
+  "Lrrc70",
+  "Aoc2",
+  "Fjx1",
+  "Fxyd5",
+  "Snhg15",
+  "Vgll2",
+  "Tmem176a",
+  "Cdkn2a",
+  "Cldn5",
+  "Uchl1",
+  "Rnd1",
+  "Ass1",
+  "Gdf6",
+  "Tmem176b",
+  "Eif3j2",
+  "Oas1g",
+  "Ahnak2",
+  "Lcn2",
+  "Nppb",
+  "Rasa4",
+  "Atf5",
+  "Scx",
+  "Trib3",
+  "Fxyd6",
+  "Slco2a1",
+  "S100a11",
+  "Cd14",
+  "Serpine2",
+  "Nupr1",
+  "Chac1",
+  "Clu",
+  "Bcl3",
+  "Upp1",
+  "Trim47",
+  "Grrp1",
+  "Tmem238",
+  "Gngt2",
+  "Meox1",
+  "Clec4a2",
+  "Gadd45g",
+  "S100a4",
+  "Fzd2",
+  "Ucp2",
+  "Rpl9-ps7",
+  "Clic1",
+  "Scn1b",
+  "Rpl3-ps1",
+  "Aif1",
+  "Efhd2",
+  "Ier3",
+  "Pycard",
+  "Akr1b8",
+  "Ddit3",
+  "Mpp5",
+  "Map3k1",
+  "Helz2",
+  "Plekhm1",
+  "Cyp1a1",
+  "Afap1",
+  "Crebbp",
+  "Cbfa2t2",
+  "Foxn2",
+  "Prdm1",
+  "C77080",
+  "Ctdspl",
+  "Slc25a15",
+  "Adnp2",
+  "Cplx2",
+  "Nfkbiz",
+  "Zfp609",
+  "Urb2",
+  "G2e3",
+  "Rrp12",
+  "Adamts4",
+  "Zfp608",
+  "Elmod2",
+  "Mtmr4",
+  "Kdm6a",
+  "Afmid",
+  "Zfp335",
+  "Unkl",
+  "Mon1b",
+  "Chaf1a",
+  "Rasal2",
+  "Apcdd1",
+  "Zmym6",
+  "Ndc80",
+  "Bmp10",
+  "Nkd2",
+  "Tnfrsf26",
+  "Kifc1",
+  "Scara3",
+  "Sema4b",
+  "Zfp365",
+  "Apaf1",
+  "Prkcg",
+  "Avl9",
+  "Zbtb7c",
+  "Tsga10",
+  "Ptch1",
+  "Reep2",
+  "Srd5a1",
+  "Heph",
+  "Nacad",
+  "AI662270",
+  "Prx",
+  "Trip13",
+  "Dusp4",
+  "BC024063",
+  "Vstm5",
+  "Tmem151a",
+  "Lsr",
+  "Zfp658",
+  "Gpr35",
+  "Cd19",
+  "Asprv1",
+  "Sap25",
+  "Slc3a2",
+  "Snhg12",
+  "Dap",
+  "Rasl11b",
+  "Rpl3",
+  "Rpp25",
+  "Gpx1",
+  "St3gal1",
+  "Rhox5",
+  "Hypk",
+  "Abi3",
+  "Jpt1",
+  "Rps10",
+  "Tgm2",
+  "Pfkp",
+  "Bambi"
+ ],
+ "gse277997_dn": [
+  "Jmjd7",
+  "Il18",
+  "Gfra3",
+  "Lsamp",
+  "Bclaf3",
+  "Sgsh",
+  "Mapk8ip1",
+  "Phka2",
+  "Cxcl14",
+  "Slc36a2",
+  "AL731706.1",
+  "Ivd",
+  "Ap5b1",
+  "Samd13",
+  "Pcp4",
+  "Pim2",
+  "Dpep1",
+  "Kcna6",
+  "Strit1",
+  "Nnt",
+  "Aldob",
+  "Lgi4",
+  "Eef1aknmt",
+  "Dact1",
+  "Mhrt",
+  "Htra3",
+  "Trpc3",
+  "Phc1",
+  "Gsn",
+  "Mrvi1",
+  "Ms4a4d",
+  "Dennd4b",
+  "Asxl1",
+  "Dpt",
+  "Notch3",
+  "Phkg1",
+  "Hopx",
+  "Nmb",
+  "Mal",
+  "Fgf16",
+  "Ces1d",
+  "Rgs5",
+  "Tpd52l1",
+  "Mlf1",
+  "Bpgm",
+  "Bckdhb",
+  "Oma1",
+  "Rnase4",
+  "Arfgef2",
+  "Car1",
+  "Med13",
+  "Lgr6",
+  "Apc",
+  "Baz2a",
+  "Atp11c",
+  "Cyp2c55",
+  "Ttc38",
+  "Zfp704",
+  "Tbcd",
+  "Dcaf1",
+  "Lingo3",
+  "Nr3c2",
+  "Tmem268",
+  "Zmym5",
+  "Enpp2",
+  "Samd12",
+  "Muc2",
+  "Deptor",
+  "Pwp2",
+  "Ky",
+  "Garem1",
+  "Dnaaf5",
+  "Cep131",
+  "Pigr",
+  "Lcorl",
+  "Krt20",
+  "Ifi207",
+  "Ncs1",
+  "Ttyh2",
+  "Muc3",
+  "Epcam",
+  "Prickle2",
+  "Klf12",
+  "Tspan1",
+  "Slc2a12",
+  "Clca4a",
+  "Zfp81",
+  "Fbxo10",
+  "Guca2a",
+  "Slc9a2",
+  "Slc5a3",
+  "Zg16",
+  "Vil1",
+  "Ybey",
+  "Muc13",
+  "Sult1d1",
+  "Fabp2",
+  "Klhl32",
+  "Susd5",
+  "Dnmt3a",
+  "Tln2",
+  "Pxylp1",
+  "Ndufaf1",
+  "B3gntl1",
+  "Cdhr5",
+  "Cadm1",
+  "Oit1",
+  "Ces2c",
+  "Slc6a14",
+  "Prss32",
+  "Hs3st3b1",
+  "Sh3bp2",
+  "Mgat4c",
+  "Apol10a",
+  "Cyp2c65",
+  "Cldn7",
+  "Sectm1b",
+  "Ugt2b34",
+  "Sprr2a3",
+  "Hykk",
+  "Ces2a",
+  "AI506816",
+  "Agr2",
+  "Pcdhgb8",
+  "Gdf10",
+  "Tspan33",
+  "Klk1",
+  "P2rx6",
+  "Madd",
+  "Gsdmc4",
+  "Mettl8",
+  "Mptx1",
+  "Clec2h",
+  "Cyp3a13",
+  "Tmem45b",
+  "Htr2a",
+  "Ms4a8a",
+  "Kcna1",
+  "Sfmbt1",
+  "Suv39h2",
+  "Zfp108",
+  "Reg4",
+  "Mal2",
+  "Slitrk6",
+  "Ugt1a6a",
+  "Gpa33",
+  "Adra1a",
+  "Olfr1034",
+  "Mettl7b",
+  "Colec11",
+  "Sfrp1",
+  "Gcdh",
+  "Nubpl",
+  "Apex1",
+  "Kcnj8",
+  "Ckmt2",
+  "Echdc3",
+  "Mrpl3",
+  "Pxmp2",
+  "Msrb2"
+ ],
+ "sen_hits": [
+  "Cdkn1a",
+  "Cdkn2a",
+  "Cdkn2b",
+  "Gdf15",
+  "Timp1"
+ ],
+ "isr_hits": [
+  "Chac1",
+  "Ddit3",
+  "Fgf21",
+  "Gdf15",
+  "Trib3"
+ ],
+ "fetal_hits": [
+  "Tnni1"
+ ],
+ "concord_up": [
+  29,
+  127
+ ],
+ "concord_dn": [
+  23,
+  96
+ ],
+ "two_model_genes": [],
+ "l1000_top": [
+  {
+   "drug": "chaetocin",
+   "score": 0.052,
+   "cell": "HCC515",
+   "dose": "0.08"
+  },
+  {
+   "drug": "BRD-K88569143",
+   "score": 0.052,
+   "cell": "PC3",
+   "dose": "10.0"
+  },
+  {
+   "drug": "INK-128",
+   "score": 0.052,
+   "cell": "HA1E",
+   "dose": 0.12
+  },
+  {
+   "drug": "PP-110",
+   "score": 0.047,
+   "cell": "A375",
+   "dose": "22.2"
+  },
+  {
+   "drug": "HY-10518",
+   "score": 0.047,
+   "cell": "A549",
+   "dose": "10.0"
+  },
+  {
+   "drug": "vorinostat",
+   "score": 0.047,
+   "cell": "SKB",
+   "dose": "10.0"
+  },
+  {
+   "drug": "AS-605240",
+   "score": 0.047,
+   "cell": "HT29",
+   "dose": 10
+  },
+  {
+   "drug": "tivozanib",
+   "score": 0.047,
+   "cell": "HA1E",
+   "dose": 10
+  },
+  {
+   "drug": "528116.cdx",
+   "score": 0.042,
+   "cell": "JHUEM2",
+   "dose": "0.09"
+  },
+  {
+   "drug": "daunorubicin",
+   "score": 0.042,
+   "cell": "PC3",
+   "dose": "10.0"
+  },
+  {
+   "drug": "trichostatin A",
+   "score": 0.042,
+   "cell": "SKB",
+   "dose": "10.0"
+  },
+  {
+   "drug": "EI-156",
+   "score": 0.042,
+   "cell": "A549",
+   "dose": "10.0"
+  },
+  {
+   "drug": "S1205",
+   "score": 0.042,
+   "cell": "SKB",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-A52530684",
+   "score": 0.042,
+   "cell": "SKB",
+   "dose": "10.0"
+  },
+  {
+   "drug": "ibrutinib",
+   "score": 0.042,
+   "cell": "HCC515",
+   "dose": 0.04
+  },
+  {
+   "drug": "bufalin",
+   "score": 0.036,
+   "cell": "HA1E",
+   "dose": "10.0"
+  },
+  {
+   "drug": "DIGITOXIN",
+   "score": 0.036,
+   "cell": "HA1E",
+   "dose": "10.0"
+  },
+  {
+   "drug": "GITOXIGENIN",
+   "score": 0.036,
+   "cell": "HA1E",
+   "dose": "10.0"
+  },
+  {
+   "drug": "Ro 31-8220 mesylate",
+   "score": 0.036,
+   "cell": "HEPG2",
+   "dose": "10.0"
+  },
+  {
+   "drug": "Tocainide hydrochloride",
+   "score": 0.036,
+   "cell": "A375",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-K17140735",
+   "score": 0.036,
+   "cell": "DV90",
+   "dose": "11.1"
+  },
+  {
+   "drug": "BRD-K81473043",
+   "score": 0.036,
+   "cell": "HCC515",
+   "dose": "0.35"
+  },
+  {
+   "drug": "PP-110",
+   "score": 0.036,
+   "cell": "HT29",
+   "dose": "22.2"
+  },
+  {
+   "drug": "PI 103 hydrochloride",
+   "score": 0.036,
+   "cell": "RMGI",
+   "dose": "11.1"
+  },
+  {
+   "drug": "BRD-K15563106",
+   "score": 0.036,
+   "cell": "TYKNU",
+   "dose": "177.6"
+  },
+  {
+   "drug": "NCGC00184834-01",
+   "score": 0.036,
+   "cell": "HCC515",
+   "dose": "10.0"
+  },
+  {
+   "drug": "2-morpholino-9-(thiophen-3-yl)-N-((5-(trifluoromethyl)-1H-benzo[d]imidazol-2-yl)methyl)-9H-purin-6-amine",
+   "score": 0.036,
+   "cell": "HCC515",
+   "dose": "10.0"
+  },
+  {
+   "drug": "2-morpholino-9-(thiophen-3-yl)-N-((5-(trifluoromethyl)-1H-benzo[d]imidazol-2-yl)methyl)-9H-purin-6-amine",
+   "score": 0.036,
+   "cell": "PC3",
+   "dose": "10.0"
+  },
+  {
+   "drug": "triptolide",
+   "score": 0.036,
+   "cell": "PC3",
+   "dose": "10.0"
+  },
+  {
+   "drug": "656402-250MG",
+   "score": 0.036,
+   "cell": "HT29",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-K56653679",
+   "score": 0.036,
+   "cell": "SKB",
+   "dose": "10.0"
+  },
+  {
+   "drug": "HY-11009",
+   "score": 0.036,
+   "cell": "ASC",
+   "dose": "10.0"
+  },
+  {
+   "drug": "S1122",
+   "score": 0.036,
+   "cell": "A549",
+   "dose": "10.0"
+  },
+  {
+   "drug": "F1566-0341",
+   "score": 0.036,
+   "cell": "A549",
+   "dose": "10.0"
+  },
+  {
+   "drug": "HY-10459",
+   "score": 0.036,
+   "cell": "A549",
+   "dose": "10.0"
+  },
+  {
+   "drug": "V4877",
+   "score": 0.036,
+   "cell": "PC3",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-K19220233",
+   "score": 0.036,
+   "cell": "SKB",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-K59753853",
+   "score": 0.036,
+   "cell": "PHH",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-K23478508",
+   "score": 0.036,
+   "cell": "MCF7",
+   "dose": "10.0"
+  },
+  {
+   "drug": "geldanamycin",
+   "score": 0.036,
+   "cell": "SKB",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-K20141153",
+   "score": 0.036,
+   "cell": "A549",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-A20589515",
+   "score": 0.036,
+   "cell": "MCF7",
+   "dose": "10.0"
+  },
+  {
+   "drug": "vorinostat",
+   "score": 0.036,
+   "cell": "SKB",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-K96076993",
+   "score": 0.036,
+   "cell": "A549",
+   "dose": "10.0"
+  },
+  {
+   "drug": "BRD-K17953061",
+   "score": 0.036,
+   "cell": "PC3",
+   "dose": "10.0"
+  },
+  {
+   "drug": "GSK-2334470",
+   "score": 0.036,
+   "cell": "HEPG2",
+   "dose": 1.11
+  },
+  {
+   "drug": "NVP-AUY922",
+   "score": 0.036,
+   "cell": "PC3",
+   "dose": 1.11
+  },
+  {
+   "drug": "AS-601245",
+   "score": 0.036,
+   "cell": "SKBR3",
+   "dose": 0.37
+  },
+  {
+   "drug": "torin-1",
+   "score": 0.036,
+   "cell": "A375",
+   "dose": 10
+  },
+  {
+   "drug": "BMS-387032",
+   "score": 0.036,
+   "cell": "A549",
+   "dose": 0.12
+  }
+ ],
+ "l1000_top_strict": [
+  {
+   "drug": "INK-128",
+   "score": 0.093
+  },
+  {
+   "drug": "chaetocin",
+   "score": 0.081
+  },
+  {
+   "drug": "BI-2536",
+   "score": 0.081
+  },
+  {
+   "drug": "AZD-5438",
+   "score": 0.081
+  },
+  {
+   "drug": "PI-103",
+   "score": 0.081
+  },
+  {
+   "drug": "Emetine Dihydrochloride Hydrate (74)",
+   "score": 0.07
+  },
+  {
+   "drug": "528116.cdx",
+   "score": 0.07
+  },
+  {
+   "drug": "BRD-A60245366",
+   "score": 0.07
+  },
+  {
+   "drug": "HY-10456",
+   "score": 0.07
+  },
+  {
+   "drug": "BRD-K59753853",
+   "score": 0.07
+  },
+  {
+   "drug": "vorinostat",
+   "score": 0.07
+  },
+  {
+   "drug": "AS-601245",
+   "score": 0.07
+  },
+  {
+   "drug": "AT-7519",
+   "score": 0.07
+  },
+  {
+   "drug": "BMS-387032",
+   "score": 0.07
+  },
+  {
+   "drug": "AT-7519",
+   "score": 0.07
+  },
+  {
+   "drug": "BMS-345541",
+   "score": 0.07
+  },
+  {
+   "drug": "AZD-5438",
+   "score": 0.07
+  },
+  {
+   "drug": "AS-605240",
+   "score": 0.07
+  },
+  {
+   "drug": "AT-7519",
+   "score": 0.07
+  },
+  {
+   "drug": "motesanib",
+   "score": 0.07
+  },
+  {
+   "drug": "PUROMYCIN HYDROCHLORIDE",
+   "score": 0.058
+  },
+  {
+   "drug": "GITOXIGENIN",
+   "score": 0.058
+  },
+  {
+   "drug": "BRD-K17140735",
+   "score": 0.058
+  },
+  {
+   "drug": "BML-259",
+   "score": 0.058
+  },
+  {
+   "drug": "TENIPOSIDE",
+   "score": 0.058
+  },
+  {
+   "drug": "TW 37",
+   "score": 0.058
+  },
+  {
+   "drug": "chaetocin",
+   "score": 0.058
+  },
+  {
+   "drug": "528116.cdx",
+   "score": 0.058
+  },
+  {
+   "drug": "BRD-K92301463",
+   "score": 0.058
+  },
+  {
+   "drug": "vorinostat",
+   "score": 0.058
+  },
+  {
+   "drug": "GF-109203X",
+   "score": 0.058
+  },
+  {
+   "drug": "NCGC00012272-02",
+   "score": 0.058
+  },
+  {
+   "drug": "maprotilline hcl",
+   "score": 0.058
+  },
+  {
+   "drug": "HY-10518",
+   "score": 0.058
+  },
+  {
+   "drug": "HY-11001",
+   "score": 0.058
+  },
+  {
+   "drug": "F1566-0341",
+   "score": 0.058
+  },
+  {
+   "drug": "EI-346",
+   "score": 0.058
+  },
+  {
+   "drug": "V4877",
+   "score": 0.058
+  },
+  {
+   "drug": "L-6307",
+   "score": 0.058
+  },
+  {
+   "drug": "32937",
+   "score": 0.058
+  },
+  {
+   "drug": "HY-10459",
+   "score": 0.058
+  },
+  {
+   "drug": "S1122",
+   "score": 0.058
+  },
+  {
+   "drug": "P0030",
+   "score": 0.058
+  },
+  {
+   "drug": "trichostatin A",
+   "score": 0.058
+  },
+  {
+   "drug": "BRD-K61323504",
+   "score": 0.058
+  },
+  {
+   "drug": "BRD-K60230970",
+   "score": 0.058
+  },
+  {
+   "drug": "geldanamycin",
+   "score": 0.058
+  },
+  {
+   "drug": "BRD-K20141153",
+   "score": 0.058
+  },
+  {
+   "drug": "AS-601245",
+   "score": 0.058
+  },
+  {
+   "drug": "NVP-AUY922",
+   "score": 0.058
+  }
+ ],
+ "n_streak": 165
+}

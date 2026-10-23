@@ -1,0 +1,1214 @@
+[
+ {
+  "nct": "NCT04716686",
+  "title": "Niraparib Monotherapy as Maintain and Recurrent Treatment of Endometrial Serous Carcinoma",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Endometrial Carcinoma",
+   "Serous Carcinoma"
+  ],
+  "interventions": [
+   "Niraparib"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT04122092",
+  "title": "Evaluation of Ultrasensitive Chromosomal Aneuploidy Detection for Detecting Minimal Residual Disease in Multiple Myeloma",
+  "status": "UNKNOWN",
+  "phase": null,
+  "conditions": [
+   "Multiple Myeloma"
+  ],
+  "interventions": [
+   "The level of plasma cfDNA CINs"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT03432676",
+  "title": "Epacadostat and Pembrolizumab in Treating Participants With Advanced Pancreatic Cancer",
+  "status": "WITHDRAWN",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "ATM Gene Mutation",
+   "Deleterious BRCA1 Gene Mutation",
+   "Deleterious BRCA2 Gene Mutation",
+   "Homologous Recombination Deficiency",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Stage II Pancreatic Cancer AJCC v8",
+   "Stage IIA Pancreatic Cancer AJCC v8",
+   "Stage IIB Pancreatic Cancer AJCC v8",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8"
+  ],
+  "interventions": [
+   "Epacadostat",
+   "Pembrolizumab"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT03096418",
+  "title": "Neoadjuvant Weekly Paclitaxel and Biomarkers of Therapy Response",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE4"
+  ],
+  "conditions": [
+   "Breast Neoplasm Female"
+  ],
+  "interventions": [
+   "Paclitaxel"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT05624827",
+  "title": "The Role of FAM19A4 and Hsa-mir-124 Methylation in Predicting Prognosis of Untreated Cervical Intraepithelial Neoplasia 2 (CIN 2)",
+  "status": "UNKNOWN",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Cervical Intraepithelial Neoplasia Grade 2",
+   "DNA Methylation"
+  ],
+  "interventions": [
+   "Testing DNA methylation test for predicting prognosis of untreated CIN 2"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT04203095",
+  "title": "Chromosomal Instability as a Surrogate Biomarker of Drug Resistance in Immunotherapy for Lung Cancer Patients",
+  "status": "UNKNOWN",
+  "phase": null,
+  "conditions": [
+   "Lung Cancer"
+  ],
+  "interventions": [
+   "the level of plasma cfDNA CINs"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT01907607",
+  "title": "Efficacy and Safety of PD-0332991 in Advanced Gastrointestinal Stromal Tumors Refractory to Imatinib and Sunitinib",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Advanced Gastrointestinal Stromal Tumors"
+  ],
+  "interventions": [
+   "PD 0332991"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT05310357",
+  "title": "Chromosomal Instability in Ovarian Cancer",
+  "status": "UNKNOWN",
+  "phase": null,
+  "conditions": [
+   "Epithelial Ovarian Cancer",
+   "High-grade Serous Ovarian Carcinoma",
+   "Chromosomal Instability",
+   "Somatic Copy Number Distortion",
+   "Survival Outcomes",
+   "Minimal Residual Lesions",
+   "Progression-free Survival",
+   "Overall Survival"
+  ],
+  "interventions": [
+   "Testing for chromosomal instability (CIN)"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT03393741",
+  "title": "Pharmacodynamic Biomarkers of Standard Anti-microtubule Drugs as Assessed by Early Tumor Biopsy",
+  "status": "TERMINATED",
+  "phase": null,
+  "conditions": [
+   "Breast Cancer",
+   "Breast Neoplasms"
+  ],
+  "interventions": [
+   "Taxane",
+   "Vinorelbine",
+   "Ixabepilone",
+   "Eribulin",
+   "Chemotherapy"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT02238574",
+  "title": "Diagnostics for the Treatment of Progressive Mucosal Lesions of the Oral Cavity: a Prospective Study",
+  "status": "WITHDRAWN",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Chromosomal Instability",
+   "Low Grade Dysplasia Oral Cavity",
+   "Loss of Heterozygostiy",
+   "Fluorescence In Situ Hybridization"
+  ],
+  "interventions": [
+   "surgery",
+   "follow up"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT00461929",
+  "title": "Chromosome Abnormalities in Chronic Myeloid Leukemia (CML) on Imatinib. GIST Patients on Imatinib",
+  "status": "TERMINATED",
+  "phase": [
+   "PHASE4"
+  ],
+  "conditions": [
+   "Chronic Myeloid Leukemia",
+   "Gastrointestinal Stromal Cell Tumors",
+   "Chromosome Abnormality"
+  ],
+  "interventions": [
+   "bone marrow aspiration"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT03357978",
+  "title": "Susceptibility to Infections, Tumor Risk and Liver Disease in Patients With Ataxia Telangiectasia",
+  "status": "UNKNOWN",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Ataxia Telangiectasia"
+  ],
+  "interventions": [
+   "bioelectrical impedance analysis",
+   "blood draw",
+   "transient elastography (FibroScan)",
+   "ataxia score",
+   "Five-Times-Sit-to-Stand Test"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT06232538",
+  "title": "UCAD for Diagnosing Benign or Malignant Gallbladder Diseases and Follow-up",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": null,
+  "conditions": [
+   "Gallbladder Cancer"
+  ],
+  "interventions": [
+   "The level of CNV"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT00981201",
+  "title": "Celecoxib as a Chemopreventive Agent in Current and Former Smokers",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE3"
+  ],
+  "conditions": [
+   "Smoking",
+   "Prevention"
+  ],
+  "interventions": [
+   "Celecoxib",
+   "Celecoxib",
+   "Placebo",
+   "Placebo"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT01336400",
+  "title": "Genome-wide Single Cell Haplotyping as a Generic Method for Preimplantation Genetic Diagnosis",
+  "status": "UNKNOWN",
+  "phase": null,
+  "conditions": [
+   "Preimplantation Genetic Diagnosis"
+  ],
+  "interventions": [
+   "single cell haplotyping"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT05237193",
+  "title": "A Prospective Study of UCAD for Diagnosing Benign or Malignant Biliary Obstruction and Follow-up",
+  "status": "UNKNOWN",
+  "phase": null,
+  "conditions": [
+   "Biliary Tract Neoplasms",
+   "Pancreatic Carcinoma",
+   "Gallbladder Cancer",
+   "Pancreatic Head Carcinoma"
+  ],
+  "interventions": [
+   "The level of CIN"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT02485691",
+  "title": "Cabazitaxel Versus the Switch to Alternative AR-targeted Agent (Enzalutamide or Abiraterone) in Metastatic Castration-resistant Prostate Cancer (mCRPC) Patients Previously Treated With Docetaxel and Who Rapidly Failed a Prior AR-targeted Agent",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE4"
+  ],
+  "conditions": [
+   "Prostate Cancer Metastatic"
+  ],
+  "interventions": [
+   "cabazitaxel XRP6258",
+   "enzalutamide",
+   "abiraterone acetate",
+   "prednisone"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT05902988",
+  "title": "A Phase I/II Study of VLS-1488 in Subjects With Advanced Cancer",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Advanced Solid Tumor",
+   "High Grade Serous Adenocarcinoma of Ovary",
+   "Squamous Non-small-cell Lung Cancer",
+   "Triple Negative Breast Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Ovarian Carcinosarcoma",
+   "Uterine Carcinosarcoma",
+   "Uterine Serous Carcinoma",
+   "Endometrium Cancer",
+   "Chromosomal Instability"
+  ],
+  "interventions": [
+   "VLS-1488"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT02786602",
+  "title": "LRP1 Methylation and Colon Cancer",
+  "status": "COMPLETED",
+  "phase": null,
+  "conditions": [
+   "Colon Cancer"
+  ],
+  "interventions": [
+   "pyrosequencing"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT04262687",
+  "title": "Chemotherapy and Immunotherapy as Treatment for MSS Metastatic Colorectal Cancer With High Immune Infiltrate",
+  "status": "UNKNOWN",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Colorectal Cancer Metastatic",
+   "High Immune Infiltrate",
+   "Microsatellite Stable"
+  ],
+  "interventions": [
+   "Capecitabine",
+   "Oxaliplatin",
+   "Bevacizumab",
+   "Pembrolizumab"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT05695976",
+  "title": "GRETeL: Tumor Response to Standard Radiotherapy and TMZ Patients With GBM",
+  "status": "SUSPENDED",
+  "phase": null,
+  "conditions": [
+   "Glioblastoma",
+   "Glioma, Malignant"
+  ],
+  "interventions": [],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT07155044",
+  "title": "A Comparative Study of Neoadjuvant Chemotherapy Versus Upfront Radical Surgery for Upper Tract Urothelial Carcinoma",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": null,
+  "conditions": [
+   "UTUC",
+   "UC (Urothelial Cancer)"
+  ],
+  "interventions": [
+   "NAC"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT06889623",
+  "title": "Immediate Chemotherapy Following Resection for High-Risk Non-Muscle-Invasive Bladder Cancer",
+  "status": "RECRUITING",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "NMIBC"
+  ],
+  "interventions": [
+   "Immediate postoperative chemotherapy"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT02285348",
+  "title": "Oxidative Stress, Low Grade Inflammation, Tissue Breakdown and Biomarkers in Cerebrospinal Fluid of A-T",
+  "status": "COMPLETED",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Ataxia Telangiectasia"
+  ],
+  "interventions": [
+   "Lumbar puncture"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT06967987",
+  "title": "Study Evaluating the Combination of Bemarituzumab + FLOT Chemotherapy in Perioperative Setting for Resectable Stage cT2-T4a or N+ Gastric and GEJ Adenocarcinoma Overexpressing FGFR2b",
+  "status": "WITHDRAWN",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Gastric and Gastro-oesophageal Junction (GEJ) Adenocarcinomas",
+   "Overexpression FGFR2b"
+  ],
+  "interventions": [
+   "Bemarituzumab + Flot regimen"
+  ],
+  "matched_term": "\"chromosomal instability\" AND treatment"
+ },
+ {
+  "nct": "NCT07000734",
+  "title": "Fortifying Healthy Behaviors, Optimizing Medical Therapies and Enhancing Cognitive Function in Older Adults-pilot Study",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Aging",
+   "Cognitive Decline",
+   "Older Adults",
+   "Cardiovascular",
+   "Sedentary Behaviors",
+   "Immune Senescence",
+   "Motor Function"
+  ],
+  "interventions": [
+   "Risk managment",
+   "Dasatinib",
+   "Quercetin (dietary supplement)",
+   "Vortioxetine"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT04733534",
+  "title": "An Open-Label Intervention Trial to Reduce Senescence and Improve Frailty in Adult Survivors of Childhood Cancer",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Frailty",
+   "Childhood Cancer"
+  ],
+  "interventions": [
+   "Dasatinib plus Quercetin",
+   "Fisetin"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT07025226",
+  "title": "Medication Combinations of Dasatinib, Quercetin, Fisetin, Temozolomide, LMP744, and Autologous TLPO Vaccine for the Treatment of Previously Treated Glioma With Residual Disease",
+  "status": "RECRUITING",
+  "phase": [
+   "EARLY_PHASE1"
+  ],
+  "conditions": [
+   "Glioma"
+  ],
+  "interventions": [
+   "Biospecimen Collection",
+   "Dasatinib",
+   "Fisetin",
+   "Magnetic Resonance Imaging",
+   "Patient Observation",
+   "Positron Emission Tomography",
+   "Quercetin",
+   "Temozolomide",
+   "Topoisomerase-1 Inhibitor LMP744",
+   "Single Agent Therapy"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT05653258",
+  "title": "Single Nuclei RNA-seq to Map Adipose Cellular Populations and Senescent Cells in Older Subjects",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE2",
+   "PHASE3"
+  ],
+  "conditions": [
+   "Obesity",
+   "Healthy Lifestyle"
+  ],
+  "interventions": [
+   "Lifestyle Intervention",
+   "Dasatinib 100 MG",
+   "Quercetin 1000mg",
+   "Placebo",
+   "Abdominal adipose tissue biopsy"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT02848131",
+  "title": "Senescence in Chronic Kidney Disease",
+  "status": "ENROLLING_BY_INVITATION",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Chronic Kidney Disease"
+  ],
+  "interventions": [
+   "Group 2: Dasatinib",
+   "Group 2: Quercetin"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT04994561",
+  "title": "VIAging Deceleration Trial Using Metformin, Dasatinib, Rapamycin and Nutritional Supplements",
+  "status": "WITHDRAWN",
+  "phase": [
+   "PHASE1"
+  ],
+  "conditions": [
+   "Aging"
+  ],
+  "interventions": [
+   "Study Drugs and Nutritional Supplements"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT04063124",
+  "title": "Senolytic Therapy to Modulate Progression of Alzheimer's Disease",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Alzheimer Disease"
+  ],
+  "interventions": [
+   "Dasatinib + Quercetin"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT05422885",
+  "title": "Safety and Feasibility of Dasatinib and Quercetin in Adults at Risk for Alzheimer's Disease",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Aging"
+  ],
+  "interventions": [
+   "Dasatinib",
+   "Quercetin"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT07144293",
+  "title": "Improving Physical Ability and Cellular Senescence Elimination in HIV",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "HIV",
+   "Frailty",
+   "Prefrail",
+   "Aging Problems"
+  ],
+  "interventions": [
+   "Dasatinib",
+   "Quercetin",
+   "Placebo - Dasatinib",
+   "Placebo - Quercetin"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT06018467",
+  "title": "Senolytics to Improve Osteoporosis Therapy",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Osteopenia, Osteoporosis",
+   "Age-related Bone Loss"
+  ],
+  "interventions": [
+   "Dasatinib 100 Mg Oral Tablet",
+   "Quercetin 1.250 mg (oral)",
+   "Nicotinamide Riboside 1g (oral)"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT05506488",
+  "title": "Dasatinib and Quercetin to Treat Fibrotic Non-alcoholic Fatty Liver Disease",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "NAFLD",
+   "NASH With Fibrosis",
+   "Liver Fibrosis"
+  ],
+  "interventions": [
+   "Dasatinib 100 MG + Quercetin (1000 MG)",
+   "Placebo"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT06355037",
+  "title": "Dasatinib Combined With Quercetin to Reverse Chemo Resistance in Triple Negative Breast Cancer",
+  "status": "UNKNOWN",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Triple-negative Breast Cancer"
+  ],
+  "interventions": [
+   "Quercetin",
+   "Dasatinib",
+   "Taxane/Anthracycline/Eribulin Mesylate/Vinorelbine/Capecitabine/Carboplatin/UTD1/platinum"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT04685590",
+  "title": "Senolytic Therapy to Modulate the Progression of Alzheimer's Disease (SToMP-AD) Study",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Alzheimer Disease, Early Onset",
+   "Mild Cognitive Impairment"
+  ],
+  "interventions": [
+   "Dasatinib + Quercetin",
+   "Placebo Capsules"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT04313634",
+  "title": "Targeting Cellular Senescence With Senolytics to Improve Skeletal Health in Older Humans",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Healthy"
+  ],
+  "interventions": [
+   "Dasatinib",
+   "Quercetin",
+   "Fisetin"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT07270120",
+  "title": "Senolytics for Secondary Progressive MS",
+  "status": "NOT_YET_RECRUITING",
+  "phase": [
+   "PHASE1"
+  ],
+  "conditions": [
+   "Multiple Sclerosis (MS) Secondary Progressive"
+  ],
+  "interventions": [
+   "Dasatinib and quercetin"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT02652052",
+  "title": "Hematopoietic Stem Cell Transplant Survivors Study",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE1"
+  ],
+  "conditions": [
+   "Stem Cell Transplant"
+  ],
+  "interventions": [
+   "Standard of Care - Observation Only",
+   "Group 2: Quercetin",
+   "Group 2: Dasatinib"
+  ],
+  "matched_term": "(dasatinib AND quercetin) AND senescent"
+ },
+ {
+  "nct": "NCT06796374",
+  "title": "A Comparison of Fisetin Kinetics in Young and Old Adults",
+  "status": "RECRUITING",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Pharmacokinetic Study in Healthy Volunteers"
+  ],
+  "interventions": [
+   "Fisetin - Fasted condition",
+   "Fisetin - Fed condition"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT07678346",
+  "title": "Evaluation of AppleX™ Apple Extract on Anti-Inflammatory and Healthy Aging Effects",
+  "status": "NOT_YET_RECRUITING",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Systemic Inflammation (hsCRP)",
+   "Healthy Aging",
+   "Vitality",
+   "Healthy Adult Participants"
+  ],
+  "interventions": [
+   "Apple Extract",
+   "Placebo"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT05482672",
+  "title": "GetHealthy-OA: A Program to Improve Pain and Function for Patients With Knee Osteoarthritis, Obesity, and Depression",
+  "status": "WITHDRAWN",
+  "phase": [
+   "PHASE2",
+   "PHASE3"
+  ],
+  "conditions": [
+   "Knee Osteoarthritis",
+   "Obese",
+   "Depression"
+  ],
+  "interventions": [
+   "Fisetin",
+   "GetHealthy-OA mind-body program",
+   "Placebo oral capsule",
+   "Health education booklet"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT05758246",
+  "title": "Senolytics To slOw Progression of Sepsis (STOP-Sepsis) Trial",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Sepsis",
+   "Acute Infection",
+   "Organ Failure"
+  ],
+  "interventions": [
+   "Fisetin-dose 1",
+   "Fisetin-dose 2",
+   "Placebo"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT06399809",
+  "title": "Fisetin to Reduce Senescence and Mobility Impairment in PAD",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Peripheral Arterial Disease",
+   "Aging",
+   "Peripheral Vascular Diseases",
+   "Walking, Difficulty",
+   "Claudication"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT07676435",
+  "title": "Ongoing Lung Decline With Age Intensified Response",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Age-Related Lung Function Decline"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT06113016",
+  "title": "Prevention of Frailty With Fisetin and Exercise in Breast Cancer Survivors",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Anatomic Stage I Breast Cancer American Joint Committee on Cancer (AJCC) v8",
+   "Anatomic Stage II Breast Cancer AJCC v8",
+   "Anatomic Stage III Breast Cancer AJCC v8",
+   "Early Stage Breast Carcinoma"
+  ],
+  "interventions": [
+   "Biospecimen Collection",
+   "Educational Intervention",
+   "Exercise Intervention",
+   "Fisetin",
+   "Physical Performance Testing",
+   "Placebo Administration",
+   "Quality-of-Life Assessment",
+   "Questionnaire Administration"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT05416515",
+  "title": "A Study of Fisetin to Treat Carpal Tunnel Syndrome",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Carpal Tunnel Syndrome"
+  ],
+  "interventions": [
+   "Fisetin"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT07195318",
+  "title": "Fisetin Supplementation for Healthy Aging",
+  "status": "RECRUITING",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Healthy"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT05025956",
+  "title": "Senolytic Agent Improve the Benefit of Platelet-Rich Plasma and Losartan",
+  "status": "UNKNOWN",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Femoroacetabular Impingement"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT03430037",
+  "title": "Alleviation by Fisetin of Frailty, Inflammation, and Related Measures in Older Women",
+  "status": "ENROLLING_BY_INVITATION",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Frail Elderly Syndrome"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo oral capsule"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT04770064",
+  "title": "Targeting Senescence to Reduce Osteoarthritis Pain and cartilagE Breakdown (ROPE)",
+  "status": "WITHDRAWN",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Osteoarthritis, Knee"
+  ],
+  "interventions": [
+   "High-dose/short-duration Fisetin",
+   "Low-dose/sustained-duration Fisetin",
+   "Oral placebo capsule"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT06431932",
+  "title": "Pilot Trial of Fisetin in Healthy Volunteers and Older Patients With Multimorbidity",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Multimorbidity",
+   "Healthy"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT04815902",
+  "title": "Use of Senolytic and Anti-Fibrotic Agents to Improve the Beneficial Effect of Bone Marrow Stem Cells for Osteoarthritis",
+  "status": "UNKNOWN",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Osteoarthritis, Knee"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Losartan",
+   "Placebo - Losartan",
+   "Placebo Fisetin"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT04210986",
+  "title": "Senolytic Drugs Attenuate Osteoarthritis-Related Articular Cartilage Degeneration: A Clinical Trial",
+  "status": "COMPLETED",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Osteoarthritis, Knee"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo oral capsule"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT06990256",
+  "title": "Evaluation of Urolithin A and Fisetin on Improving Sleep and Aging Biomarkers",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Sleep Disorder",
+   "Aging"
+  ],
+  "interventions": [
+   "Fisetin intervention",
+   "Placebo",
+   "Urolithin A intervention"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT06133634",
+  "title": "Fisetin to Improve Vascular Function in Older Adults",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+   "PHASE1",
+   "PHASE2"
+  ],
+  "conditions": [
+   "Aging",
+   "Endothelial Dysfunction",
+   "Arterial Stiffness"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT05595499",
+  "title": "Fisetin to Improve Physical Function in Stage I-III Breast Cancer Survivors",
+  "status": "RECRUITING",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Anatomic Stage I Breast Cancer AJCC v8",
+   "Anatomic Stage II Breast Cancer AJCC v8",
+   "Anatomic Stage III Breast Cancer AJCC v8"
+  ],
+  "interventions": [
+   "Biospecimen Collection",
+   "Fisetin",
+   "Placebo Administration",
+   "Quality-of-Life Assessment",
+   "Questionnaire Administration"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT05505747",
+  "title": "Enhancing Recovery Through a Combined Mechanobiologic Intervention Following Meniscus Repair",
+  "status": "WITHDRAWN",
+  "phase": [
+   "PHASE2",
+   "PHASE3"
+  ],
+  "conditions": [
+   "Meniscus Tear",
+   "Meniscus; Derangement",
+   "Meniscus Lesion",
+   "Meniscus Disorder"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo oral capsule"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT03675724",
+  "title": "Alleviation by Fisetin of Frailty, Inflammation, and Related Measures in Older Adults",
+  "status": "ENROLLING_BY_INVITATION",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Frail Elderly Syndrome"
+  ],
+  "interventions": [
+   "Fisetin",
+   "Placebo oral capsule"
+  ],
+  "matched_term": "fisetin AND senescence"
+ },
+ {
+  "nct": "NCT07260513",
+  "title": "A Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of GH2616 in Subjects With Advanced Solid Tumor.",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": [
+   "PHASE1"
+  ],
+  "conditions": [
+   "Advanced Solid Tumor Cancer"
+  ],
+  "interventions": [
+   "GH2616 Tablets for oral administration at specified doses on scheduled days."
+  ],
+  "matched_term": "\"spindle assembly checkpoint\" AND inhibitor"
+ },
+ {
+  "nct": "NCT04213794",
+  "title": "Heated Intra-peritoneal Chemotherapy With Doxorubicin and Cisplatin for Abdominal for Pelvic Tumors in Pediatric Patients",
+  "status": "TERMINATED",
+  "phase": [
+   "EARLY_PHASE1"
+  ],
+  "conditions": [
+   "Malignant Abdominal Neoplasm",
+   "Malignant Pelvic Neoplasm",
+   "Recurrent Colon Carcinoma",
+   "Recurrent Desmoplastic Small Round Cell Tumor",
+   "Recurrent Fallopian Tube Carcinoma",
+   "Recurrent Gastric Carcinoma",
+   "Recurrent Liposarcoma",
+   "Recurrent Malignant Mesothelioma",
+   "Recurrent Ovarian Carcinoma",
+   "Recurrent Primary Peritoneal Carcinoma",
+   "Recurrent Rectal Carcinoma",
+   "Recurrent Rhabdomyosarcoma",
+   "Recurrent Sarcoma",
+   "Refractory Colon Carcinoma",
+   "Refractory Desmoplastic Small Round Cell Tumor",
+   "Refractory Fallopian Tube Carcinoma",
+   "Refractory Gastric Carcinoma",
+   "Refractory Liposarcoma",
+   "Refractory Malignant Mesothelioma",
+   "Refractory Ovarian Carcinoma",
+   "Refractory Primary Peritoneal Carcinoma",
+   "Refractory Rectal Carcinoma",
+   "Refractory Rhabdomyosarcoma",
+   "Refractory Sarcoma",
+   "Resectable Liposarcoma",
+   "Resectable Malignant Mesothelioma",
+   "Resectable Sarcoma"
+  ],
+  "interventions": [
+   "Cisplatin",
+   "Cytoreductive Surgery",
+   "Doxorubicin",
+   "Hyperthermic Intraperitoneal Chemotherapy",
+   "Sodium Thiosulfate",
+   "Computed Tomography",
+   "Magnetic Resonance Imaging",
+   "Positron Emission Tomography",
+   "Biospecimen Collection"
+  ],
+  "matched_term": "rhabdomyosarcoma AND surveillance"
+ },
+ {
+  "nct": "NCT07335770",
+  "title": "Cardiac Magnetic Resonance for Diagnosis, Treatment Guidance and Prognosis of Cardiac Masses (CMR)",
+  "status": "ENROLLING_BY_INVITATION",
+  "phase": null,
+  "conditions": [
+   "Cardiac Masses"
+  ],
+  "interventions": [
+   "CMR-Based Tissue Characterization + Lesion-Specific Clinical Management",
+   "CMR-Based Malignancy Differentiation + Tumor-Nature-Specific Clinical Management",
+   "CMR-Based Prognostic Stratification + Outcome-Targeted Follow-Up"
+  ],
+  "matched_term": "rhabdomyosarcoma AND surveillance"
+ },
+ {
+  "nct": "NCT06526897",
+  "title": "Evaluation of Chest CT Versus Chest X-Ray for Lung Surveillance After Curative-Intent Resection of High-Risk Truncal-Extremity Soft Tissue Sarcoma",
+  "status": "NOT_YET_RECRUITING",
+  "phase": [
+   "NA"
+  ],
+  "conditions": [
+   "Adult Pleomorphic Rhabdomyosarcoma",
+   "AJCC Grade 2 Sarcoma",
+   "AJCC Grade 3 Sarcoma",
+   "Alveolar Soft Part Sarcoma",
+   "Angiosarcoma",
+   "Clear Cell Sarcoma of Soft Tissue",
+   "Dedifferentiated Liposarcoma",
+   "Extraskeletal Ewing Sarcoma",
+   "Extraskeletal Myxoid Chondrosarcoma",
+   "Fibrosarcoma",
+   "Fibrosarcomatous Dermatofibrosarcoma Protuberans",
+   "Leiomyosarcoma",
+   "Malignant Peripheral Nerve Sheath Tumor",
+   "Myxofibrosarcoma",
+   "Pleomorphic Liposarcoma",
+   "Round Cell Sarcoma With EWSR1-non-ETS Fusion",
+   "Sarcoma",
+   "Soft Tissue Sarcoma",
+   "Soft Tissue Sarcoma of the Trunk and Extremities",
+   "Spindle Cell Sarcoma",
+   "Stage III Soft Tissue Sarcoma of the Trunk and Extremities AJCC v8",
+   "Synovial Sarcoma",
+   "Undifferentiated Pleomorphic Sarcoma"
+  ],
+  "interventions": [
+   "Biopsy",
+   "Chest Computed Tomography",
+   "Chest Radiography",
+   "Quality-of-Life Assessment",
+   "Questionnaire Administration"
+  ],
+  "matched_term": "rhabdomyosarcoma AND surveillance"
+ },
+ {
+  "nct": "NCT02100891",
+  "title": "Phase 2 STIR Trial: Haploidentical Transplant and Donor Natural Killer Cells for Solid Tumors",
+  "status": "TERMINATED",
+  "phase": [
+   "PHASE2"
+  ],
+  "conditions": [
+   "Ewing Sarcoma",
+   "Neuroblastoma",
+   "Rhabdomyosarcoma",
+   "Osteosarcoma",
+   "CNS Tumors"
+  ],
+  "interventions": [
+   "Allogeneic HCT",
+   "Donor NK Cell Infusion"
+  ],
+  "matched_term": "rhabdomyosarcoma AND surveillance"
+ }
+]

@@ -1,0 +1,1868 @@
+target_gene	drug	chembl_id	approved	max_phase	drug_type	moa	score	sources	source
+AURKA	PACLITAXEL PROTEIN-BOUND	rxcui:486610	True				0.01	CIViC	dgidb
+AURKA	COMPOUND 46 [PMID: 16451062]	iuphar.ligand:8355	False			inhibitor	0.31	GuideToPharmacology	dgidb
+AURKA	AURORA KINASE INHIBITOR II	iuphar.ligand:5930	False			inhibitor	0.31	GuideToPharmacology	dgidb
+AURKA	CENISERTIB	ncit:C64540	False			inhibitor	0.25	TdgClinicalTrial|MyCancerGenome|TALC|TTD	dgidb
+AURKA	BARASERTIB-HQPA	iuphar.ligand:5663	False				0.03	DTC	dgidb
+AURKA	GSK143	iuphar.ligand:9388	False			inhibitor	0.31	GuideToPharmacology	dgidb
+AURKA	DUBERMATINIB	ncit:C127116	False			inhibitor	0.1	GuideToPharmacology	dgidb
+AURKA	TOZASERTIB LACTATE	ncit:C61319	False				0.21	TTD	dgidb
+AURKA	PF-03814735	drugbank:DB13059	False			inhibitor	0.62	MyCancerGenome|TALC	dgidb
+AURKA	HESPERADIN	iuphar.ligand:8354	False			inhibitor	0.02	DTC	dgidb
+AURKA	ALISERTIB	ncit:C71717	False			inhibitor|inhibitor	0.15	DTC|CancerCommons|MyCancerGenomeClinicalTrial|TdgClinicalTrial|MyCancerGenome|GuideToPharmacology|CIViC|TALC|TTD|ChEMBL	dgidb
+AURKA	SNS-314	drugbank:DB06134	False			inhibitor	0.62	TdgClinicalTrial|MyCancerGenome|TTD	dgidb
+AURKA	GSK2334470	iuphar.ligand:8008	False			inhibitor	0.1	GuideToPharmacology	dgidb
+AURKA	JUGLONE	iuphar.ligand:13647	False			inhibitor	0.03	GuideToPharmacology	dgidb
+AURKA	BARASERTIB	ncit:C62502	False			inhibitor	0.11	DTC|GuideToPharmacology	dgidb
+AURKA	AMG-900	iuphar.ligand:8060	False			inhibitor|inhibitor	0.62	MyCancerGenome|GuideToPharmacology|ClearityFoundationClinicalTrial|TALC|ChEMBL	dgidb
+AURKA	TTP-607	chembl:CHEMBL3545327	False			inhibitor	0.21	ChEMBL	dgidb
+AURKA	MK-5108	chembl:CHEMBL3600873	False			inhibitor	0.62	ChEMBL	dgidb
+AURKA	ENMD-2076	iuphar.ligand:7885	False			inhibitor|inhibitor	0.15	TdgClinicalTrial|MyCancerGenome|GuideToPharmacology|ClearityFoundationClinicalTrial|TTD|ChEMBL	dgidb
+AURKA	CYC-116	chembl:CHEMBL482967	False			inhibitor	0.02	DTC|ChEMBL	dgidb
+AURKA	RG-1530	iuphar.ligand:10361	False			inhibitor|inhibitor	0.02	DTC|GuideToPharmacology|ChEMBL	dgidb
+AURKA	AURORA A KINASE INHIBITOR MK5108	ncit:C90585	False			inhibitor	1.25	MyCancerGenome|TALC	dgidb
+AURKA	TOZASERTIB	ncit:C98053	False			inhibitor|inhibitor	0.05	DTC|TdgClinicalTrial|GuideToPharmacology|TALC|ChEMBL	dgidb
+AURKA	AURORA KINASE INHIBITOR AMG 900	ncit:C82349	False				0.16	TTD	dgidb
+AURKA	DIMETHYLADENINE	chembl:CHEMBL407391	False				0.07	DTC	dgidb
+AURKA	N-{3-[(4-{[3-(TRIFLUOROMETHYL)PHENYL]AMINO}PYRIMIDIN-2-YL)AMINO]PHENYL}CYCLOPROPANECARBOXAMIDE	drugbank:DB07545	False			inhibitor	0.62	GuideToPharmacology	dgidb
+AURKA	TAMOXIFEN	rxcui:10324	True				0.03	CIViC	dgidb
+AURKA	CHEMBL:CHEMBL546797	chembl:CHEMBL546797	False				0.02	DTC	dgidb
+AURKA	ILORASERTIB	ncit:C116729	False			inhibitor|inhibitor	0.02	DTC|GuideToPharmacology|TTD|ChEMBL	dgidb
+AURKA	AT-9283	iuphar.ligand:7949	False			inhibitor	0.1	GuideToPharmacology	dgidb
+AURKA	MLN8054	drugbank:DB13061	False				0.62	TTD	dgidb
+AURKA	MLN-8054	iuphar.ligand:5696	False			inhibitor|inhibitor	0.12	DTC|GuideToPharmacology|ChEMBL	dgidb
+AURKA	EUPATORIN	iuphar.ligand:13862	False				0.1	DTC	dgidb
+AURKA	CYC116	drugbank:DB05198	False			inhibitor	0.47	TdgClinicalTrial|TALC|TTD	dgidb
+AURKA	PF-562271	iuphar.ligand:9381	False			inhibitor	0.01	DTC|GuideToPharmacology	dgidb
+AURKA	PAZOPANIB	rxcui:714438	True				0.01	DTC	dgidb
+AURKA	ENMD-981693	chembl:CHEMBL52885	False			inhibitor	0.03	ChEMBL	dgidb
+AURKA	BETA-CARBOLINE	iuphar.ligand:8222	False				0.16	DTC	dgidb
+AURKA	EP-0042	drugbank:DB18120	False			inhibitor	0.21	GuideToPharmacology	dgidb
+AURKA	XL228	drugbank:DB05184	False			inhibitor	0.18	TdgClinicalTrial|TALC	dgidb
+AURKA	VIC 1911	iuphar.ligand:12070	False			inhibitor|inhibitor	0.93	GuideToPharmacology|TTD|ChEMBL	dgidb
+AURKA	BI-847325	iuphar.ligand:12661	False			inhibitor|inhibitor	0.16	MyCancerGenome|GuideToPharmacology	dgidb
+AURKA	VTX-11E	iuphar.ligand:9375	False			inhibitor	0.12	GuideToPharmacology	dgidb
+AURKA	SK5527	iuphar.ligand:14285	False				0.31	GuideToPharmacology	dgidb
+AURKA	TINENGOTINIB	iuphar.ligand:11887	False			inhibitor	0.09	GuideToPharmacology	dgidb
+AURKA	TAMATINIB	iuphar.ligand:5706	False				0.01	DTC	dgidb
+AURKA	G&OUML; 6976	iuphar.ligand:5973	False				0.01	DTC	dgidb
+AURKA	DANUSERTIB	ncit:C61587	False			inhibitor|inhibitor	0.42	MyCancerGenome|GuideToPharmacology|TTD|ChEMBL	dgidb
+AURKA	MK-6592	chembl:CHEMBL3545378	False			inhibitor	0.21	ChEMBL	dgidb
+AURKA	GW441756X	chembl:CHEMBL1516890	False				0.01	DTC	dgidb
+AURKA	KENPAULLONE	iuphar.ligand:6000	False				0.01	DTC	dgidb
+AURKA	ZM447439	iuphar.ligand:8353	False			inhibitor	0.07	DTC|GuideToPharmacology	dgidb
+AURKA	COMPOUND 38 [PMID: 20817473]	iuphar.ligand:8768	False			inhibitor	0.16	GuideToPharmacology	dgidb
+AURKA	XMD-12	iuphar.ligand:11665	False			inhibitor	0.21	GuideToPharmacology	dgidb
+AURKA	RHO KINASE INHIBITOR IV	iuphar.ligand:6033	False			inhibitor	0.31	GuideToPharmacology	dgidb
+AURKA	ALISERTIB SODIUM	ncit:C142912	False			inhibitor	0.62	ClearityFoundationClinicalTrial	dgidb
+AURKA	SORAFENIB	rxcui:495881	True				0.01	DTC	dgidb
+AURKA	PLATINUM COMPOUND	ncit:C1450	False				0.16	CIViC	dgidb
+AURKA	CDK2 INHIBITOR IV	iuphar.ligand:5949	False			inhibitor	0.08	GuideToPharmacology	dgidb
+AURKA	N-(5-METHYL-1H-PYRAZOL-3-YL)-2-PHENYLQUINAZOLIN-4-AMINE	drugbank:DB08454	False			inhibitor	0.21	GuideToPharmacology	dgidb
+AURKA	COMPOUND 25 [PMID: 20855207]	iuphar.ligand:8159	False			inhibitor	0.21	GuideToPharmacology	dgidb
+AURKA	ENTRECTINIB	rxcui:2197862	True				0.01	DTC	dgidb
+AURKA	KW-2449	iuphar.ligand:5691	False			inhibitor|inhibitor	0.25	GuideToPharmacology|ChEMBL	dgidb
+AURKA	CP-547632	iuphar.ligand:7881	False				0.01	DTC	dgidb
+AURKA	COMPOUND 10 [PMID: 19402633]	iuphar.ligand:8466	False			inhibitor	0.31	GuideToPharmacology	dgidb
+AURKA	AST-487	iuphar.ligand:5661	False				0.02	DTC	dgidb
+AURKA	GSK1070916	iuphar.ligand:8358	False			inhibitor	0.21	GuideToPharmacology	dgidb
+AURKA	FLUOROURACIL	rxcui:4492	True				0.01	CIViC	dgidb
+AURKA	CISPLATIN	rxcui:2555	True				0.01	CIViC	dgidb
+AURKA	ANACARDIC ACID	chembl:CHEMBL33778	False				0.25	DTC	dgidb
+AURKA	GSK2646264	iuphar.ligand:10108	False			inhibitor	0.08	GuideToPharmacology	dgidb
+AURKA	GSK269962A	iuphar.ligand:8037	False				0.01	DTC	dgidb
+AURKA	COMPOUND 16 [PMID: 18945615]	iuphar.ligand:8178	False			inhibitor	0.16	GuideToPharmacology	dgidb
+AURKA	NERVIANO	chembl:CHEMBL1172241	False				0.62	DTC	dgidb
+AURKA	AT9283	drugbank:DB05169	False			inhibitor	0.23	TdgClinicalTrial|MyCancerGenome|TALC|TTD	dgidb
+AURKA	NVP-TAE684	iuphar.ligand:5714	False				0.01	DTC	dgidb
+AURKA	JNJ-7706621	iuphar.ligand:5932	False			inhibitor	0.02	DTC|GuideToPharmacology	dgidb
+AURKA	CHEMBL:CHEMBL578061	chembl:CHEMBL578061	False				0.02	DTC	dgidb
+TTK	COMPOUND 27F [PMID: 25625617]	iuphar.ligand:9238	False			inhibitor	3.53	GuideToPharmacology	dgidb
+TTK	EMPESERTIB	ncit:C116074	False			inhibitor	1.18	GuideToPharmacology	dgidb
+TTK	GNE-7915	iuphar.ligand:8073	False			inhibitor	1.76	GuideToPharmacology	dgidb
+TTK	MPI-0479605	iuphar.ligand:9399	False			inhibitor	1.18	GuideToPharmacology	dgidb
+TTK	COMPOUND 34H [PMID: 27055065]	iuphar.ligand:9169	False			inhibitor	3.53	GuideToPharmacology	dgidb
+TTK	BAY1217389	iuphar.ligand:12705	False			inhibitor|inhibitor	3.53	GuideToPharmacology|ChEMBL	dgidb
+TTK	NMS-P715	iuphar.ligand:9401	False			inhibitor	1.76	GuideToPharmacology	dgidb
+TTK	MPS1-IN-1	iuphar.ligand:9271	False			inhibitor	1.76	GuideToPharmacology	dgidb
+TTK	AZ3146	iuphar.ligand:9400	False			inhibitor	3.53	GuideToPharmacology	dgidb
+TTK	BAY-1161909	chembl:CHEMBL4303241	False			inhibitor	3.53	ChEMBL	dgidb
+TTK	LUVIXASERTIB	iuphar.ligand:11664	False			inhibitor	3.53	GuideToPharmacology	dgidb
+TTK	COMPOUND 20 [PMID: 30998356]	iuphar.ligand:10371	False			inhibitor	0.39	GuideToPharmacology	dgidb
+TTK	BOS172722	drugbank:DB15498	False			inhibitor	0.59	GuideToPharmacology	dgidb
+TTK	HESPERADIN	iuphar.ligand:8354	False			inhibitor	0.09	DTC	dgidb
+TTK	RO3280	iuphar.ligand:9403	False			inhibitor	0.71	GuideToPharmacology	dgidb
+AURKB	COMPOUND 46 [PMID: 16451062]	iuphar.ligand:8355	False			inhibitor	0.29	GuideToPharmacology	dgidb
+AURKB	GSK2334470	iuphar.ligand:8008	False			inhibitor	0.1	GuideToPharmacology	dgidb
+AURKB	BMS-754807	iuphar.ligand:7952	False				0.15	DTC	dgidb
+AURKB	MK-5108	drugbank:DB12556	False				0.19	TTD	dgidb
+AURKB	BX-795	iuphar.ligand:8006	False			inhibitor	0.06	GuideToPharmacology	dgidb
+AURKB	GSK1070916	iuphar.ligand:8358	False			inhibitor|inhibitor	0.97	MyCancerGenome|GuideToPharmacology|TALC|TTD|ChEMBL	dgidb
+AURKB	XMD-12	iuphar.ligand:11665	False			inhibitor	0.19	GuideToPharmacology	dgidb
+AURKB	IBCASERTIB	chembl:CHEMBL5095033	False			inhibitor	0.15	ChEMBL	dgidb
+AURKB	COMPOUND 10 [PMID: 19402633]	iuphar.ligand:8466	False			inhibitor	0.29	GuideToPharmacology	dgidb
+AURKB	AURORA KINASE INHIBITOR AMG 900	ncit:C82349	False				0.15	TTD	dgidb
+AURKB	CHEMBL:CHEMBL379975	chembl:CHEMBL379975	False				0.01	DTC	dgidb
+AURKB	WITHAFERIN A	iuphar.ligand:13097	False				0.1	DTC	dgidb
+AURKB	CYC-116	chembl:CHEMBL482967	False			inhibitor	0.02	DTC|ChEMBL	dgidb
+AURKB	(3Z)-N,N-DIMETHYL-2-OXO-3-(4,5,6,7-TETRAHYDRO-1H-INDOL-2-YLMETHYLIDENE)-2,3-DIHYDRO-1H-INDOLE-5-SULFONAMIDE	drugbank:DB08039	False			inhibitor	0.03	GuideToPharmacology	dgidb
+AURKB	JNJ-7706621	iuphar.ligand:5932	False			inhibitor	0.02	DTC|GuideToPharmacology	dgidb
+AURKB	DASATINIB ANHYDROUS	rxcui:1546019	True				0.01	DTC	dgidb
+AURKB	BI-811283	chembl:CHEMBL3545395	False			inhibitor	1.75	TTD|ChEMBL	dgidb
+AURKB	LAPATINIB	rxcui:480167	True				0.02	DTC	dgidb
+AURKB	CHEMBL:CHEMBL546797	chembl:CHEMBL546797	False				0.02	DTC	dgidb
+AURKB	NERVIANO	chembl:CHEMBL1172241	False				0.58	DTC	dgidb
+AURKB	COPANLISIB	rxcui:1945077	True				0.06	CIViC	dgidb
+AURKB	TAK-901	chembl:CHEMBL3544932	False			inhibitor	0.58	ChEMBL	dgidb
+AURKB	BARASERTIB	ncit:C62502	False			inhibitor|inhibitor	0.42	DTC|MyCancerGenome|GuideToPharmacology|CIViC|TALC|ChEMBL	dgidb
+AURKB	CENISERTIB	chembl:CHEMBL1967878	False			inhibitor	0.01	ChEMBL	dgidb
+AURKB	TAK-632	iuphar.ligand:10387	False			inhibitor	0.07	GuideToPharmacology	dgidb
+AURKB	BARASERTIB-HQPA	iuphar.ligand:5663	False			inhibitor	0.11	DTC|GuideToPharmacology|TTD	dgidb
+AURKB	KW-2449	iuphar.ligand:5691	False			inhibitor|inhibitor	0.23	GuideToPharmacology|ChEMBL	dgidb
+AURKB	COMPOUND 25 [PMID: 20855207]	iuphar.ligand:8159	False			inhibitor	0.19	GuideToPharmacology	dgidb
+AURKB	AMG-900	iuphar.ligand:8060	False			inhibitor|inhibitor	0.58	MyCancerGenome|GuideToPharmacology|ClearityFoundationClinicalTrial|TALC|ChEMBL	dgidb
+AURKB	CP-547632	iuphar.ligand:7881	False				0.01	DTC	dgidb
+AURKB	SORAFENIB	rxcui:495881	True				0.01	DTC	dgidb
+AURKB	EP-0042	drugbank:DB18120	False			inhibitor	0.19	GuideToPharmacology	dgidb
+AURKB	ZM447439	iuphar.ligand:8353	False			inhibitor	0.07	DTC|GuideToPharmacology	dgidb
+AURKB	HESPERADIN	iuphar.ligand:8354	False			inhibitor|inhibitor	0.02	DTC|GuideToPharmacology	dgidb
+AURKB	BAY 61-3606	iuphar.ligand:9693	False				0.01	DTC	dgidb
+AURKB	GSK269962A	iuphar.ligand:8037	False				0.01	DTC	dgidb
+AURKB	TOZASERTIB	ncit:C98053	False			inhibitor|inhibitor	0.06	DTC|TdgClinicalTrial|GuideToPharmacology|TALC|ChEMBL	dgidb
+AURKB	AT9283	drugbank:DB05169	False			inhibitor	0.21	TdgClinicalTrial|MyCancerGenome|TALC|TTD	dgidb
+AURKB	PF-03814735	drugbank:DB13059	False			inhibitor	0.58	MyCancerGenome|TALC	dgidb
+AURKB	TOZASERTIB LACTATE	ncit:C61319	False				0.19	TTD	dgidb
+AURKB	SNS-314	chembl:CHEMBL482767	False			inhibitor	0.01	ChEMBL	dgidb
+AURKB	PD166285	iuphar.ligand:8183	False				0.01	DTC	dgidb
+AURKB	GSK2646264	iuphar.ligand:10108	False			inhibitor	0.07	GuideToPharmacology	dgidb
+AURKB	DACTOLISIB	ncit:C74072	False				0.01	DTC	dgidb
+AURKB	GW441756X	chembl:CHEMBL1516890	False				0.01	DTC	dgidb
+AURKB	MK-6592	chembl:CHEMBL3545378	False			inhibitor	0.19	ChEMBL	dgidb
+AURKB	VANDETANIB	rxcui:1098413	True				0.01	DTC	dgidb
+AURKB	G&OUML; 6976	iuphar.ligand:5973	False				0.01	DTC	dgidb
+AURKB	NIK INHIBITOR 12F	iuphar.ligand:10947	False			inhibitor	0.08	GuideToPharmacology	dgidb
+AURKB	AR-AO-14418	drugbank:DB01950	False				0.1	DTC	dgidb
+AURKB	ILORASERTIB	ncit:C116729	False			inhibitor|inhibitor	0.02	DTC|GuideToPharmacology|TTD|ChEMBL	dgidb
+AURKB	VIC 1911	iuphar.ligand:12070	False			inhibitor	0.29	GuideToPharmacology	dgidb
+AURKB	DUBERMATINIB	ncit:C127116	False			inhibitor	0.1	GuideToPharmacology	dgidb
+AURKB	DOVITINIB	ncit:C76199	False				0.01	DTC	dgidb
+AURKB	KENPAULLONE	iuphar.ligand:6000	False				0.01	DTC	dgidb
+AURKB	COMPOUND 1 [PMID: 21742770]	iuphar.ligand:8190	False			inhibitor	0.29	GuideToPharmacology	dgidb
+AURKB	SP-600125	chembl:CHEMBL1725279	False				0.01	DTC	dgidb
+AURKB	AT-9283	iuphar.ligand:7949	False			inhibitor	0.1	GuideToPharmacology	dgidb
+AURKB	FASUDIL	ncit:C65624	False				0.02	DTC	dgidb
+AURKB	EUPATORIN	iuphar.ligand:13862	False				0.1	DTC	dgidb
+AURKB	CHEMBL:CHEMBL535331	chembl:CHEMBL535331	False				0.06	DTC	dgidb
+AURKB	LAS38096	iuphar.ligand:5617	False				0.05	DTC	dgidb
+AURKB	COMPOUND 38 [PMID: 20817473]	iuphar.ligand:8768	False			inhibitor	0.15	GuideToPharmacology	dgidb
+AURKB	LINIFANIB	ncit:C71759	False				0.01	DTC	dgidb
+AURKB	ENMD-2076	iuphar.ligand:7885	False			inhibitor	0.02	ChEMBL	dgidb
+AURKB	AURORA B/C KINASE INHIBITOR GSK1070916A	ncit:C91081	False				0.29	TTD	dgidb
+AURKB	AURORA KINASE INHIBITOR II	iuphar.ligand:5930	False			inhibitor	0.29	GuideToPharmacology	dgidb
+AURKB	NVP-TAE684	iuphar.ligand:5714	False				0.01	DTC	dgidb
+AURKB	CEDIRANIB	ncit:C80867	False				0.01	DTC	dgidb
+AURKB	BMS-345541	iuphar.ligand:5669	False				0.06	DTC	dgidb
+AURKB	CDK2 INHIBITOR IV	iuphar.ligand:5949	False			inhibitor	0.07	GuideToPharmacology	dgidb
+AURKB	CYC116	drugbank:DB05198	False			inhibitor	0.44	TdgClinicalTrial|TALC|TTD	dgidb
+AURKB	ENTRECTINIB	rxcui:2197862	True				0.01	DTC	dgidb
+AURKB	ALISERTIB	ncit:C71717	False				0.04	DTC|CIViC	dgidb
+AURKB	PAZOPANIB	rxcui:714438	True				0.01	DTC	dgidb
+AURKB	ERLOTINIB	rxcui:337525	True				0.01	DTC	dgidb
+AURKB	DANUSERTIB	ncit:C61587	False			inhibitor|inhibitor	0.48	MyCancerGenome|GuideToPharmacology|TALC|TTD|ChEMBL	dgidb
+AURKB	BELUMOSUDIL	rxcui:2564025	True				0.06	DTC	dgidb
+AURKB	TTP-607	chembl:CHEMBL3545327	False			inhibitor	0.19	ChEMBL	dgidb
+AURKB	MLN-8054	iuphar.ligand:5696	False			inhibitor	0.06	DTC|GuideToPharmacology	dgidb
+AURKB	BI-847325	iuphar.ligand:12661	False			inhibitor	0.15	MyCancerGenome|TTD	dgidb
+AURKB	PF-562271	iuphar.ligand:9381	False				0.01	DTC	dgidb
+AURKB	TINENGOTINIB	iuphar.ligand:11887	False			inhibitor	0.08	GuideToPharmacology	dgidb
+PLK1	OLEIC ACID	rxcui:7631	True				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL171699	chembl:CHEMBL171699	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL467987	chembl:CHEMBL467987	False				0.05	DTC	dgidb
+PLK1	PHOSMET	chembl:CHEMBL1481873	False				0.06	DTC	dgidb
+PLK1	CHEMBL:CHEMBL565893	chembl:CHEMBL565893	False				0.05	DTC	dgidb
+PLK1	POLO-LIKE KINASE 1 INHIBITOR GSK461364	ncit:C70948	False			inhibitor	0.42	MyCancerGenome|TALC|TTD	dgidb
+PLK1	PROTOPORPHYRIN	drugbank:DB02285	False				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1412002	chembl:CHEMBL1412002	False				0.07	DTC	dgidb
+PLK1	CHEMBL:CHEMBL523200	chembl:CHEMBL523200	False				0.02	DTC	dgidb
+PLK1	SCLEROTIORIN	chembl:CHEMBL1095515	False				0.03	DTC	dgidb
+PLK1	(4-CHLOROPHENYL)(MORPHOLINO)METHANETHIONE	chembl:CHEMBL1348974	False				0.07	DTC	dgidb
+PLK1	CHEMBL:CHEMBL24983	chembl:CHEMBL24983	False				0.02	DTC	dgidb
+PLK1	EMBELIN	chembl:CHEMBL221137	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL175266	chembl:CHEMBL175266	False				0.02	DTC	dgidb
+PLK1	NMS-1286937	chembl:CHEMBL1094408	False			inhibitor	0.56	MyCancerGenome|TTD	dgidb
+PLK1	ANTISENSE OLIGONUCLEOTIDES	ncit:C1291	False				0.02	NCI	dgidb
+PLK1	CHEMBL:CHEMBL1310701	chembl:CHEMBL1310701	False				0.05	DTC	dgidb
+PLK1	CHEMBL:CHEMBL534535	chembl:CHEMBL534535	False				0.07	DTC	dgidb
+PLK1	CHEMBL:CHEMBL599712	chembl:CHEMBL599712	False				0.14	DTC	dgidb
+PLK1	COMPOUND 8 [PMID: 17480064]	iuphar.ligand:8763	False				0.0	DTC	dgidb
+PLK1	BI-2536	iuphar.ligand:5666	False			inhibitor|inhibitor	0.33	DTC|MyCancerGenome|GuideToPharmacology|TALC|ChEMBL	dgidb
+PLK1	CHEMBL:CHEMBL1426508	chembl:CHEMBL1426508	False				0.06	DTC	dgidb
+PLK1	CHEMBL:CHEMBL590665	chembl:CHEMBL590665	False				0.09	DTC	dgidb
+PLK1	CHEMBL:CHEMBL122355	chembl:CHEMBL122355	False				0.04	DTC	dgidb
+PLK1	ONVANSERTIB	ncit:C143162	False			inhibitor|inhibitor	0.22	GuideToPharmacology|TALC|TTD|ChEMBL	dgidb
+PLK1	CHEMBL:CHEMBL421431	chembl:CHEMBL421431	False				0.28	DTC	dgidb
+PLK1	MK-1496	drugbank:DB12763	False				0.28	TTD	dgidb
+PLK1	ACID BLUE 129	chembl:CHEMBL133576	False				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1519374	chembl:CHEMBL1519374	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1537417	chembl:CHEMBL1537417	False				0.03	DTC	dgidb
+PLK1	RO3280	iuphar.ligand:9403	False			inhibitor	0.06	GuideToPharmacology	dgidb
+PLK1	VOLASERTIB	ncit:C79844	False			inhibitor|inhibitor	0.28	MyCancerGenome|GuideToPharmacology|TALC|TTD|ChEMBL	dgidb
+PLK1	CHEMBL:CHEMBL528373	chembl:CHEMBL528373	False				0.28	DTC	dgidb
+PLK1	CHEMBL:CHEMBL119878	chembl:CHEMBL119878	False				0.04	DTC	dgidb
+PLK1	CHEMBL:CHEMBL538798	chembl:CHEMBL538798	False				0.03	DTC	dgidb
+PLK1	CRYPTOTANSHINONE	chembl:CHEMBL187460	False				0.02	DTC	dgidb
+PLK1	ACITRETIN	rxcui:16818	True				0.02	DTC	dgidb
+PLK1	RIGOSERTIB	ncit:C152216	False				0.07	TdgClinicalTrial|TTD	dgidb
+PLK1	MLN0905	iuphar.ligand:9402	False			inhibitor	0.28	GuideToPharmacology	dgidb
+PLK1	GW853606	iuphar.ligand:8645	False			inhibitor	0.28	GuideToPharmacology	dgidb
+PLK1	CEFAMANDOLE SODIUM	chembl:CHEMBL1360024	False				0.02	DTC	dgidb
+PLK1	OXYTETRACYCLINE ANHYDROUS	rxcui:1545999	True				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL588749	chembl:CHEMBL588749	False				0.28	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1310138	chembl:CHEMBL1310138	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL585628	chembl:CHEMBL585628	False				0.05	DTC	dgidb
+PLK1	1,4-DIMETHOXYANTHRAQUINONE	chembl:CHEMBL570408	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1232076	chembl:CHEMBL1232076	False				0.06	DTC	dgidb
+PLK1	PURPURIN	chembl:CHEMBL294264	False				0.01	DTC	dgidb
+PLK1	XY-06-007	iuphar.ligand:12141	False			inhibitor	0.14	GuideToPharmacology	dgidb
+PLK1	CHEMBL:CHEMBL530149	chembl:CHEMBL530149	False				0.09	DTC	dgidb
+PLK1	EBSELEN	ncit:C65503	False				0.01	DTC	dgidb
+PLK1	STAVUDINE	rxcui:59763	True				0.02	DTC	dgidb
+PLK1	GSK579289A	iuphar.ligand:8150	False			inhibitor	0.14	GuideToPharmacology	dgidb
+PLK1	PLOGOSERTIB	ncit:C162375	False			inhibitor	0.28	GuideToPharmacology	dgidb
+PLK1	CHEMBL:CHEMBL1306556	chembl:CHEMBL1306556	False				0.05	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1605629	chembl:CHEMBL1605629	False				0.09	DTC	dgidb
+PLK1	CHEMBL:CHEMBL592314	chembl:CHEMBL592314	False				0.09	DTC	dgidb
+PLK1	FLUORESCEIN DIACETATE	chembl:CHEMBL1492044	False				0.09	DTC	dgidb
+PLK1	CHEMBL:CHEMBL585279	chembl:CHEMBL585279	False				0.28	DTC	dgidb
+PLK1	GW843682X	chembl:CHEMBL514499	False				0.01	DTC	dgidb
+PLK1	THIRAM	chembl:CHEMBL120563	False				0.01	DTC	dgidb
+PLK1	FLUPIRTINE MALEATE	chembl:CHEMBL1256752	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL585654	chembl:CHEMBL585654	False				0.06	DTC	dgidb
+PLK1	CHEMBL:CHEMBL587449	chembl:CHEMBL587449	False				0.09	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1363249	chembl:CHEMBL1363249	False				0.05	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1255944	chembl:CHEMBL1255944	False				0.03	DTC	dgidb
+PLK1	SIMVASTATIN	rxcui:36567	True				0.01	DTC	dgidb
+PLK1	DISULFIRAM	rxcui:3554	True				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1362503	chembl:CHEMBL1362503	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL184450	chembl:CHEMBL184450	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL602969	chembl:CHEMBL602969	False				0.02	DTC	dgidb
+PLK1	CEPHALOCHROMIN	chembl:CHEMBL463175	False				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1503729	chembl:CHEMBL1503729	False				0.03	DTC	dgidb
+PLK1	IDARUBICIN HYDROCHLORIDE	chembl:CHEMBL1200976	True				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1451216	chembl:CHEMBL1451216	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL577365	chembl:CHEMBL577365	False				0.28	DTC	dgidb
+PLK1	CHEMBL:CHEMBL462861	chembl:CHEMBL462861	False				0.09	DTC	dgidb
+PLK1	CHEMBL:CHEMBL527584	chembl:CHEMBL527584	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL515505	chembl:CHEMBL515505	False				0.01	DTC	dgidb
+PLK1	BENSERAZIDE HYDROCHLORIDE	chembl:CHEMBL1255778	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL584619	chembl:CHEMBL584619	False				0.28	DTC	dgidb
+PLK1	PURPUROGALLIN	chembl:CHEMBL66953	False				0.01	DTC	dgidb
+PLK1	TOSUFLOXACIN TOSYLATE	chembl:CHEMBL104270	False				0.09	DTC	dgidb
+PLK1	CHEMBL:CHEMBL84281	chembl:CHEMBL84281	False				0.28	DTC	dgidb
+PLK1	CHEMBL:CHEMBL223575	chembl:CHEMBL223575	False				0.07	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1547715	chembl:CHEMBL1547715	False				0.28	DTC	dgidb
+PLK1	CHLORPYRIFOS	chembl:CHEMBL463210	False				0.06	DTC	dgidb
+PLK1	GSK-461364A	iuphar.ligand:5684	False			inhibitor|inhibitor	0.56	GuideToPharmacology|ChEMBL	dgidb
+PLK1	GUTHION	chembl:CHEMBL530115	False				0.02	DTC	dgidb
+PLK1	6-CHLORONICOTINIC ACID	chembl:CHEMBL1723657	False				0.28	DTC	dgidb
+PLK1	CHEMBL:CHEMBL548629	chembl:CHEMBL548629	False				0.14	DTC	dgidb
+PLK1	NANAOMYCIN	chembl:CHEMBL1212972	False				0.02	DTC	dgidb
+PLK1	CEFACLOR ANHYDROUS	rxcui:1450910	True				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL151797	chembl:CHEMBL151797	False				0.06	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1701915	chembl:CHEMBL1701915	False				0.04	DTC	dgidb
+PLK1	OXYPHENBUTAZONE	rxcui:7816	False				0.03	DTC	dgidb
+PLK1	PENTABROMOPHENOL	chembl:CHEMBL1235157	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL118678	chembl:CHEMBL118678	False				0.05	DTC	dgidb
+PLK1	AROTINOID ACID	drugbank:DB02877	False				0.02	DTC	dgidb
+PLK1	COMPOUND 2 [PMID: 19097784]	iuphar.ligand:8646	False			inhibitor	0.28	GuideToPharmacology	dgidb
+PLK1	CHEMBL:CHEMBL118378	chembl:CHEMBL118378	False				0.14	DTC	dgidb
+PLK1	PHYSODIC ACID	chembl:CHEMBL171637	False				0.03	DTC	dgidb
+PLK1	NVP-TAE684	iuphar.ligand:5714	False				0.0	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1459280	chembl:CHEMBL1459280	False				0.05	DTC	dgidb
+PLK1	CHEMBL:CHEMBL582478	chembl:CHEMBL582478	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1287980	chembl:CHEMBL1287980	False				0.04	DTC	dgidb
+PLK1	CHEMBL:CHEMBL297304	chembl:CHEMBL297304	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL599924	chembl:CHEMBL599924	False				0.02	DTC	dgidb
+PLK1	HAEMATOXYLIN	chembl:CHEMBL1479103	False				0.01	DTC	dgidb
+PLK1	CAFUSERTIB	chembl:CHEMBL3545354	False			inhibitor	0.28	ChEMBL	dgidb
+PLK1	LANSOPRAZOLE	rxcui:17128	True				0.01	DTC	dgidb
+PLK1	THIOGUANOSINE	chembl:CHEMBL283078	False				0.06	DTC	dgidb
+PLK1	LIPID ENCAPSULATED ANTI-PLK1 SIRNA TKM-PLK1	ncit:C116889	False				0.28	TdgClinicalTrial	dgidb
+PLK1	AMBUNOL	chembl:CHEMBL454893	False				0.06	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1271059	chembl:CHEMBL1271059	False				0.09	DTC	dgidb
+PLK1	LOBARIC ACID	chembl:CHEMBL551842	False				0.02	DTC	dgidb
+PLK1	PENTOSALEN	chembl:CHEMBL453805	False				0.14	DTC	dgidb
+PLK1	LOMOFUNGIN	chembl:CHEMBL1505471	False				0.02	DTC	dgidb
+PLK1	EUFLAVINE	chembl:CHEMBL354349	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL592558	chembl:CHEMBL592558	False				0.07	DTC	dgidb
+PLK1	HEXACHLOROPHENE	rxcui:5293	True				0.01	DTC	dgidb
+PLK1	GYROPHORIC ACID	chembl:CHEMBL470648	False				0.14	DTC	dgidb
+PLK1	CHEMBL:CHEMBL602807	chembl:CHEMBL602807	False				0.03	DTC	dgidb
+PLK1	BENZBROMARONE	rxcui:1385	True				0.02	DTC	dgidb
+PLK1	WNY0824	iuphar.ligand:12143	False			inhibitor	0.06	GuideToPharmacology	dgidb
+PLK1	PYRONIN Y	chembl:CHEMBL1486690	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1707907	chembl:CHEMBL1707907	False				0.07	DTC	dgidb
+PLK1	APOMORPHINE HYDROCHLORIDE	chembl:CHEMBL3187985	True				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL374632	chembl:CHEMBL374632	False				0.03	DTC	dgidb
+PLK1	HYDROXYZINE PAMOATE	chembl:CHEMBL1200467	True				0.03	DTC	dgidb
+PLK1	INAMRINONE	rxcui:738	True				0.02	DTC	dgidb
+PLK1	ELLAGIC ACID	iuphar.ligand:13035	False				0.01	DTC	dgidb
+PLK1	TOPOTECAN HYDROCHLORIDE	chembl:CHEMBL1607	True				0.03	DTC	dgidb
+PLK1	ERYTHROMYCIN	rxcui:4053	True				0.01	DTC	dgidb
+PLK1	CEFSULODIN SODIUM	rxcui:267417	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL125044	chembl:CHEMBL125044	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1486366	chembl:CHEMBL1486366	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL599957	chembl:CHEMBL599957	False				0.14	DTC	dgidb
+PLK1	VANITIOLIDE	chembl:CHEMBL1380480	False				0.09	DTC	dgidb
+PLK1	CHEMBL:CHEMBL103583	chembl:CHEMBL103583	False				0.03	DTC	dgidb
+PLK1	2,6-DIMETHOXYQUINONE	chembl:CHEMBL448515	False				0.04	DTC	dgidb
+PLK1	GW7647	iuphar.ligand:2674	False				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL121556	chembl:CHEMBL121556	False				0.09	DTC	dgidb
+PLK1	COMPOUND 6 [PMID: 30125504]	iuphar.ligand:10073	False			inhibitor	0.14	GuideToPharmacology	dgidb
+PLK1	OXIDOPAMINE HYDROCHLORIDE	chembl:CHEMBL451197	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL555260	chembl:CHEMBL555260	False				0.14	DTC	dgidb
+PLK1	CHEMBL:CHEMBL116548	chembl:CHEMBL116548	False				0.02	DTC	dgidb
+PLK1	CHEMBL:CHEMBL495852	chembl:CHEMBL495852	False				0.14	DTC	dgidb
+PLK1	SLAZINIC ACID	chembl:CHEMBL172439	False				0.01	DTC	dgidb
+PLK1	SENNOSIDE B	chembl:CHEMBL445268	False				0.02	DTC	dgidb
+PLK1	PYROGALLOL RED	chembl:CHEMBL210208	False				0.01	DTC	dgidb
+PLK1	DUAL BRD4/PLK1 INHIBITOR 23	iuphar.ligand:10072	False			inhibitor	0.14	GuideToPharmacology	dgidb
+PLK1	RG-1530	iuphar.ligand:10361	False				0.0	DTC	dgidb
+PLK1	THIMEROSAL	chembl:CHEMBL508338	False				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1489812	chembl:CHEMBL1489812	False				0.06	DTC	dgidb
+PLK1	CHEMBL:CHEMBL582764	chembl:CHEMBL582764	False				0.14	DTC	dgidb
+PLK1	WORTMANNIN	ncit:C1277	False				0.03	NCI	dgidb
+PLK1	PROROXAN HYDROCHLORIDE	chembl:CHEMBL1334693	False				0.04	DTC	dgidb
+PLK1	CHEMBL:CHEMBL429095	chembl:CHEMBL429095	False				0.01	DTC	dgidb
+PLK1	2,4-DIHYDROXYBENZOPHENONE	chembl:CHEMBL1392	False				0.05	DTC	dgidb
+PLK1	OMEPRAZOLE	rxcui:7646	True				0.01	DTC	dgidb
+PLK1	PENTACHLOROPHENOL	chembl:CHEMBL75967	False				0.02	DTC	dgidb
+PLK1	LITHOCHOLIC ACID	iuphar.ligand:611	False				0.03	DTC	dgidb
+PLK1	CHEMBL:CHEMBL535051	chembl:CHEMBL535051	False				0.28	DTC	dgidb
+PLK1	DIFFRACTAIC ACID	chembl:CHEMBL367741	False				0.14	DTC	dgidb
+PLK1	SUCCIMER	rxcui:3446	True				0.04	DTC	dgidb
+PLK1	SOTRASTAURIN	ncit:C80630	False				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL164449	chembl:CHEMBL164449	False				0.14	DTC	dgidb
+PLK1	AMORFRUTIN A	chembl:CHEMBL491820	False				0.07	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1871992	chembl:CHEMBL1871992	False				0.28	DTC	dgidb
+PLK1	4-CHLOROMERCURIBENZOIC ACID	chembl:CHEMBL575867	False				0.01	DTC	dgidb
+PLK1	DIPYRIDAMOLE	rxcui:3521	True				0.01	DTC	dgidb
+PLK1	TRITIOZINE	chembl:CHEMBL1414826	False				0.14	DTC	dgidb
+PLK1	3,5-DIPHENYLISOXAZOLE	chembl:CHEMBL1374535	False				0.07	DTC	dgidb
+PLK1	TAK-960	chembl:CHEMBL2392545	False			inhibitor	0.56	TTD|ChEMBL	dgidb
+PLK1	MYRICETIN	drugbank:DB02375	False				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL599255	chembl:CHEMBL599255	False				0.03	DTC	dgidb
+PLK1	BETUNOLIC ACID	chembl:CHEMBL431525	False				0.28	DTC	dgidb
+PLK1	CHEMBL:CHEMBL592124	chembl:CHEMBL592124	False				0.01	DTC	dgidb
+PLK1	CHEMBL:CHEMBL274921	chembl:CHEMBL274921	False				0.07	DTC	dgidb
+PLK1	CHEMBL:CHEMBL505670	chembl:CHEMBL505670	False				0.01	DTC	dgidb
+PLK1	BI 2536	drugbank:DB16107	False				0.28	TTD	dgidb
+PLK1	IMIDACLOPRID	chembl:CHEMBL406819	False				0.28	DTC	dgidb
+PLK1	HMN-214	chembl:CHEMBL3991927	False			inhibitor	0.14	ChEMBL	dgidb
+PLK1	CHEMBL:CHEMBL599098	chembl:CHEMBL599098	False				0.03	DTC	dgidb
+PLK1	ALPHAPRODINE HYDROCHLORIDE	chembl:CHEMBL1529817	False				0.28	DTC	dgidb
+PLK1	CHEMBL:CHEMBL388979	chembl:CHEMBL388979	False				0.05	DTC	dgidb
+PLK1	CHEMBL:CHEMBL1224755	chembl:CHEMBL1224755	False				0.03	DTC	dgidb
+PLK1	N-OLEOYLDOPAMINE	iuphar.ligand:5552	False				0.02	DTC	dgidb
+MAD1L1	CARBOPLATIN	rxcui:40048	True				0.6	PharmGKB	dgidb
+MAD1L1	PACLITAXEL PROTEIN-BOUND	rxcui:486610	True				0.45	PharmGKB	dgidb
+BUB1	BAY-320	iuphar.ligand:9126	False			inhibitor	8.82	GuideToPharmacology	dgidb
+BUB1	COMPOUND 2-3-2 [PMID: 24900824]	iuphar.ligand:8110	False			inhibitor	8.82	GuideToPharmacology	dgidb
+BUB1	COMPOUND 2-3-1 [PMID: 24900824]	iuphar.ligand:8111	False			inhibitor	8.82	GuideToPharmacology	dgidb
+BUB1	COMPOUND 2-1-1 [PMID: 24900824]	iuphar.ligand:8109	False			inhibitor	8.82	GuideToPharmacology	dgidb
+BUB1	BAY-524	iuphar.ligand:9127	False			inhibitor	8.82	GuideToPharmacology	dgidb
+BUB1	COMPOUND 2-13-1 [PMID: 24900824]	iuphar.ligand:8112	False			inhibitor	8.82	GuideToPharmacology	dgidb
+CENPE	GSK-923295	drugbank:DB06097	False			inhibitor	52.93	TALC	dgidb
+PTTG1	ETANERCEPT	rxcui:214555	True				3.53	PharmGKB	dgidb
+KIF11	CHEMBL:CHEMBL409102	chembl:CHEMBL409102	False				5.88	DTC	dgidb
+KIF11	EG5 KINESIN-RELATED MOTOR PROTEIN INHIBITOR ARQ 621	ncit:C82694	False				2.94	TTD	dgidb
+KIF11	MK0731	ncit:C49174	False			inhibitor	2.94	TALC	dgidb
+KIF11	SB-743921	drugbank:DB05546	False			inhibitor	5.88	TALC|TTD	dgidb
+KIF11	LITRONESIB	ncit:C88328	False				2.94	TTD	dgidb
+KIF11	ISPINESIB	ncit:C38131	False			inhibitor	8.82	TdgClinicalTrial|TALC|TTD	dgidb
+KIF11	AZD4877	iuphar.ligand:7708	False			inhibitor|inhibitor	8.82	GuideToPharmacology|TALC|ChEMBL	dgidb
+KIF11	CHEMBL:CHEMBL392369	chembl:CHEMBL392369	False				5.88	DTC	dgidb
+KIF11	ARQ-621	chembl:CHEMBL4303449	False			inhibitor	5.88	TdgClinicalTrial|TALC	dgidb
+KIF11	EG5 KINESIN-RELATED MOTOR PROTEIN INHIBITOR 4SC-205	ncit:C90557	False				1.96	TdgClinicalTrial|TTD	dgidb
+KIF11	FILANESIB	ncit:C68937	False			inhibitor	5.88	TALC|TTD	dgidb
+KIF11	S-TRITYL-L-CYSTEINE	chembl:CHEMBL392695	False				5.88	DTC	dgidb
+KIF11	MK-0731	drugbank:DB08037	False				2.94	TTD	dgidb
+KIF11	AZD-4877	drugbank:DB11671	False				2.94	TTD	dgidb
+KIF11	DIMETHYLENASTRON	chembl:CHEMBL394880	False				5.88	DTC	dgidb
+CDK1	RONICICLIB	chembl:CHEMBL4442620	False			inhibitor	0.03	ChEMBL	dgidb
+CDK1	RIVICICLIB	chembl:CHEMBL3545283	False			inhibitor	0.2	ChEMBL	dgidb
+CDK1	BAY 11-7082	iuphar.ligand:5934	False				0.1	DTC	dgidb
+CDK1	FENOFIBRATE MICRONIZED	rxcui:221100	True				0.05	DTC	dgidb
+CDK1	(2R)-2-({9-(1-METHYLETHYL)-6-[(4-PYRIDIN-2-YLBENZYL)AMINO]-9H-PURIN-2-YL}AMINO)BUTAN-1-OL	drugbank:DB08463	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	6-PHENYL[5H]PYRROLO[2,3-B]PYRAZINE	drugbank:DB07364	False			inhibitor	0.15	GuideToPharmacology	dgidb
+CDK1	COMPOUND 5G [PMID: 36385925]	iuphar.ligand:12277	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	AT-7519	iuphar.ligand:5662	False			inhibitor|inhibitor	0.11	DTC|GuideToPharmacology|ChEMBL	dgidb
+CDK1	RG-1530	iuphar.ligand:10361	False				0.01	DTC	dgidb
+CDK1	SERTRALINE HYDROCHLORIDE	rxcui:155137	True				0.06	DTC	dgidb
+CDK1	ALVOCIDIB	ncit:C74940	False			inhibitor	0.12	TdgClinicalTrial|MyCancerGenome|ChEMBL	dgidb
+CDK1	MKC-1	ncit:C2507	False				0.05	TTD	dgidb
+CDK1	CYC-116	chembl:CHEMBL482967	False				0.01	DTC	dgidb
+CDK1	ALSTERPAULLONE	drugbank:DB04014	False			inhibitor	0.02	DTC|GuideToPharmacology	dgidb
+CDK1	BMS-345541	iuphar.ligand:5669	False				0.06	DTC	dgidb
+CDK1	AZD-1080	chembl:CHEMBL1969664	False				0.04	DTC	dgidb
+CDK1	TANUXICICLIB	iuphar.ligand:11885	False			inhibitor	0.12	GuideToPharmacology	dgidb
+CDK1	CLOFIBRATE	rxcui:2594	True				0.09	DTC	dgidb
+CDK1	CGP74514A	iuphar.ligand:5945	False			inhibitor	0.1	GuideToPharmacology	dgidb
+CDK1	ASNUCICLIB	iuphar.ligand:12074	False			inhibitor	0.15	GuideToPharmacology	dgidb
+CDK1	KINASE INHIBITOR 2 [PMID: 30199702]	iuphar.ligand:10081	False			inhibitor	0.1	GuideToPharmacology	dgidb
+CDK1	ZOTIRACICLIB	iuphar.ligand:9095	False			inhibitor|inhibitor	0.1	GuideToPharmacology|ChEMBL	dgidb
+CDK1	CDK2 INHIBITOR III	iuphar.ligand:5948	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	BS-194	iuphar.ligand:8176	False			inhibitor	0.1	GuideToPharmacology	dgidb
+CDK1	7-HYDROXYSTAUROSPORINE	iuphar.ligand:7907	False			inhibitor	0.05	GuideToPharmacology	dgidb
+CDK1	R547	iuphar.ligand:5707	False			inhibitor|inhibitor	0.24	GuideToPharmacology|ChEMBL	dgidb
+CDK1	BMS-387032	iuphar.ligand:5670	False			inhibitor	0.04	GuideToPharmacology	dgidb
+CDK1	DINACICLIB	ncit:C78854	False			inhibitor|inhibitor	0.45	CancerCommons|MyCancerGenomeClinicalTrial|MyCancerGenome|GuideToPharmacology|ClearityFoundationClinicalTrial|ChEMBL	dgidb
+CDK1	AZD5438	iuphar.ligand:8473	False			inhibitor|inhibitor	0.06	GuideToPharmacology|ChEMBL	dgidb
+CDK1	(S)-CR8	iuphar.ligand:11064	False			inhibitor	0.2	GuideToPharmacology	dgidb
+CDK1	PHA-793887	chembl:CHEMBL1230607	False			inhibitor	0.03	ChEMBL	dgidb
+CDK1	WITHAFERIN A	iuphar.ligand:13097	False				0.1	DTC	dgidb
+CDK1	CDK INHIBITOR 4.35	iuphar.ligand:10357	False			inhibitor	0.09	GuideToPharmacology	dgidb
+CDK1	RUCAPARIB	rxcui:1862579	True				0.03	DTC	dgidb
+CDK1	JNJ-7706621	iuphar.ligand:5932	False			inhibitor	0.01	GuideToPharmacology	dgidb
+CDK1	ALSTERPAULLONE 2-CYANOETHYL	iuphar.ligand:5926	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	LAUROGUADINE	chembl:CHEMBL1980715	False				0.02	DTC	dgidb
+CDK1	AMINOPURVALANOL A	iuphar.ligand:5927	False			inhibitor	0.1	GuideToPharmacology	dgidb
+CDK1	CDK4 INHIBITOR	iuphar.ligand:5950	False			inhibitor	0.2	GuideToPharmacology	dgidb
+CDK1	NVP-TAE684	iuphar.ligand:5714	False				0.01	DTC	dgidb
+CDK1	2-({6-[(3-CHLOROPHENYL)AMINO]-9-ISOPROPYL-9H-PURIN-2-YL}AMINO)ETHANOL	drugbank:DB08325	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	CENISERTIB	chembl:CHEMBL1967878	False				0.01	DTC	dgidb
+CDK1	CDK1/2/4 INHIBITOR AG-024322	ncit:C52182	False				0.2	TTD	dgidb
+CDK1	CHEMBL:CHEMBL1082552	chembl:CHEMBL1082552	False				1.2	DTC	dgidb
+CDK1	(7S)-2-(2-AMINOPYRIMIDIN-4-YL)-7-(2-FLUOROETHYL)-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE	drugbank:DB07149	False			inhibitor	0.09	GuideToPharmacology	dgidb
+CDK1	ARUNCIN B	chembl:CHEMBL2203686	False				1.2	DTC	dgidb
+CDK1	(RS)-ROSCOVITINE	chembl:CHEMBL52387	False				0.05	DTC	dgidb
+CDK1	RGB-286638	iuphar.ligand:7744	False			inhibitor	0.09	GuideToPharmacology|TTD	dgidb
+CDK1	BAY 61-3606	iuphar.ligand:9693	False				0.02	DTC	dgidb
+CDK1	THAL-SNS-032	iuphar.ligand:10547	False			inhibitor	0.15	GuideToPharmacology	dgidb
+CDK1	MILCICLIB	ncit:C148410	False			inhibitor|inhibitor	0.15	GuideToPharmacology|ChEMBL	dgidb
+CDK1	SNS-314	chembl:CHEMBL482767	False				0.01	DTC	dgidb
+CDK1	TAMATINIB	iuphar.ligand:5706	False				0.01	DTC	dgidb
+CDK1	6-BROMOINDIRUBIN-3'-OXIME	drugbank:DB03444	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	CHEMBL:CHEMBL578061	chembl:CHEMBL578061	False				0.02	DTC	dgidb
+CDK1	SP-600125	chembl:CHEMBL1725279	False				0.01	DTC	dgidb
+CDK1	QR-6401	iuphar.ligand:12511	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	K-00546	drugbank:DB07664	False			inhibitor	0.2	GuideToPharmacology	dgidb
+CDK1	GW441756X	chembl:CHEMBL1516890	False				0.01	DTC	dgidb
+CDK1	VORUCICLIB	ncit:C141430	False			inhibitor	0.04	GuideToPharmacology	dgidb
+CDK1	PF-562271	iuphar.ligand:9381	False				0.01	DTC	dgidb
+CDK1	LY2090314	iuphar.ligand:7958	False				0.02	DTC	dgidb
+CDK1	AG-24322	chembl:CHEMBL3545420	False			inhibitor	0.2	ChEMBL	dgidb
+CDK1	CDK1 INHIBITOR	iuphar.ligand:5944	False			inhibitor	0.6	GuideToPharmacology	dgidb
+CDK1	1-AZAKENPAULLONE	iuphar.ligand:8018	False			inhibitor	0.05	GuideToPharmacology	dgidb
+CDK1	PATULIN	chembl:CHEMBL294018	False				0.13	DTC	dgidb
+CDK1	ROTENONE	chembl:CHEMBL429023	False				0.09	DTC	dgidb
+CDK1	G&OUML; 6976	iuphar.ligand:5973	False				0.01	DTC	dgidb
+CDK1	CDK1/5 INHIBITOR	iuphar.ligand:5947	False			inhibitor	0.1	GuideToPharmacology	dgidb
+CDK1	SAMURACICLIB	iuphar.ligand:9903	False			inhibitor	0.15	GuideToPharmacology	dgidb
+CDK1	LADUVIGLUSIB	ncit:C177060	False			inhibitor	0.11	GuideToPharmacology|TTD	dgidb
+CDK1	COMPOUND 9B [PMID: 18986805]	iuphar.ligand:8160	False			inhibitor	0.15	GuideToPharmacology	dgidb
+CDK1	SU9516	drugbank:DB03428	False			inhibitor	0.04	GuideToPharmacology	dgidb
+CDK1	CINNARIZINE	rxcui:2549	True				0.11	DTC	dgidb
+CDK1	SELICICLIB	ncit:C62783	False			inhibitor	0.09	TTD|ChEMBL	dgidb
+CDK1	COMPOUND 8 [PMID: 17480064]	iuphar.ligand:8763	False				0.01	DTC	dgidb
+CDK1	RO3306	iuphar.ligand:10095	False			inhibitor	0.2	GuideToPharmacology	dgidb
+CDK1	BMS-265246	iuphar.ligand:8051	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	BOHEMINE	iuphar.ligand:5938	False			inhibitor	0.3	GuideToPharmacology	dgidb
+CDK1	PROTUBOXEPIN A	chembl:CHEMBL1802135	False				0.6	DTC	dgidb
+CDK1	SOTRASTAURIN	ncit:C80630	False				0.01	DTC	dgidb
+CDK1	CDK2 INHIBITOR IV	iuphar.ligand:5949	False			inhibitor	0.08	GuideToPharmacology	dgidb
+CDK1	CLOTRIMAZOLE	rxcui:2623	True				0.03	DTC	dgidb
+CDK1	KENPAULLONE	iuphar.ligand:6000	False				0.01	TTD	dgidb
+CCNB1	PROTOAPIGENONE	chembl:CHEMBL414890	False				1.26	DTC	dgidb
+CCNB1	SELICICLIB	ncit:C62783	False				2.71	DTC	dgidb
+CCNB1	KENPAULLONE	iuphar.ligand:6000	False				0.38	TTD	dgidb
+PRKAA1	CENISERTIB	chembl:CHEMBL1967878	False				0.01	DTC	dgidb
+PRKAA1	SIROLIMUS	rxcui:35302	True				0.06	NCI	dgidb
+PRKAA1	JNJ-7706621	iuphar.ligand:5932	False				0.03	DTC	dgidb
+PRKAA1	SAPONARIN	chembl:CHEMBL538921	False				0.47	DTC	dgidb
+PRKAA1	TYROSINE KINASE INHIBITOR	ncit:C1967	False				0.13	NCI	dgidb
+PRKAA1	METFORMIN HYDROCHLORIDE	rxcui:235743	True			activator	0.55	ClearityFoundationClinicalTrial	dgidb
+PRKAA1	ENTRECTINIB	rxcui:2197862	True				0.03	DTC	dgidb
+PRKAA1	PHENFORMIN	rxcui:8129	True				1.65	TEND|TdgClinicalTrial	dgidb
+PRKAA1	PALBOCICLIB	rxcui:1601374	True				0.03	DTC	dgidb
+PRKAA1	LY2090314	iuphar.ligand:7958	False				0.06	DTC	dgidb
+PRKAA1	CHEMBL:CHEMBL1997335	chembl:CHEMBL1997335	False				0.04	DTC	dgidb
+PRKAA1	TETRADECANOYLPHORBOL ACETATE	ncit:C866	False				0.05	NCI	dgidb
+PRKAA1	DOVITINIB	ncit:C76199	False				0.02	DTC	dgidb
+PRKAA1	CHEMOPREVENTIVE AGENT	ncit:C1892	False				0.37	NCI	dgidb
+PRKAA1	METFORMIN	rxcui:6809	True				0.06	DTC	dgidb
+PRKAA1	SOTRASTAURIN	ncit:C80630	False				0.03	DTC	dgidb
+PRKAA1	CHEMBL:CHEMBL587615	chembl:CHEMBL587615	False				3.31	DTC	dgidb
+PRKAA1	NVP-TAE684	iuphar.ligand:5714	False				0.02	DTC	dgidb
+PRKAA1	PD166285	iuphar.ligand:8183	False				0.03	DTC	dgidb
+PRKAA1	LEVOTHYROXINE SODIUM	rxcui:40144	True				0.28	NCI	dgidb
+PRKAA1	TOZASERTIB	ncit:C98053	False				0.02	DTC	dgidb
+PRKAA1	HESPERADIN	iuphar.ligand:8354	False			inhibitor	0.04	DTC	dgidb
+PRKAA1	ACADESINE	ncit:C71537	False			activator	0.24	ChEMBL	dgidb
+PRKAA1	ADENOSINE DEAMINASE INHIBITOR	ncit:C2157	False				1.65	NCI	dgidb
+PRKAA1	PENTOSTATIN	rxcui:8011	True				1.65	NCI	dgidb
+PRKAA1	GW441756X	chembl:CHEMBL1516890	False				0.03	DTC	dgidb
+PRKAA1	CHEMBL:CHEMBL379975	chembl:CHEMBL379975	False				0.04	DTC	dgidb
+PRKAA1	ILORASERTIB	ncit:C116729	False				0.02	DTC	dgidb
+PRKAA1	CYC-116	chembl:CHEMBL482967	False				0.02	DTC	dgidb
+PRKAA1	RG-1530	iuphar.ligand:10361	False				0.02	DTC	dgidb
+PRKAA1	PF-562271	iuphar.ligand:9381	False				0.02	DTC	dgidb
+PRKAA1	STREPTOZOCIN	rxcui:10114	True				0.07	NCI	dgidb
+BCL2	NONSTEROIDAL ANTIINFLAMMATORY DRUG	ncit:C257	False				0.08	NCI	dgidb
+BCL2	ENDOTHELIN RECEPTOR ANTAGONIST	ncit:C28313	False				0.43	NCI	dgidb
+BCL2	BORTEZOMIB	rxcui:358258	True				0.01	CGI	dgidb
+BCL2	DOXORUBICIN HYDROCHLORIDE	rxcui:142433	True				0.01	NCI	dgidb
+BCL2	MITOXANTRONE HYDROCHLORIDE	rxcui:203129	True				0.18	NCI	dgidb
+BCL2	VENETOCLAX	rxcui:1747556	True			inhibitor|inhibitor	0.25	ChEMBL|CGI|CIViC|TTD|GuideToPharmacology	dgidb
+BCL2	NAVITOCLAX	ncit:C64776	False			inhibitor|inhibitor	0.27	TALC|ChEMBL|TTD|DTC|GuideToPharmacology	dgidb
+BCL2	ISOTRETINOIN	rxcui:6064	True				0.13	NCI	dgidb
+BCL2	BRENTUXIMAB VEDOTIN	rxcui:1147320	True				0.03	PharmGKB	dgidb
+BCL2	OXALIPLATIN	rxcui:32592	True				0.05	ClearityFoundationBiomarkers|NCI	dgidb
+BCL2	TAZAROTENE	rxcui:83947	True				0.16	NCI	dgidb
+BCL2	LISAFTOCLAX	iuphar.ligand:13108	False			inhibitor	0.32	GuideToPharmacology	dgidb
+BCL2	GOSSYPOL	ncit:C529	False				0.08	TTD	dgidb
+BCL2	EDARAVONE	rxcui:1921877	True				0.13	TTD	dgidb
+BCL2	TENIPOSIDE	rxcui:10362	True				0.16	NCI	dgidb
+BCL2	DITIOCARB	ncit:C432	False				0.12	NCI	dgidb
+BCL2	CARBOPLATIN	rxcui:40048	True				0.01	ClearityFoundationBiomarkers	dgidb
+BCL2	CILENGITIDE	ncit:C1834	False				0.26	NCI	dgidb
+BCL2	ESTRAMUSTINE	rxcui:4089	True				0.12	NCI	dgidb
+BCL2	RECOMBINANT INTERFERON	ncit:C584	False				0.07	NCI|PharmGKB	dgidb
+BCL2	CISPLATIN	rxcui:2555	True				0.02	NCI|ClearityFoundationBiomarkers	dgidb
+BCL2	AZD4320	iuphar.ligand:11781	False			inhibitor	0.32	GuideToPharmacology	dgidb
+BCL2	PELCITOCLAX	ncit:C148488	False				0.32	TTD	dgidb
+BCL2	ORAL CONTRACEPTIVE	ncit:C389	False				0.12	NCI	dgidb
+BCL2	ANG1005	drugbank:DB18167	False				0.32	TdgClinicalTrial	dgidb
+BCL2	OBATOCLAX	ncit:C60770	False			inhibitor|inhibitor	0.51	TALC|TTD|TdgClinicalTrial|GuideToPharmacology	dgidb
+BCL2	ANTI-CD19 CAR T CELLS AT101	ncit:C187300	False			inhibitor	0.43	TALC|TdgClinicalTrial	dgidb
+BCL2	FOSBRETABULIN DISODIUM	ncit:C2503	False				0.64	NCI	dgidb
+BCL2	APG-1252-M1	iuphar.ligand:13070	False			inhibitor	0.32	GuideToPharmacology	dgidb
+BCL2	SONROTOCLAX	iuphar.ligand:13354	False			inhibitor	0.64	GuideToPharmacology	dgidb
+BCL2	DULANERMIN	ncit:C1685	False				0.14	NCI	dgidb
+BCL2	RALTITREXED	ncit:C1804	False				0.26	NCI	dgidb
+BCL2	EPIRUBICIN HYDROCHLORIDE	rxcui:203213	True				0.26	NCI	dgidb
+BCL2	ETOPOSIDE	rxcui:4179	True				0.03	NCI	dgidb
+BCL2	MULTIDRUG RESISTANCE MODULATOR	ncit:C1744	False				0.64	NCI	dgidb
+BCL2	BCL-2 INHIBITOR BCL201	ncit:C125603	False				0.32	TTD	dgidb
+BCL2	PROTUBOXEPIN A	chembl:CHEMBL1802135	False				0.64	DTC	dgidb
+BCL2	RIBAVIRIN	rxcui:9344	True				0.09	PharmGKB|NCI	dgidb
+BCL2	DIETHYLSTILBESTROL	rxcui:3390	True				0.04	NCI	dgidb
+BCL2	APRINOCARSEN	rxcui:2634355	False				0.96	NCI	dgidb
+BCL2	MASOPROCOL	rxcui:227239	True				0.03	NCI	dgidb
+BCL2	GAMMA-INTERFERON	rxcui:1421648	False				0.13	NCI	dgidb
+BCL2	THERAPEUTIC INTERLEUKIN	ncit:C593	False				0.18	NCI	dgidb
+BCL2	SAPONIN	ncit:C823	False				0.26	NCI	dgidb
+BCL2	TRETINOIN	rxcui:10753	True				0.01	NCI	dgidb
+BCL2	POLATUZUMAB VEDOTIN	rxcui:2174090	True				0.16	PharmGKB	dgidb
+BCL2	PEGYLATED LIPOSOMAL DOXORUBICIN HYDROCHLORIDE	ncit:C1555	False				0.64	NCI	dgidb
+BCL2	SELENIUM	rxcui:9641	True				0.11	NCI	dgidb
+BCL2	RECOMBINANT FAS LIGAND	ncit:C1538	False				0.09	NCI	dgidb
+BCL2	4-PHENYLBUTYRIC ACID	rxcui:1546447	True				0.06	NCI	dgidb
+BCL2	OBATOCLAX MESYLATE	chembl:CHEMBL2107358	False			inhibitor	0.11	ChEMBL	dgidb
+BCL2	ABT-737	iuphar.ligand:8320	False			inhibitor	0.21	GuideToPharmacology	dgidb
+BCL2	PROTEASE INHIBITOR	ncit:C783	False				0.06	NCI	dgidb
+BCL2	APG-2575	chembl:CHEMBL4650374	False			inhibitor	0.32	ChEMBL	dgidb
+BCL2	HYPERBARIC OXYGEN	ncit:C2351	False				0.38	NCI	dgidb
+BCL2	ERYTHROMYCIN	rxcui:4053	True				0.06	NCI	dgidb
+BCL2	LYSOZYME	ncit:C1925	False				0.43	NCI	dgidb
+BCL2	MILATAXEL	ncit:C77880	False				0.21	TdgClinicalTrial	dgidb
+BCL2	TESETAXEL	ncit:C37451	False				0.32	TdgClinicalTrial	dgidb
+BCL2	METHYLPREDNISOLONE	rxcui:6902	True				0.11	NCI	dgidb
+BCL2	URSODIOL	rxcui:11065	True				0.08	NCI	dgidb
+BCL2	AMINOLEVULINIC ACID	ncit:C234	False				1.28	NCI	dgidb
+BCL2	PACLITAXEL PROTEIN-BOUND	rxcui:486610	True			inhibitor	0.02	TdgClinicalTrial|ClearityFoundationClinicalTrial|TTD|TEND	dgidb
+BCL2	VALPROIC ACID	rxcui:11118	True				0.02	NCI	dgidb
+BCL2	OBLIMERSEN	ncit:C1870	False			inhibitor	1.91	TdgClinicalTrial|TALC|TTD	dgidb
+BCL2	BECLANORSEN	chembl:CHEMBL6068623	False				0.64	TdgClinicalTrial	dgidb
+BCL2	PREGNANT MARE SERUM GONADOTROPIN	ncit:C29773	False				0.11	NCI	dgidb
+BCL2	AI-850	drugbank:DB05842	False				0.32	TTD	dgidb
+BCL2	VINCRISTINE	rxcui:11202	True				0.01	PharmGKB	dgidb
+BCL2	FLOXURIDINE	rxcui:4488	True				0.09	NCI	dgidb
+BCL2	MICELLAR PACLITAXEL	ncit:C29256	False				1.28	NCI	dgidb
+BCL2	STREPTOZOCIN	rxcui:10114	True				0.03	NCI	dgidb
+BCL2	DOLASTATIN 10	ncit:C1300	False				1.28	NCI	dgidb
+BCL2	EPIDERMAL GROWTH FACTOR RECEPTOR TYROSINE KINASE INHIBITOR	ncit:C2167	False				0.14	NCI	dgidb
+BCL2	BEAUVERICIN	ncit:C1011	False				1.28	NCI	dgidb
+BCL2	PENTOXIFYLLINE	rxcui:8013	True				0.04	NCI	dgidb
+BCL2	ORTATAXEL	ncit:C1867	False				0.21	TdgClinicalTrial	dgidb
+BCL2	DOCETAXEL ANHYDROUS	rxcui:1299922	True				0.01	TdgClinicalTrial	dgidb
+BCL2	RECOMBINANT TRANSFORMING GROWTH FACTOR-BETA 1	ncit:C1293	False				0.06	NCI	dgidb
+BCL2	HYPOXANTHINE	ncit:C29105	False				0.43	NCI	dgidb
+BCL2	RECOMBINANT C5A	ncit:C388	False				0.16	NCI	dgidb
+BCL2	HYDROQUINONE	rxcui:5509	True				0.08	NCI	dgidb
+BCL2	D-ALPHA-TOCOPHEROL	ncit:C2832	False				0.12	NCI	dgidb
+HSP90AA1	PROPICONAZOLE	chembl:CHEMBL560579	False				0.09	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL53898	chembl:CHEMBL53898	False				0.02	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL1439833	chembl:CHEMBL1439833	False				0.09	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL601768	chembl:CHEMBL601768	False				0.12	DTC	dgidb
+HSP90AA1	ONALESPIB	ncit:C85454	False			inhibitor	0.35	TdgClinicalTrial|ChEMBL|TTD|CancerCommons	dgidb
+HSP90AA1	RETASPIMYCIN HYDROCHLORIDE	chembl:CHEMBL377559	False			inhibitor	0.17	ChEMBL	dgidb
+HSP90AA1	CHEMBL:CHEMBL1306556	chembl:CHEMBL1306556	False				0.06	DTC	dgidb
+HSP90AA1	LUMINESPIB	chembl:CHEMBL252164	False			inhibitor	0.52	ChEMBL|DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL1546228	chembl:CHEMBL1546228	False				0.05	DTC	dgidb
+HSP90AA1	HERBIMYCIN	chembl:CHEMBL479533	False				0.7	DTC	dgidb
+HSP90AA1	THIRAM	chembl:CHEMBL120563	False				0.02	DTC	dgidb
+HSP90AA1	TANESPIMYCIN	chembl:CHEMBL109480	False			inhibitor	0.46	ChEMBL|DTC|TdgClinicalTrial	dgidb
+HSP90AA1	CHEMBL:CHEMBL592600	chembl:CHEMBL592600	False				0.09	DTC	dgidb
+HSP90AA1	ALVESPIMYCIN	iuphar.ligand:9828	False			inhibitor|inhibitor	0.35	ChEMBL|GuideToPharmacology	dgidb
+HSP90AA1	CHEMBL:CHEMBL1385558	chembl:CHEMBL1385558	False				0.17	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL591137	chembl:CHEMBL591137	False				0.04	DTC	dgidb
+HSP90AA1	THIMEROSAL	chembl:CHEMBL508338	False				0.02	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL523200	chembl:CHEMBL523200	False				0.02	DTC	dgidb
+HSP90AA1	CHLOROXINE	rxcui:20875	True				0.03	DTC	dgidb
+HSP90AA1	RETASPIMYCIN	ncit:C80378	False			inhibitor|other/unknown	0.35	TALC|MyCancerGenome|TdgClinicalTrial	dgidb
+HSP90AA1	PYRITHIONE	chembl:CHEMBL1356238	False				0.03	DTC	dgidb
+HSP90AA1	EFUNGUMAB	ncit:C87763	False				0.35	TTD	dgidb
+HSP90AA1	XL888	iuphar.ligand:13794	False			inhibitor	0.14	CancerCommons|TdgClinicalTrial	dgidb
+HSP90AA1	BIIB021	iuphar.ligand:9258	False			inhibitor|inhibitor	0.23	GuideToPharmacology|ChEMBL	dgidb
+HSP90AA1	TOTAROL	chembl:CHEMBL487602	False				0.35	DTC	dgidb
+HSP90AA1	MICONAZOLE NITRATE	rxcui:42790	True				0.02	DTC	dgidb
+HSP90AA1	AUY922	drugbank:DB11881	False			other/unknown|inhibitor	0.46	MyCancerGenome|MyCancerGenomeClinicalTrial|TALC|CancerCommons	dgidb
+HSP90AA1	CHEMBL:CHEMBL1256761	chembl:CHEMBL1256761	False				0.12	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL505670	chembl:CHEMBL505670	False				0.01	DTC	dgidb
+HSP90AA1	FLUCONAZOLE	rxcui:4450	True				0.03	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL1224755	chembl:CHEMBL1224755	False				0.03	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL428064	chembl:CHEMBL428064	False				0.03	DTC	dgidb
+HSP90AA1	GEDUNIN	chembl:CHEMBL465226	False				0.12	DTC	dgidb
+HSP90AA1	MASOPROCOL	rxcui:227239	True				0.01	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL1567571	chembl:CHEMBL1567571	False				0.02	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL591363	chembl:CHEMBL591363	False				0.09	DTC	dgidb
+HSP90AA1	GANETESPIB	ncit:C77872	False			inhibitor|other/unknown|inhibitor	0.26	TALC|MyCancerGenome|GuideToPharmacology|ChEMBL|CancerCommons|TdgClinicalTrial	dgidb
+HSP90AA1	RADANAMYCIN	chembl:CHEMBL383015	False				0.35	DTC	dgidb
+HSP90AA1	O-PHENANTHROLINE	rxcui:1872047	True				0.02	DTC	dgidb
+HSP90AA1	NANAOMYCIN	chembl:CHEMBL1212972	False				0.03	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL533226	chembl:CHEMBL533226	False				0.03	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL600694	chembl:CHEMBL600694	False				0.05	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL602363	chembl:CHEMBL602363	False				0.09	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL463701	chembl:CHEMBL463701	False				0.35	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL565893	chembl:CHEMBL565893	False				0.06	DTC	dgidb
+HSP90AA1	SCLEROTIORIN	chembl:CHEMBL1095515	False				0.03	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL599098	chembl:CHEMBL599098	False				0.04	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL582099	chembl:CHEMBL582099	False				0.09	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL591126	chembl:CHEMBL591126	False				0.03	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL591361	chembl:CHEMBL591361	False				0.09	DTC	dgidb
+HSP90AA1	BIFONAZOLE	rxcui:19295	True				0.03	DTC	dgidb
+HSP90AA1	HALOFANTRINE HYDROCHLORIDE	chembl:CHEMBL1200901	True				0.12	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL590184	chembl:CHEMBL590184	False				0.09	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL578944	chembl:CHEMBL578944	False				0.03	DTC	dgidb
+HSP90AA1	RHEIN	chembl:CHEMBL418068	False				0.02	DTC	dgidb
+HSP90AA1	NOVOBIOCIN	rxcui:7538	False				0.21	DTC	dgidb
+HSP90AA1	TRICLABENDAZOLE	rxcui:2118525	True				0.06	DTC	dgidb
+HSP90AA1	DISULFIRAM	rxcui:3554	True				0.01	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL260342	chembl:CHEMBL260342	False				0.04	DTC	dgidb
+HSP90AA1	IODOQUINOL	rxcui:3435	True				0.04	DTC	dgidb
+HSP90AA1	GAMBOGIC ACID	chembl:CHEMBL555017	False				0.08	DTC	dgidb
+HSP90AA1	ZEARALANONE	chembl:CHEMBL491499	False				0.17	DTC	dgidb
+HSP90AA1	ARGENTEOSIDE A	chembl:CHEMBL2332352	False				0.7	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL591876	chembl:CHEMBL591876	False				0.09	DTC	dgidb
+HSP90AA1	ALVESPIMYCIN HYDROCHLORIDE	ncit:C76665	False				0.35	TTD	dgidb
+HSP90AA1	CHEMBL:CHEMBL530499	chembl:CHEMBL530499	False				0.12	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL1466186	chembl:CHEMBL1466186	False				0.04	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL578512	chembl:CHEMBL578512	False				0.01	DTC	dgidb
+HSP90AA1	AMLEXANOX	rxcui:46307	True				0.03	TTD	dgidb
+HSP90AA1	SNX0723	iuphar.ligand:9260	False			inhibitor	0.35	GuideToPharmacology	dgidb
+HSP90AA1	DOXORUBICIN HYDROCHLORIDE	rxcui:142433	True				0.0	DTC	dgidb
+HSP90AA1	CLOXYQUIN	chembl:CHEMBL225164	False				0.03	DTC	dgidb
+HSP90AA1	CYCLOHEXIMIDE	ncit:C171712	False				0.0	DTC	dgidb
+HSP90AA1	SULCONAZOLE NITRATE	chembl:CHEMBL1200348	True				0.12	DTC	dgidb
+HSP90AA1	POMIFERIN	chembl:CHEMBL393136	False				0.04	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL2095095	chembl:CHEMBL2095095	False				0.02	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL590927	chembl:CHEMBL590927	False				0.06	DTC	dgidb
+HSP90AA1	DIPYRIDAMOLE	rxcui:3521	True				0.01	DTC	dgidb
+HSP90AA1	CUCURBITACIN D	chembl:CHEMBL493646	False				0.35	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL528694	chembl:CHEMBL528694	False				0.02	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL192264	chembl:CHEMBL192264	False				0.35	DTC	dgidb
+HSP90AA1	SNX-5422	drugbank:DB06070	False				0.35	TdgClinicalTrial|TTD	dgidb
+HSP90AA1	CHEMBL:CHEMBL1098875	chembl:CHEMBL1098875	False				0.06	DTC	dgidb
+HSP90AA1	WORTMANNIN	drugbank:DB08059	False				0.02	DTC	dgidb
+HSP90AA1	CLIOQUINOL	rxcui:5942	True				0.02	DTC	dgidb
+HSP90AA1	TETRACYCLINE	rxcui:10395	True				0.02	DTC	dgidb
+HSP90AA1	CD24FC	chembl:CHEMBL4297717	False			inhibitor	0.06	ChEMBL	dgidb
+HSP90AA1	MONOCILLIN I	chembl:CHEMBL215853	False				0.35	DTC	dgidb
+HSP90AA1	LEVOKETOCONAZOLE	rxcui:2588846	True				0.02	DTC	dgidb
+HSP90AA1	DERRUBONE	chembl:CHEMBL412010	False				0.12	DTC	dgidb
+HSP90AA1	NITROXOLINE	rxcui:31901	False				0.02	DTC	dgidb
+HSP90AA1	ITRACONAZOLE	chembl:CHEMBL64391	True				0.17	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL588804	chembl:CHEMBL588804	False				0.17	DTC	dgidb
+HSP90AA1	SNX 5422	chembl:CHEMBL1195136	False			inhibitor	0.17	ChEMBL	dgidb
+HSP90AA1	CHEMBL:CHEMBL582983	chembl:CHEMBL582983	False				0.09	DTC	dgidb
+HSP90AA1	CICLOPIROX OLAMINE	chembl:CHEMBL242580	False				0.07	DTC	dgidb
+HSP90AA1	DAUNORUBICIN HYDROCHLORIDE	chembl:CHEMBL1563	True				0.01	DTC	dgidb
+HSP90AA1	KW-2478	chembl:CHEMBL4297298	False				0.35	TTD	dgidb
+HSP90AA1	CHEMBL:CHEMBL547285	chembl:CHEMBL547285	False				0.09	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL1834096	chembl:CHEMBL1834096	False				0.7	DTC	dgidb
+HSP90AA1	FENTICLOR	chembl:CHEMBL473535	False				0.02	DTC	dgidb
+HSP90AA1	ALEXIDINE HYDROCHLORIDE	chembl:CHEMBL1487183	False				0.02	DTC	dgidb
+HSP90AA1	GELDANAMYCIN	drugbank:DB02424	False				0.87	DTC	dgidb
+HSP90AA1	TERPYRIDINE	chembl:CHEMBL89445	False				0.04	DTC	dgidb
+HSP90AA1	CLOTRIMAZOLE	rxcui:2623	True				0.01	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL548540	chembl:CHEMBL548540	False				0.12	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL585827	chembl:CHEMBL585827	False				0.09	DTC	dgidb
+HSP90AA1	TRIADIMENOL	chembl:CHEMBL520275	False				0.17	DTC	dgidb
+HSP90AA1	RADICICOL	chembl:CHEMBL414883	False				0.35	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL2022241	chembl:CHEMBL2022241	False				0.35	DTC	dgidb
+HSP90AA1	CETYLPYRIDINIUM BROMIDE	chembl:CHEMBL334255	False				0.03	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL599255	chembl:CHEMBL599255	False				0.04	DTC	dgidb
+HSP90AA1	HSP90 INHIBITOR LAM-003A	ncit:C84836	False				0.17	TdgClinicalTrial	dgidb
+HSP90AA1	CHEMBL:CHEMBL548615	chembl:CHEMBL548615	False				0.06	DTC	dgidb
+HSP90AA1	SILIBININ	ncit:C152359	False				0.06	DTC	dgidb
+HSP90AA1	ECONAZOLE NITRATE	chembl:CHEMBL1201049	True				0.03	DTC	dgidb
+HSP90AA1	N-OLEOYLETHANOLAMIDE	iuphar.ligand:2661	False				0.07	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL538798	chembl:CHEMBL538798	False				0.03	DTC	dgidb
+HSP90AA1	HEXACHLOROPHENE	rxcui:5293	True				0.01	DTC	dgidb
+HSP90AA1	KEPONE	chembl:CHEMBL462576	False				0.03	DTC	dgidb
+HSP90AA1	DIACETYLRHEIN	rxcui:22759	False				0.04	DTC	dgidb
+HSP90AA1	DESACETYL SALANNIN	chembl:CHEMBL2270444	False				0.35	DTC	dgidb
+HSP90AA1	DICHLOROPHEN	chembl:CHEMBL33845	False				0.02	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL1321398	chembl:CHEMBL1321398	False				0.06	DTC	dgidb
+HSP90AA1	CCT-018159	drugbank:DB07594	False				0.35	TTD	dgidb
+HSP90AA1	HSP90 INHIBITOR DEBIO 0932	ncit:C92572	False				0.35	TTD|TdgClinicalTrial	dgidb
+HSP90AA1	CEMDOMESPIB	drugbank:DB18953	False				0.35	TTD	dgidb
+HSP90AA1	CHEMBL:CHEMBL1688556	chembl:CHEMBL1688556	False				0.17	DTC	dgidb
+HSP90AA1	BROXYQUINOLINE	chembl:CHEMBL223448	False				0.07	DTC	dgidb
+HSP90AA1	ZEARALENONE	chembl:CHEMBL454173	False				0.03	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL473721	chembl:CHEMBL473721	False				0.04	DTC	dgidb
+HSP90AA1	CALMIDAZOLIUM CHLORIDE	chembl:CHEMBL1208858	False				0.02	DTC	dgidb
+HSP90AA1	THONZONIUM BROMIDE	chembl:CHEMBL1200883	False				0.04	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL1287983	chembl:CHEMBL1287983	False				0.05	DTC	dgidb
+HSP90AA1	HSP90 INHIBITOR BIIB021	ncit:C62517	False				0.35	TTD	dgidb
+HSP90AA1	CELASTROL	chembl:CHEMBL301982	False				0.35	DTC	dgidb
+HSP90AA1	CHEMBL:CHEMBL534423	chembl:CHEMBL534423	False				0.17	DTC	dgidb
+HSP90AA1	TERCONAZOLE	rxcui:37806	True				0.35	DTC	dgidb
+HSP90AA1	TRICLOSAN	rxcui:10795	True				0.06	DTC	dgidb
+HSP90AA1	TOXYLOXANTHONE C	chembl:CHEMBL459022	False				0.35	DTC	dgidb
+HSP90AA1	ZERANOL	chembl:CHEMBL450613	False				0.05	DTC	dgidb
+HSP90AA1	GERONTOXANTHONE I	chembl:CHEMBL478791	False				0.09	DTC	dgidb
+HSP90AA1	BUTOCONAZOLE NITRATE	chembl:CHEMBL1200398	True				0.17	DTC	dgidb
+HSP90AA1	SERTACONAZOLE NITRATE	chembl:CHEMBL1200725	True				0.07	DTC	dgidb
+HSP90AA1	CALCIMYCIN	chembl:CHEMBL1256686	False				0.02	DTC	dgidb
+HDAC1	VORINOSTAT	rxcui:194337	True			inhibitor|inhibitor	0.28	DTC|TEND|ChEMBL|TdgClinicalTrial|TTD|GuideToPharmacology|TALC	dgidb
+HDAC1	ROMIDEPSIN	rxcui:877510	True			inhibitor|inhibitor	0.23	TALC|GuideToPharmacology|ChEMBL|TTD|TEND|TdgClinicalTrial	dgidb
+HDAC1	4-PHENYLBUTYRIC ACID	rxcui:1546447	True			inhibitor	0.15	TTD|DTC|TALC	dgidb
+HDAC1	ENTINOSTAT	ncit:C1863	False			inhibitor|inhibitor	0.5	TTD|TdgClinicalTrial|GuideToPharmacology|ChEMBL|TALC|DTC	dgidb
+HDAC1	VALPROIC ACID	rxcui:11118	True			inhibitor|inhibitor	0.1	DTC|TALC|GuideToPharmacology|PharmGKB	dgidb
+HDAC1	RGFP109	iuphar.ligand:7501	False			inhibitor	0.38	GuideToPharmacology	dgidb
+HDAC1	NEXTURASTAT A	iuphar.ligand:7504	False			inhibitor	0.38	GuideToPharmacology	dgidb
+HDAC1	DAUNORUBICIN LIPOSOMAL	rxcui:214468	True				0.02	DTC	dgidb
+HDAC1	PANOBINOSTAT	rxcui:1603350	True			inhibitor|inhibitor	0.21	DTC|CancerCommons|TTD|TALC|GuideToPharmacology|TdgClinicalTrial	dgidb
+HDAC1	CHR-3996	iuphar.ligand:8391	False			inhibitor|inhibitor	0.38	GuideToPharmacology|TALC|TTD	dgidb
+HDAC1	TUCIDINOSTAT	ncit:C97263	False				0.38	TTD	dgidb
+HDAC1	CHEMBL:CHEMBL1650245	chembl:CHEMBL1650245	False				0.14	DTC	dgidb
+HDAC1	AR-42	drugbank:DB12707	False				0.07	TdgClinicalTrial	dgidb
+HDAC1	PRACINOSTAT	ncit:C71708	False			inhibitor|inhibitor	0.21	CancerCommons|TdgClinicalTrial|GuideToPharmacology	dgidb
+HDAC1	BUTYRIC ACID	rxcui:1362696	False			inhibitor	0.16	GuideToPharmacology|DTC	dgidb
+HDAC1	RESMINOSTAT	ncit:C84856	False			inhibitor	0.21	TdgClinicalTrial|TTD|GuideToPharmacology	dgidb
+HDAC1	RG-2833	drugbank:DB16955	False				0.77	TTD	dgidb
+HDAC1	ACY-738	iuphar.ligand:11120	False			inhibitor	0.38	TTD|GuideToPharmacology	dgidb
+HDAC1	TRICHOSTATIN A	drugbank:DB04297	False			inhibitor	0.32	GuideToPharmacology|DTC	dgidb
+HDAC1	SS-208	iuphar.ligand:10490	False			inhibitor	0.13	GuideToPharmacology	dgidb
+HDAC1	CHLAMYDOCIN	chembl:CHEMBL2371450	False				0.77	TTD	dgidb
+HDAC1	GIVINOSTAT HYDROCHLORIDE	chembl:CHEMBL6068400	True			inhibitor	0.07	ChEMBL	dgidb
+HDAC1	GIVINOSTAT	rxcui:2678889	True			inhibitor|inhibitor	0.31	TALC|GuideToPharmacology|TdgClinicalTrial|TTD	dgidb
+HDAC1	HC-TOXIN	ncit:C1121	False				0.77	TTD	dgidb
+HDAC1	PSAMMAPLIN A	chembl:CHEMBL83747	False				0.24	DTC	dgidb
+HDAC1	ABEXINOSTAT	ncit:C68920	False			inhibitor|inhibitor	0.28	GuideToPharmacology|ChEMBL|TdgClinicalTrial|TALC	dgidb
+HDAC1	CITARINOSTAT	ncit:C121641	False			inhibitor	0.15	GuideToPharmacology	dgidb
+HDAC1	DOMATINOSTAT	ncit:C96797	False				0.26	TTD|TdgClinicalTrial	dgidb
+HDAC1	TUBASTATIN A	iuphar.ligand:9702	False			inhibitor	0.46	DTC|GuideToPharmacology	dgidb
+HDAC1	KA1010	iuphar.ligand:9663	False			inhibitor	0.07	GuideToPharmacology	dgidb
+HDAC1	CUDC-101	iuphar.ligand:8894	False			inhibitor|inhibitor	0.11	GuideToPharmacology|ChEMBL	dgidb
+HDAC1	CHEMBL:CHEMBL117487	chembl:CHEMBL117487	False				0.14	DTC	dgidb
+HDAC1	FIMEPINOSTAT	ncit:C104008	False			inhibitor	0.06	GuideToPharmacology	dgidb
+HDAC1	CARBOXYCINNAMIC ACID BISHYDROXAMIDE	ncit:C1797	False				0.77	TTD	dgidb
+HDAC1	COMPOUND 23F [ZHANG ET AL., 2025]	iuphar.ligand:14258	False			inhibitor	0.19	GuideToPharmacology	dgidb
+HDAC1	LARGAZOLE	chembl:CHEMBL1173445	False				0.13	DTC	dgidb
+HDAC1	DACINOSTAT	ncit:C81158	False			inhibitor|inhibitor	0.21	TTD|GuideToPharmacology|TALC	dgidb
+HDAC1	PIVALOYLOXYMETHYLBUTYRATE	ncit:C1344	False			inhibitor	0.09	TALC	dgidb
+HDAC1	SN-38	iuphar.ligand:6925	False				0.13	DTC	dgidb
+HDAC1	COMPOUND 25AP [PMID: 37796543]	iuphar.ligand:12932	False			inhibitor	0.09	GuideToPharmacology	dgidb
+HDAC1	PHENYLBUTYRYLHYDROXAMIC ACID	chembl:CHEMBL55895	False				0.14	DTC	dgidb
+HDAC1	J27644	iuphar.ligand:12804	False			inhibitor	0.26	GuideToPharmacology	dgidb
+HDAC1	URSOLIC ACID	chembl:CHEMBL169	False				0.13	DTC	dgidb
+HDAC1	THERAPEUTIC CORTICOSTEROID	ncit:C211	False				0.03	PharmGKB	dgidb
+HDAC1	SCRIPTAID	ncit:C222132	False				0.77	TTD	dgidb
+HDAC1	SUBEROHYDROXAMIC ACID	chembl:CHEMBL320497	False				0.14	DTC	dgidb
+HDAC1	CHIDAMIDE	hemonc:99	False				0.19	TdgClinicalTrial	dgidb
+HDAC1	APICIDIN	iuphar.ligand:7495	False			inhibitor	0.21	DTC|GuideToPharmacology	dgidb
+HDAC1	MARTINOSTAT	drugbank:DB14979	False			inhibitor	0.13	GuideToPharmacology	dgidb
+HDAC1	HINOKITIOL	chembl:CHEMBL48310	False				0.05	DTC	dgidb
+HDAC1	OBP-801	drugbank:DB12279	False				0.38	TTD	dgidb
+HDAC1	QUISINOSTAT	ncit:C77912	False			inhibitor|inhibitor	0.13	GuideToPharmacology|ChEMBL	dgidb
+HDAC1	SUPRASTAT	iuphar.ligand:11220	False			inhibitor	0.15	GuideToPharmacology	dgidb
+HDAC1	BELINOSTAT	rxcui:1543543	True			inhibitor|inhibitor	0.33	TdgClinicalTrial|GuideToPharmacology|ChEMBL|DTC|TALC	dgidb
+HDAC1	MOCETINOSTAT	ncit:C62521	False			inhibitor|inhibitor	0.41	DTC|ChEMBL|TdgClinicalTrial|GuideToPharmacology|TTD	dgidb
+HDAC1	BUTYRYLHYDROXAMIC ACID	chembl:CHEMBL1672332	False				0.14	DTC	dgidb
+HDAC1	DEPUDECIN	ncit:C1361	False				0.77	TTD	dgidb
+HDAC1	SPIRUCHOSTATIN C	chembl:CHEMBL1835659	False				0.51	DTC	dgidb
+HDAC1	CHEMBL:CHEMBL324053	chembl:CHEMBL324053	False				0.14	DTC	dgidb
+HDAC1	SODIUM BUTYRATE	ncit:C2337	False				0.03	TTD	dgidb
+HDAC1	BML-281	iuphar.ligand:9664	False			inhibitor	0.13	GuideToPharmacology	dgidb
+HDAC1	PANOBINOSTAT LACTATE	chembl:CHEMBL3545368	True			inhibitor	0.07	ChEMBL	dgidb
+HDAC1	RICOLINOSTAT	ncit:C96431	False			inhibitor	0.13	GuideToPharmacology	dgidb
+HDAC1	TACEDINALINE	ncit:C2202	False			inhibitor|inhibitor	0.28	ChEMBL|GuideToPharmacology|DTC	dgidb
+HDAC6	ABEXINOSTAT	ncit:C68920	False			inhibitor	0.21	TALC|TdgClinicalTrial|ChEMBL	dgidb
+HDAC6	TRICHOSTATIN A	drugbank:DB04297	False			inhibitor	0.32	DTC|GuideToPharmacology	dgidb
+HDAC6	PHENYLBUTYRYLHYDROXAMIC ACID	chembl:CHEMBL55895	False				0.14	DTC	dgidb
+HDAC6	KA2507	iuphar.ligand:12269	False			inhibitor	1.51	TTD|GuideToPharmacology	dgidb
+HDAC6	BML-281	iuphar.ligand:9664	False			inhibitor	0.13	GuideToPharmacology	dgidb
+HDAC6	BENZOHYDROXAMATE	chembl:CHEMBL16300	False				2.27	DTC	dgidb
+HDAC6	ROMIDEPSIN	rxcui:877510	True			inhibitor|inhibitor	0.23	ChEMBL|TEND|TdgClinicalTrial|GuideToPharmacology|DTC	dgidb
+HDAC6	VORINOSTAT	rxcui:194337	True			inhibitor|inhibitor	0.31	TEND|GuideToPharmacology|TdgClinicalTrial|TALC|ChEMBL|DTC	dgidb
+HDAC6	COMPOUND 25AP [PMID: 37796543]	iuphar.ligand:12932	False			inhibitor	0.08	GuideToPharmacology	dgidb
+HDAC6	ENTINOSTAT	ncit:C1863	False			inhibitor	0.22	DTC|ChEMBL	dgidb
+HDAC6	APICIDIN	iuphar.ligand:7495	False				0.14	DTC	dgidb
+HDAC6	GIVINOSTAT	rxcui:2678889	True			inhibitor|inhibitor	0.23	TALC|TdgClinicalTrial|GuideToPharmacology	dgidb
+HDAC6	INHIBITOR M9 [PMID: 38236416]	iuphar.ligand:13113	False			inhibitor	0.25	GuideToPharmacology	dgidb
+HDAC6	BUFEXAMAC	rxcui:1796	True			inhibitor	0.19	GuideToPharmacology	dgidb
+HDAC6	VALPROPYLHYDROXAMIC ACID	chembl:CHEMBL186311	False				1.51	DTC	dgidb
+HDAC6	PRACINOSTAT	ncit:C71708	False				0.07	TdgClinicalTrial	dgidb
+HDAC6	AR-42	drugbank:DB12707	False				0.07	TdgClinicalTrial	dgidb
+HDAC6	FIMEPINOSTAT	chembl:CHEMBL3622533	False			inhibitor	0.05	ChEMBL	dgidb
+HDAC6	SCRIPTAID	iuphar.ligand:7505	False			inhibitor	0.19	DTC|GuideToPharmacology	dgidb
+HDAC6	MARBOSTAT-100	iuphar.ligand:9891	False			inhibitor	0.25	GuideToPharmacology	dgidb
+HDAC6	CITARINOSTAT	ncit:C121641	False			inhibitor	0.3	TTD|GuideToPharmacology	dgidb
+HDAC6	SUPRASTAT	iuphar.ligand:11220	False			inhibitor	0.15	GuideToPharmacology	dgidb
+HDAC6	QUISINOSTAT	ncit:C77912	False			inhibitor|inhibitor	0.13	GuideToPharmacology|ChEMBL	dgidb
+HDAC6	HINOKITIOL	chembl:CHEMBL48310	False				0.05	DTC	dgidb
+HDAC6	CHEMBL:CHEMBL324053	chembl:CHEMBL324053	False				0.14	DTC	dgidb
+HDAC6	TYA-018	iuphar.ligand:13336	False			inhibitor	0.76	GuideToPharmacology	dgidb
+HDAC6	RICOLINOSTAT	ncit:C96431	False			inhibitor|inhibitor	0.63	TTD|GuideToPharmacology|ChEMBL|TdgClinicalTrial	dgidb
+HDAC6	RESMINOSTAT	ncit:C84856	False			inhibitor	0.14	TdgClinicalTrial|GuideToPharmacology	dgidb
+HDAC6	SS-208	iuphar.ligand:10490	False			inhibitor	0.13	GuideToPharmacology	dgidb
+HDAC6	URSOLIC ACID	chembl:CHEMBL169	False				0.13	DTC	dgidb
+HDAC6	COMPOUND 23F [ZHANG ET AL., 2025]	iuphar.ligand:14258	False			inhibitor	0.19	GuideToPharmacology	dgidb
+HDAC6	SANTACRUZAMATE A	iuphar.ligand:7916	False			inhibitor	0.25	GuideToPharmacology	dgidb
+HDAC6	LARGAZOLE	chembl:CHEMBL1173445	False				0.13	DTC	dgidb
+HDAC6	BUTYRYLHYDROXAMIC ACID	chembl:CHEMBL1672332	False				0.14	DTC	dgidb
+HDAC6	PSAMMAPLIN A	chembl:CHEMBL83747	False				0.17	DTC	dgidb
+HDAC6	BUTYRIC ACID	rxcui:1362696	False				0.11	DTC	dgidb
+HDAC6	CUDC-101	iuphar.ligand:8894	False			inhibitor|inhibitor	0.11	GuideToPharmacology|ChEMBL	dgidb
+HDAC6	VALPROIC ACID	rxcui:11118	True				0.05	DTC	dgidb
+HDAC6	CHR-3996	iuphar.ligand:8391	False			inhibitor	0.13	GuideToPharmacology	dgidb
+HDAC6	KA1010	iuphar.ligand:9663	False			inhibitor	0.07	GuideToPharmacology	dgidb
+HDAC6	MARTINOSTAT	drugbank:DB14979	False			inhibitor	0.13	GuideToPharmacology	dgidb
+HDAC6	TUBACIN	iuphar.ligand:7374	False			inhibitor	0.76	GuideToPharmacology	dgidb
+HDAC6	PANOBINOSTAT LACTATE	chembl:CHEMBL3545368	True			inhibitor	0.07	ChEMBL	dgidb
+HDAC6	CHEMBL:CHEMBL569419	chembl:CHEMBL569419	False				1.51	DTC	dgidb
+HDAC6	CHEMBL:CHEMBL117487	chembl:CHEMBL117487	False				0.14	DTC	dgidb
+HDAC6	TACEDINALINE	ncit:C2202	False			inhibitor	0.21	ChEMBL|DTC	dgidb
+HDAC6	CHEMBL:CHEMBL1650245	chembl:CHEMBL1650245	False				0.14	DTC	dgidb
+HDAC6	DROXINOSTAT	iuphar.ligand:8464	False			inhibitor	0.25	GuideToPharmacology	dgidb
+HDAC6	COMPOUND 35M [PMID: 36073117]	iuphar.ligand:12179	False			inhibitor	0.76	GuideToPharmacology	dgidb
+HDAC6	J27644	iuphar.ligand:12804	False			inhibitor	0.25	GuideToPharmacology	dgidb
+HDAC6	COMPOUND 16 [PMID: 20947351]	iuphar.ligand:7057	False			inhibitor	0.76	GuideToPharmacology	dgidb
+HDAC6	SUBEROHYDROXAMIC ACID	chembl:CHEMBL320497	False				0.14	DTC	dgidb
+HDAC6	GIVINOSTAT HYDROCHLORIDE	chembl:CHEMBL6068400	True			inhibitor	0.07	ChEMBL	dgidb
+HDAC6	SN-38	iuphar.ligand:6925	False				0.13	DTC	dgidb
+HDAC6	NICOXAMAT	chembl:CHEMBL504369	False				1.51	DTC	dgidb
+HDAC6	NQN-1	iuphar.ligand:7058	False			inhibitor	0.76	GuideToPharmacology	dgidb
+HDAC6	DAUNORUBICIN LIPOSOMAL	rxcui:214468	True				0.02	DTC	dgidb
+HDAC6	NEXTURASTAT A	iuphar.ligand:7504	False			inhibitor	0.38	GuideToPharmacology	dgidb
+HDAC6	MOCETINOSTAT	ncit:C62521	False				0.23	TdgClinicalTrial|DTC	dgidb
+HDAC6	ACY-738	iuphar.ligand:11120	False			inhibitor	0.38	GuideToPharmacology|TTD	dgidb
+HDAC6	COMPOUND 7D [PMID: 19111466]	iuphar.ligand:7056	False			inhibitor	0.76	GuideToPharmacology	dgidb
+HDAC6	PANOBINOSTAT	rxcui:1603350	True			inhibitor|inhibitor	0.15	GuideToPharmacology|TALC|TdgClinicalTrial|DTC	dgidb
+HDAC6	COMPOUND 30 [PMID: 37057760]	iuphar.ligand:12609	False			inhibitor	0.11	GuideToPharmacology	dgidb
+HDAC6	4-PHENYLBUTYRIC ACID	rxcui:1546447	True				0.08	DTC	dgidb
+HDAC6	BAVAROSTAT	iuphar.ligand:11119	False			inhibitor	0.76	GuideToPharmacology	dgidb
+HDAC6	DACINOSTAT	ncit:C81158	False			inhibitor|inhibitor	0.14	GuideToPharmacology|TALC	dgidb
+HDAC6	TUBASTATIN A	iuphar.ligand:9702	False			inhibitor	0.15	GuideToPharmacology	dgidb
+HDAC6	BELINOSTAT	rxcui:1543543	True			inhibitor|inhibitor	0.32	TdgClinicalTrial|TALC|DTC|ChEMBL|GuideToPharmacology	dgidb
+MTOR	CC-115	chembl:CHEMBL3586573	False			inhibitor	0.15	ChEMBL	dgidb
+MTOR	APITOLISIB	ncit:C91731	False			inhibitor|inhibitor	0.05	GuideToPharmacology|MyCancerGenome|TTD|ChEMBL	dgidb
+MTOR	CHEMBL:CHEMBL24983	chembl:CHEMBL24983	False				0.02	DTC	dgidb
+MTOR	PKI-179	chembl:CHEMBL1258517	False			inhibitor	0.15	ChEMBL	dgidb
+MTOR	BIMIRALISIB	iuphar.ligand:8383	False			inhibitor	0.06	GuideToPharmacology	dgidb
+MTOR	EVEROLIMUS	rxcui:141704	True			inhibitor|inhibitor	0.2	OncoKB|CGI|DoCM|MyCancerGenome|TEND|GuideToPharmacology|MyCancerGenomeClinicalTrial|TALC|CIViC|TdgClinicalTrial|DTC|ClearityFoundationClinicalTrial|TTD	dgidb
+MTOR	DACTOLISIB	ncit:C74072	False			inhibitor|inhibitor	0.05	GuideToPharmacology|ChEMBL|MyCancerGenome|MyCancerGenomeClinicalTrial|DTC|TTD|CancerCommons	dgidb
+MTOR	PERPHENAZINE	rxcui:8076	True				0.01	DTC	dgidb
+MTOR	INDOXIMOD	ncit:C71535	False			activator	0.1	ChEMBL	dgidb
+MTOR	N-OLEOYLDOPAMINE	iuphar.ligand:5552	False				0.02	DTC	dgidb
+MTOR	CHEMBL:CHEMBL527620	chembl:CHEMBL527620	False				0.1	DTC	dgidb
+MTOR	LESTAURTINIB	ncit:C48402	False				0.03	DTC	dgidb
+MTOR	CANERTINIB	ncit:C77588	False				0.06	DTC	dgidb
+MTOR	GOSSYPOL	iuphar.ligand:4204	False				0.01	DTC	dgidb
+MTOR	GEDATOLISIB	ncit:C91732	False			inhibitor|inhibitor	0.08	MyCancerGenome|TTD|DTC|ChEMBL|GuideToPharmacology|MyCancerGenomeClinicalTrial	dgidb
+MTOR	METFORMIN HYDROCHLORIDE	chembl:CHEMBL1703	True				0.01	DTC	dgidb
+MTOR	SONOLISIB	ncit:C78848	False			inhibitor	0.02	TALC	dgidb
+MTOR	WIN55212-2	iuphar.ligand:733	False				0.04	DTC	dgidb
+MTOR	PP-121	drugbank:DB08052	False			inhibitor	0.02	GuideToPharmacology	dgidb
+MTOR	EBASTINE	rxcui:23796	True				0.07	DTC	dgidb
+MTOR	HALOPERIDOL DECANOATE	rxcui:26420	True				0.0	DTC	dgidb
+MTOR	SAPANISERTIB	chembl:CHEMBL3545097	False			inhibitor	0.3	ChEMBL	dgidb
+MTOR	TAFA-93	drugbank:DB05887	False				0.3	TdgClinicalTrial	dgidb
+MTOR	TEMSIROLIMUS	rxcui:657797	True			inhibitor|inhibitor	0.19	ClearityFoundationClinicalTrial|TTD|TEND|OncoKB|CancerCommons|MyCancerGenome|MyCancerGenomeClinicalTrial|TdgClinicalTrial|GuideToPharmacology	dgidb
+MTOR	OSI-027	drugbank:DB12387	False			inhibitor	0.1	TdgClinicalTrial|TTD|MyCancerGenome	dgidb
+MTOR	CALCIMYCIN	chembl:CHEMBL1256686	False				0.02	DTC	dgidb
+MTOR	VOXTALISIB	ncit:C71704	False			inhibitor	0.05	MyCancerGenome|CancerCommons|TTD	dgidb
+MTOR	PF-04691502	drugbank:DB11974	False				0.05	TTD	dgidb
+MTOR	COPANLISIB	rxcui:1945077	True			inhibitor	0.02	GuideToPharmacology	dgidb
+MTOR	NEOLYMPHOSTIN A	iuphar.ligand:10151	False			inhibitor	0.05	GuideToPharmacology	dgidb
+MTOR	LY-294002	drugbank:DB02656	False				0.04	DTC	dgidb
+MTOR	VS-5584	iuphar.ligand:8382	False			inhibitor	0.06	GuideToPharmacology	dgidb
+MTOR	ZANDELISIB	ncit:C123925	False			inhibitor	0.06	GuideToPharmacology	dgidb
+MTOR	COMPOUND 7 [PMID: 31955578]	iuphar.ligand:10649	False			inhibitor	0.1	GuideToPharmacology	dgidb
+MTOR	GDC-0349	drugbank:DB13072	False				0.3	TTD	dgidb
+MTOR	DOXAZOSIN MESYLATE	rxcui:39173	True				0.04	DTC	dgidb
+MTOR	VISTUSERTIB	ncit:C88329	False			inhibitor|inhibitor	0.13	GuideToPharmacology|ChEMBL|TTD	dgidb
+MTOR	CHEMBL:CHEMBL600334	chembl:CHEMBL600334	False				0.1	DTC	dgidb
+MTOR	EMETINE	rxcui:3820	False				0.06	DTC	dgidb
+MTOR	CAMPTOTHECIN	chembl:CHEMBL65	False				0.02	DTC	dgidb
+MTOR	PIMOZIDE	rxcui:8331	True				0.01	DTC	dgidb
+MTOR	XL765	drugbank:DB05241	False			inhibitor	0.15	TALC|TdgClinicalTrial	dgidb
+MTOR	SAMOTOLISIB	ncit:C121817	False			inhibitor	0.09	GuideToPharmacology|TTD	dgidb
+MTOR	CHEMBL:CHEMBL601364	chembl:CHEMBL601364	False				0.02	DTC	dgidb
+MTOR	AMSACRINE	rxcui:739	True				0.02	DTC	dgidb
+MTOR	TANESPIMYCIN	chembl:CHEMBL109480	False				0.05	DTC	dgidb
+MTOR	YUANHUADINE	chembl:CHEMBL1911631	False				0.12	DTC	dgidb
+MTOR	AMIODARONE HYDROCHLORIDE	rxcui:203114	True				0.01	DTC	dgidb
+MTOR	SIROLIMUS	rxcui:35302	True			inhibitor	0.08	ClearityFoundationClinicalTrial|MyCancerGenome|DTC|CIViC|TTD|CGI|DoCM|TdgClinicalTrial	dgidb
+MTOR	SU9516	drugbank:DB03428	False				0.02	DTC	dgidb
+MTOR	RITANSERIN	ncit:C95217	False				0.01	DTC	dgidb
+MTOR	WYE-354	iuphar.ligand:9361	False			inhibitor	0.3	GuideToPharmacology	dgidb
+MTOR	CAFFEIC ACID PHENETHYL ESTER	chembl:CHEMBL319244	False				0.02	DTC	dgidb
+MTOR	PI3K/BET INHIBITOR LY294002	ncit:C148229	False				0.1	CIViC	dgidb
+MTOR	PI-103	drugbank:DB17046	False			inhibitor	0.02	MyCancerGenome	dgidb
+MTOR	PWT-33579	chembl:CHEMBL3545323	False			inhibitor	0.15	ChEMBL	dgidb
+MTOR	MAPROTILINE	rxcui:6646	True				0.03	DTC	dgidb
+MTOR	FENRETINIDE	ncit:C1098	True				0.01	DTC	dgidb
+MTOR	WORTMANNIN	drugbank:DB08059	False			inhibitor	0.02	GuideToPharmacology	dgidb
+MTOR	MTORC1/2 KINASE INHIBITOR BI 860585	ncit:C122836	False				0.3	TTD	dgidb
+MTOR	PAROXETINE HYDROCHLORIDE, HEMIHYDRATE	rxcui:1298842	True				0.02	DTC	dgidb
+MTOR	QUINACRINE	rxcui:9061	False				0.03	DTC	dgidb
+MTOR	TORIN 2	iuphar.ligand:8839	False			inhibitor	0.04	GuideToPharmacology	dgidb
+MTOR	BISLEUCONOTHINE A	chembl:CHEMBL1077259	False				0.6	DTC	dgidb
+MTOR	GR 127935	iuphar.ligand:14	False				0.01	DTC	dgidb
+MTOR	PALOMID 529	drugbank:DB12812	False				0.3	TdgClinicalTrial	dgidb
+MTOR	5-QUINOXALIN-6-YLMETHYLENE-THIAZOLIDINE-2,4-DIONE	drugbank:DB04769	False				0.06	DTC	dgidb
+MTOR	SF1126	drugbank:DB05210	False			inhibitor	0.05	TTD|MyCancerGenome|TdgClinicalTrial	dgidb
+MTOR	CHEMBL:CHEMBL429095	chembl:CHEMBL429095	False				0.01	DTC	dgidb
+MTOR	RAPALINK-1	iuphar.ligand:9212	False			inhibitor	0.3	GuideToPharmacology	dgidb
+MTOR	CHEMBL:CHEMBL582278	chembl:CHEMBL582278	False				0.3	DTC	dgidb
+MTOR	PWT-33587	chembl:CHEMBL3545006	False			inhibitor	0.03	ChEMBL	dgidb
+MTOR	KU-0063794	iuphar.ligand:9360	False			inhibitor	0.3	GuideToPharmacology	dgidb
+MTOR	ONATASERTIB	ncit:C92575	False			inhibitor	0.2	TTD|CancerCommons	dgidb
+MTOR	INFIGRATINIB	rxcui:2550729	True			inhibitor	0.01	MyCancerGenome	dgidb
+MTOR	PANULISIB	ncit:C104292	False			inhibitor	0.04	GuideToPharmacology	dgidb
+MTOR	CHEMBL:CHEMBL602127	chembl:CHEMBL602127	False				0.04	DTC	dgidb
+MTOR	CHEMBL:CHEMBL578420	chembl:CHEMBL578420	False				0.3	DTC	dgidb
+MTOR	CHEMBL:CHEMBL597874	chembl:CHEMBL597874	False				0.3	DTC	dgidb
+MTOR	DEQUALINIUM	rxcui:3226	True				0.02	DTC	dgidb
+MTOR	CHEMBL:CHEMBL195350	chembl:CHEMBL195350	False				0.15	DTC	dgidb
+MTOR	ALPELISIB	rxcui:2169285	True			inhibitor	0.01	CancerCommons	dgidb
+MTOR	RG-7603	chembl:CHEMBL2331680	False			inhibitor	0.3	ChEMBL	dgidb
+MTOR	PQR620	iuphar.ligand:10142	False			inhibitor	0.1	GuideToPharmacology	dgidb
+MTOR	IDAZOXAN	ncit:C170049	False				0.03	DTC	dgidb
+MTOR	ZOLANTIDINE	chembl:CHEMBL419296	False				0.1	DTC	dgidb
+MTOR	BW723C86	iuphar.ligand:161	False				0.06	DTC	dgidb
+MTOR	CANTHARIDIC_ACID	chembl:CHEMBL275516	False				0.07	DTC	dgidb
+MTOR	METFORMIN	rxcui:6809	True			inhibitor	0.01	MyCancerGenomeClinicalTrial	dgidb
+MTOR	(+)-BUTACLAMOL	iuphar.ligand:62	False				0.04	DTC	dgidb
+MTOR	EPINEPHRINE	rxcui:3992	True				0.01	DTC	dgidb
+MTOR	TORIN 1	iuphar.ligand:8004	False			inhibitor	0.1	GuideToPharmacology	dgidb
+MTOR	THAPSIGARGIN	iuphar.ligand:5351	False				0.1	DTC	dgidb
+MTOR	CATECHOL	chembl:CHEMBL280998	False				0.01	DTC	dgidb
+MTOR	PHENETHYLISOTHIOCYANATE	chembl:CHEMBL151649	False				0.07	DTC	dgidb
+MTOR	CHEMBL:CHEMBL528712	chembl:CHEMBL528712	False				0.1	DTC	dgidb
+MTOR	LOPERAMIDE	rxcui:6468	True				0.03	DTC	dgidb
+MTOR	TERFENADINE	rxcui:42330	True				0.02	DTC	dgidb
+MTOR	CZ415	iuphar.ligand:9837	False			inhibitor	0.3	GuideToPharmacology	dgidb
+MTOR	ECF309	iuphar.ligand:9571	False			inhibitor	0.07	GuideToPharmacology	dgidb
+MTOR	ISOPROTERENOL	rxcui:6054	True				0.01	DTC	dgidb
+MTOR	PI3K INHIBITOR BGT226	ncit:C74073	False				0.1	TTD	dgidb
+MTOR	ZOTAROLIMUS	ncit:C82294	False				0.15	TTD	dgidb
+MTOR	L-741,626	iuphar.ligand:177	False				0.03	DTC	dgidb
+MTOR	COMPOUND 82 [PMID: 21332118]	iuphar.ligand:8805	False			inhibitor	0.04	GuideToPharmacology	dgidb
+MTOR	PP-242	iuphar.ligand:5704	False			inhibitor	0.07	GuideToPharmacology	dgidb
+MTOR	TYRPHOSTIN A9	chembl:CHEMBL78150	False				0.01	DTC	dgidb
+MTOR	NOVOLIMUS	drugbank:DB19085	False				0.3	TTD	dgidb
+MTOR	CHEMBL:CHEMBL303958	chembl:CHEMBL303958	False				0.15	DTC	dgidb
+MTOR	TG-100-115	iuphar.ligand:5715	False				0.1	DTC	dgidb
+MTOR	IDARUBICIN	rxcui:5650	True				0.01	DTC	dgidb
+MTOR	SF-1126	chembl:CHEMBL2326966	False			inhibitor	0.03	ChEMBL	dgidb
+MTOR	DS-7423	chembl:CHEMBL3545248	False			inhibitor	0.03	ChEMBL	dgidb
+MTOR	COMPOUND 11J [PMID: 23021994]	iuphar.ligand:8827	False			inhibitor	0.07	GuideToPharmacology	dgidb
+MTOR	COMPOUND 15A [PMID: 32069401]	iuphar.ligand:10702	False			inhibitor	0.06	GuideToPharmacology	dgidb
+MTOR	IZORLISIB	iuphar.ligand:7743	False			inhibitor	0.03	GuideToPharmacology	dgidb
+MTOR	MIBEFRADIL	rxcui:83213	False				0.02	DTC	dgidb
+MTOR	NICARDIPINE	rxcui:7396	True				0.03	DTC	dgidb
+MTOR	ME-344	drugbank:DB13062	False				0.3	TTD	dgidb
+MTOR	CGS 15943	iuphar.ligand:384	False				0.03	DTC	dgidb
+MTOR	PYRROLIDINE DITHIOCARBAMATE	chembl:CHEMBL399491	False				0.02	DTC	dgidb
+MTOR	VANDETANIB	rxcui:1098413	True				0.01	DTC	dgidb
+MTOR	OMIPALISIB	iuphar.ligand:8974	False			inhibitor|inhibitor	0.04	ChEMBL|GuideToPharmacology	dgidb
+MTOR	COMPOUND 12B [PMID: 31465220]	iuphar.ligand:10489	False			inhibitor	0.07	GuideToPharmacology	dgidb
+MTOR	MIFEPRISTONE	rxcui:6964	True				0.01	DTC	dgidb
+MTOR	ROTENONE	chembl:CHEMBL429023	False				0.04	DTC	dgidb
+MTOR	BERZOSERTIB	ncit:C116355	False			inhibitor	0.09	TTD|GuideToPharmacology	dgidb
+MTOR	SYK INHIBITOR III	iuphar.ligand:6048	False				0.03	DTC	dgidb
+MTOR	PROPAFENONE	rxcui:8754	True				0.03	DTC	dgidb
+MTOR	SERABELISIB	ncit:C98844	False			inhibitor	0.06	GuideToPharmacology	dgidb
+MTOR	PAZOPANIB	rxcui:714438	True				0.01	CIViC	dgidb
+MTOR	GLASDEGIB	rxcui:2105845	True				0.1	TTD	dgidb
+MTOR	STK16-IN-1	iuphar.ligand:9692	False			inhibitor	0.07	GuideToPharmacology	dgidb
+MTOR	PERHEXILINE MALEATE	chembl:CHEMBL1334033	True			inhibitor	0.03	ChEMBL	dgidb
+MTOR	CHEMBL:CHEMBL591618	chembl:CHEMBL591618	False				0.06	DTC	dgidb
+MTOR	CHEMBL:CHEMBL2348411	chembl:CHEMBL2348411	False				0.3	DTC	dgidb
+MTOR	SIROLIMUS ALBUMIN-BOUND NANOPARTICLES	ncit:C74065	False				0.1	TTD	dgidb
+MTOR	BGT-226	chembl:CHEMBL3545096	False			inhibitor	0.07	ChEMBL|TALC	dgidb
+MTOR	DISULFIRAM	rxcui:3554	True				0.01	DTC	dgidb
+MTOR	VANOXERINE	iuphar.ligand:9983	False				0.03	DTC	dgidb
+MTOR	RIDAFOROLIMUS	ncit:C49061	False			inhibitor|inhibitor	1.05	GuideToPharmacology|ChEMBL|TdgClinicalTrial|ClearityFoundationClinicalTrial|MyCancerGenome|TALC|TTD	dgidb
+MTOR	PAXALISIB	ncit:C116877	False			inhibitor	0.03	GuideToPharmacology	dgidb
+MTOR	CHEMBL:CHEMBL599088	chembl:CHEMBL599088	False				0.15	DTC	dgidb
+MTOR	IFENPRODIL	rxcui:27403	False				0.15	DTC	dgidb
+MTOR	AZD8055	iuphar.ligand:7714	False			inhibitor|inhibitor	0.12	MyCancerGenome|ChEMBL|DTC|GuideToPharmacology	dgidb
+MTOR	ISTIRATUMAB	ncit:C103863	False				0.1	TTD	dgidb
+MTOR	PIMECROLIMUS	rxcui:321952	True				0.1	TdgClinicalTrial	dgidb
+MTOR	NICLOSAMIDE	rxcui:7402	True				0.01	DTC	dgidb
+MTOR	CHEMBL:CHEMBL587620	chembl:CHEMBL587620	False				0.06	DTC	dgidb
+MTOR	PALOMID-529	chembl:CHEMBL2141712	False			inhibitor	0.3	ChEMBL	dgidb
+MTOR	PENTAMIDINE ISETHIONATE	chembl:CHEMBL361506	True				0.05	DTC	dgidb
+MTOR	BIX-01294	iuphar.ligand:7014	False				0.04	DTC	dgidb
+MTOR	MTOR KINASE INHIBITOR AZD8055	ncit:C78856	False				0.3	CIViC	dgidb
+MTOR	SALIRASIB	ncit:C71146	False				0.03	TTD	dgidb
+MTOR	CHEMBL:CHEMBL528807	chembl:CHEMBL528807	False				0.1	DTC	dgidb
+MTOR	(R,S)-INDATRALINE	chembl:CHEMBL341898	False				0.03	DTC	dgidb
+MTOR	DS-3078A	chembl:CHEMBL3544963	False			inhibitor	0.6	CancerCommons|ChEMBL	dgidb
+MTOR	CAPIVASERTIB	rxcui:2669967	True				0.05	CIViC	dgidb
+MTOR	XL388	iuphar.ligand:7973	False			inhibitor	0.3	GuideToPharmacology	dgidb
+MTOR	CHEMBL:CHEMBL605077	chembl:CHEMBL605077	False				0.15	DTC	dgidb
+MTOR	MTOR INHIBITOR	ncit:C2201	False				0.09	CIViC	dgidb
+MTOR	O-PHENANTHROLINE	rxcui:1872047	True				0.01	DTC	dgidb
+MTOR	DIPHENYLENEIODONIUM	chembl:CHEMBL365739	False				0.04	DTC	dgidb
+MTOR	TRIFLUPERIDOL	chembl:CHEMBL15023	False				0.15	DTC	dgidb
+BCL2L1	APOGOSSYPOL	chembl:CHEMBL551288	False				7.56	DTC	dgidb
+BCL2L1	NAVITOCLAX	ncit:C64776	False			inhibitor|inhibitor	0.81	TTD|ChEMBL|GuideToPharmacology	dgidb
+BCL2L1	SANGIVAMYCIN	chembl:CHEMBL101892	False				3.78	DTC	dgidb
+BCL2L1	GOSSYPOL	iuphar.ligand:4204	False				0.18	DTC	dgidb
+BCL2L1	ABT-737	iuphar.ligand:8320	False			inhibitor	5.04	DTC|GuideToPharmacology	dgidb
+BCL2L1	FOSELUTOCLAX	iuphar.ligand:13366	False			inhibitor	3.78	GuideToPharmacology	dgidb
+BCL2L1	A-1331852	iuphar.ligand:11102	False			inhibitor	1.89	GuideToPharmacology	dgidb
+BCL2L1	PELCITOCLAX	ncit:C148488	False				1.89	TTD	dgidb
+BCL2L1	APG-1252-M1	iuphar.ligand:13070	False			inhibitor	1.89	GuideToPharmacology	dgidb
+BCL2L1	LISAFTOCLAX	iuphar.ligand:13108	False			inhibitor	1.89	GuideToPharmacology	dgidb
+BCL2L1	VENETOCLAX	rxcui:1747556	True			inhibitor	0.14	GuideToPharmacology	dgidb
+BCL2L1	OBATOCLAX	ncit:C60770	False			inhibitor	1.51	GuideToPharmacology|TTD	dgidb
+BCL2L1	AZD4320	iuphar.ligand:11781	False			inhibitor	1.89	GuideToPharmacology	dgidb
+BCL2L1	OBATOCLAX MESYLATE	chembl:CHEMBL2107358	False			inhibitor	0.63	ChEMBL	dgidb
+BIRC5	DEXAMETHASONE	rxcui:3264	True				0.02	NCI	dgidb
+BIRC5	PACLITAXEL PROTEIN-BOUND	rxcui:486610	True				0.03	NCI|ClearityFoundationBiomarkers	dgidb
+BIRC5	TRETINOIN	rxcui:10753	True				0.04	NCI	dgidb
+BIRC5	EDODEKIN ALFA	rxcui:1371906	False				0.19	NCI	dgidb
+BIRC5	TETRADECANOYLPHORBOL ACETATE	ncit:C866	False				0.03	NCI	dgidb
+BIRC5	ROFECOXIB	rxcui:232158	True				0.28	NCI	dgidb
+BIRC5	PLEVITREXED	ncit:C1629	False				1.71	NCI	dgidb
+BIRC5	ARSENIC TRIOXIDE	rxcui:18330	True				0.1	NCI	dgidb
+BIRC5	TRASTUZUMAB	rxcui:224905	True				0.12	NCI|CIViC	dgidb
+BIRC5	RESVERATROL	ncit:C1215	False				0.2	NCI	dgidb
+BIRC5	METHOTREXATE	rxcui:6851	True				0.03	NCI|PharmGKB	dgidb
+BIRC5	7-HYDROXYSTAUROSPORINE	ncit:C1271	False				0.34	NCI	dgidb
+BIRC5	IAP INHIBITOR HGS1029	ncit:C78484	False				0.21	TdgClinicalTrial	dgidb
+BIRC5	GENISTEIN	rxcui:25696	True				0.03	NCI	dgidb
+BIRC5	VALDECOXIB	rxcui:278567	True				0.57	NCI	dgidb
+BIRC5	STAUROSPORINE	ncit:C1237	False				0.07	NCI	dgidb
+BIRC5	ENZYME INHIBITOR	ncit:C471	False				0.14	NCI	dgidb
+BIRC5	INTERFERON BETA-1A	rxcui:75917	True				0.11	NCI	dgidb
+BIRC5	PLICAMYCIN	rxcui:6995	True				0.28	NCI	dgidb
+BIRC5	SULINDAC	rxcui:10237	True				0.14	NCI	dgidb
+BIRC5	DOCETAXEL ANHYDROUS	rxcui:1299922	True				0.01	ClearityFoundationBiomarkers	dgidb
+BIRC5	MYCOPHENOLATE	rxcui:265323	True				0.08	NCI	dgidb
+BIRC5	LONAFARNIB	rxcui:2467553	True				0.17	NCI	dgidb
+BIRC5	SURVAXM	drugbank:DB17397	False				0.85	TTD	dgidb
+BIRC5	LAPATINIB	rxcui:480167	True				0.06	NCI	dgidb
+BIRC5	SALMON CALCITONIN	rxcui:36118	True				0.28	NCI	dgidb
+BIRC5	OMACETAXINE MEPESUCCINATE	rxcui:27100	True				0.43	NCI	dgidb
+BIRC5	CARBOPLATIN	rxcui:40048	True				0.02	NCI	dgidb
+BIRC5	PROTEASOME INHIBITOR	ncit:C2160	False				0.09	NCI	dgidb
+BIRC5	IMATINIB	rxcui:282388	True				0.02	NCI	dgidb
+BIRC5	MEK INHIBITOR PD-98059	ncit:C1625	False				0.08	NCI	dgidb
+BIRC5	SVN53-67/M57-KLH PEPTIDE VACCINE	chembl:CHEMBL4650424	False			vaccine	0.85	ChEMBL	dgidb
+BIRC5	EPIRUBICIN HYDROCHLORIDE	rxcui:203213	True				0.34	NCI	dgidb
+BIRC5	DACTINOMYCIN	rxcui:3100	True				0.05	NCI	dgidb
+BIRC5	GM-CSF	iuphar.ligand:4942	False				0.11	NCI	dgidb
+BIRC5	CYTARABINE	rxcui:3041	True				0.02	NCI	dgidb
+BIRC5	EPOETIN ALFA	rxcui:105694	True				0.05	NCI	dgidb
+BIRC5	ROMIDEPSIN	rxcui:877510	True				0.09	NCI	dgidb
+BIRC5	DULANERMIN	ncit:C1685	False				0.12	NCI	dgidb
+BIRC5	MAVEROPEPIMUT-S	ncit:C97951	False				0.85	TTD	dgidb
+BIRC5	RAS INHIBITOR	ncit:C1902	False				0.43	NCI	dgidb
+BIRC5	FLUOROURACIL	rxcui:4492	True				0.01	NCI	dgidb
+BIRC5	CAMPTOTHECIN	ncit:C338	True				0.07	NCI	dgidb
+BIRC5	FLUTAMIDE	rxcui:4508	True				0.09	NCI	dgidb
+BIRC5	COMPOUND III [PMID: 24080463]	iuphar.ligand:8825	False			inhibitor	0.85	GuideToPharmacology	dgidb
+BIRC5	PLATINUM COMPOUND	ncit:C1450	False				0.21	CIViC	dgidb
+BIRC5	GATAPARSEN SODIUM	ncit:C66935	False			inhibitor	1.71	TALC|TdgClinicalTrial	dgidb
+BIRC5	INDOMETHACIN	rxcui:5781	True				0.04	NCI	dgidb
+BIRC5	INTERLEUKIN-11	rxcui:1311380	True				0.17	NCI	dgidb
+BIRC5	VORINOSTAT	rxcui:194337	True				0.03	NCI	dgidb
+BIRC5	CISPLATIN	rxcui:2555	True				0.01	NCI	dgidb
+BIRC5	RECOMBINANT INTERLEUKIN-1	ncit:C586	False				0.09	NCI	dgidb
+BIRC5	NONSTEROIDAL ANTIINFLAMMATORY DRUG	ncit:C257	False				0.1	NCI	dgidb
+BIRC5	SURVIVIN MRNA ANTAGONIST EZN-3042	ncit:C92578	False				0.85	TTD	dgidb
+BIRC5	ERLOTINIB HYDROCHLORIDE	rxcui:477320	True				0.34	NCI	dgidb
+BIRC5	SEPANTRONIUM BROMIDE	chembl:CHEMBL2105734	False			inhibitor	0.85	TALC	dgidb
+BIRC5	IRINOTECAN HYDROCHLORIDE	rxcui:153329	True				0.03	NCI	dgidb
+BIRC5	DOXORUBICIN HYDROCHLORIDE	rxcui:142433	True				0.02	NCI	dgidb
+BIRC5	ANTIOXIDANT	ncit:C275	False				0.08	NCI	dgidb
+BIRC5	ANTINEOPLASTIC VACCINE	ncit:C1663	False				0.34	NCI	dgidb
+BIRC5	PRASTERONE	rxcui:3143	True				0.09	NCI	dgidb
+BIRC5	AMMONIUM TRICHLOROTELLURATE	ncit:C1006	False				0.57	NCI	dgidb
+TOP2A	FLUOROURACIL	rxcui:4492	True				0.01	PharmGKB	dgidb
+TOP2A	DAUNORUBICIN HYDROCHLORIDE	rxcui:81992	True				0.07	NCI	dgidb
+TOP2A	VOSAROXIN	ncit:C95148	False			inhibitor	0.66	TdgClinicalTrial|ChEMBL|TTD	dgidb
+TOP2A	EPIRUBICIN	rxcui:3995	True				0.06	TTD|TEND|TdgClinicalTrial|PharmGKB	dgidb
+TOP2A	KAEMPFERITRIN	iuphar.ligand:13277	False				0.88	DTC	dgidb
+TOP2A	MAKALUVAMINE E	chembl:CHEMBL509186	False				0.88	DTC	dgidb
+TOP2A	ALDOXORUBICIN	ncit:C68921	False			inhibitor	1.32	TdgClinicalTrial|ChEMBL|TTD	dgidb
+TOP2A	CHEMBL:CHEMBL244268	chembl:CHEMBL244268	False				0.88	DTC	dgidb
+TOP2A	PYRAZOLOACRIDINE	ncit:C1564	False				0.44	TTD	dgidb
+TOP2A	ACRIDINE CARBOXAMIDE	ncit:C2203	False				0.22	TTD	dgidb
+TOP2A	BETULIN	chembl:CHEMBL23236	False				0.88	DTC	dgidb
+TOP2A	CHEMBL:CHEMBL596082	chembl:CHEMBL596082	False				0.88	DTC	dgidb
+TOP2A	LOMEFLOXACIN	rxcui:28872	False				0.22	TTD	dgidb
+TOP2A	CHEMBL:CHEMBL1080077	chembl:CHEMBL1080077	False				0.88	DTC	dgidb
+TOP2A	DOXORUBICIN-MAGNETIC TARGETED CARRIER COMPLEX	ncit:C2644	False				0.44	TTD	dgidb
+TOP2A	GENISTEIN	rxcui:25696	True				0.02	DTC	dgidb
+TOP2A	ROSOXACIN	rxcui:35797	False				0.44	TTD	dgidb
+TOP2A	DOXORUBICIN-HPMA CONJUGATE	ncit:C1366	False				0.44	TTD	dgidb
+TOP2A	PODOFILOX	rxcui:8463	True				0.06	TdgClinicalTrial|TEND|TTD	dgidb
+TOP2A	MITOXANTRONE HYDROCHLORIDE	chembl:CHEMBL1417019	True			inhibitor	0.01	ChEMBL	dgidb
+TOP2A	PIXANTRONE	ncit:C26663	True				1.32	CIViC|TTD	dgidb
+TOP2A	TRICITRINOL B	chembl:CHEMBL1822982	False				0.88	DTC	dgidb
+TOP2A	FRANGULIN B	chembl:CHEMBL496999	False				0.88	DTC	dgidb
+TOP2A	FLUOROQUINOLONE ANTIBIOTIC	ncit:C126712	False				0.44	TTD	dgidb
+TOP2A	LYCOBETAINE	chembl:CHEMBL253553	False				0.29	DTC	dgidb
+TOP2A	MAKALUVAMINE C TFA SALT	chembl:CHEMBL450970	False				0.88	DTC	dgidb
+TOP2A	TAS-103	ncit:C1733	False				0.44	TTD	dgidb
+TOP2A	AMSACRINE	rxcui:739	True			inhibitor	0.41	CIViC|TTD|DTC|ChEMBL|NCI	dgidb
+TOP2A	QUERCETIN	rxcui:9060	True				0.02	DTC	dgidb
+TOP2A	C-1311	chembl:CHEMBL338604	False			inhibitor	0.18	TdgClinicalTrial|ChEMBL	dgidb
+TOP2A	ANTHRACYCLINE ANTINEOPLASTIC ANTIBIOTIC	ncit:C1594	False				0.15	CGI|NCI	dgidb
+TOP2A	DAUNORUBICIN LIPOSOMAL	rxcui:214468	True			inhibitor	0.02	DTC|ChEMBL|TdgClinicalTrial	dgidb
+TOP2A	IDARUBICIN	rxcui:5650	True				0.03	TTD|TEND|TdgClinicalTrial	dgidb
+TOP2A	OLEANDEROLIDE	chembl:CHEMBL498230	False				0.88	DTC	dgidb
+TOP2A	CHEMBL:CHEMBL594259	chembl:CHEMBL594259	False				0.88	DTC	dgidb
+TOP2A	NEMORUBICIN	ncit:C83999	False				0.44	TTD	dgidb
+TOP2A	CHEMBL:CHEMBL594153	chembl:CHEMBL594153	False				0.88	DTC	dgidb
+TOP2A	DANIQUIDONE	ncit:C66984	False				0.15	TTD	dgidb
+TOP2A	ELSAMITRUCIN	ncit:C1080	False				0.22	TTD	dgidb
+TOP2A	VALRUBICIN	rxcui:31435	True				1.32	TEND|TTD|TdgClinicalTrial	dgidb
+TOP2A	CHEMBL:CHEMBL2171812	chembl:CHEMBL2171812	False				0.44	DTC	dgidb
+TOP2A	SIMOCYCLINONE D8	chembl:CHEMBL1235969	False				0.44	DTC	dgidb
+TOP2A	CHEMBL:CHEMBL2332127	chembl:CHEMBL2332127	False				0.44	DTC	dgidb
+TOP2A	CHEMBL:CHEMBL2171794	chembl:CHEMBL2171794	False				0.44	DTC	dgidb
+TOP2A	CHEMBL:CHEMBL594257	chembl:CHEMBL594257	False				0.88	DTC	dgidb
+TOP2A	DAUNORUBICIN CITRATE	chembl:CHEMBL1200475	True			inhibitor	0.44	ChEMBL	dgidb
+TOP2A	CHEMBL:CHEMBL607534	chembl:CHEMBL607534	False				0.88	DTC	dgidb
+TOP2A	TIRAPAZAMINE	ncit:C1464	False				0.11	TTD	dgidb
+TOP2A	SECAUBRYOLIDE	chembl:CHEMBL2332132	False				0.44	DTC	dgidb
+TOP2A	DOXORUBICIN-ELUTING BEADS	ncit:C82419	False				0.44	TTD	dgidb
+TOP2A	CHEMBL:CHEMBL507986	chembl:CHEMBL507986	False				0.88	DTC	dgidb
+TOP2A	CHEMBL:CHEMBL2332128	chembl:CHEMBL2332128	False				0.44	DTC	dgidb
+TOP2A	MAKALUVAMINE A	chembl:CHEMBL449905	False				0.88	DTC	dgidb
+TOP2A	AMONAFIDE	rxcui:1440270	False				1.54	TdgClinicalTrial|DTC	dgidb
+TOP2A	CHEMBL:CHEMBL2171781	chembl:CHEMBL2171781	False				0.44	DTC	dgidb
+TOP2A	RTA 744	drugbank:DB05920	False				0.22	TdgClinicalTrial	dgidb
+TOP2A	DEMETHYLZEYLASTERONE	chembl:CHEMBL465251	False				0.88	DTC	dgidb
+TOP2A	ETOPOSIDE PHOSPHATE	chembl:CHEMBL1200645	True			inhibitor	0.44	ChEMBL	dgidb
+TOP2A	ELLIPTECINE	chembl:CHEMBL123	False				0.04	DTC	dgidb
+TOP2A	13-DEOXYDOXORUBICIN	ncit:C2494	False				0.44	TdgClinicalTrial	dgidb
+TOP2A	MAKALUVAMINE F	chembl:CHEMBL509890	False				0.88	DTC	dgidb
+TOP2A	AMRUBICIN HYDROCHLORIDE	chembl:CHEMBL481958	False			inhibitor	0.44	ChEMBL	dgidb
+TOP2A	IDARUBICIN HYDROCHLORIDE	chembl:CHEMBL1200976	True			inhibitor	0.03	ChEMBL	dgidb
+TOP2A	CHEMBL:CHEMBL594695	chembl:CHEMBL594695	False				0.88	DTC	dgidb
+TOP2A	BERUBICIN	ncit:C83552	False				0.44	TTD	dgidb
+TOP2A	DEXRAZOXANE HYDROCHLORIDE	chembl:CHEMBL1200778	True			inhibitor	0.22	ChEMBL	dgidb
+TOP2A	CHEMBL:CHEMBL593570	chembl:CHEMBL593570	False				0.88	DTC	dgidb
+TOP2A	CHEMBL:CHEMBL1773343	chembl:CHEMBL1773343	False				0.88	DTC	dgidb
+TOP2A	PACLITAXEL PROTEIN-BOUND	rxcui:486610	True				0.0	TdgClinicalTrial	dgidb
+TOP2A	UNGEREMINE	chembl:CHEMBL479291	False				0.88	DTC	dgidb
+TOP2A	DIGITOXIN	rxcui:3403	True				0.05	DTC	dgidb
+TOP2A	FLEROXACIN	rxcui:42322	False				0.22	TTD	dgidb
+TOP2A	TAFLUPOSIDE	ncit:C152490	False				0.22	TTD	dgidb
+TOP2A	LUCANTHONE	ncit:C83925	False				0.44	TTD	dgidb
+TOP2A	DIAZIRINE	chembl:CHEMBL592862	False				0.88	DTC	dgidb
+TOP2A	PEFLOXACIN	rxcui:7960	False				0.11	TTD	dgidb
+TOP2A	VINCRISTINE	rxcui:11202	True				0.01	NCI	dgidb
+TOP2A	ACLARUBICIN	rxcui:239	False				0.11	TTD	dgidb
+TOP2A	ETOPOSIDE TONIRIBATE	ncit:C114977	False				0.44	TdgClinicalTrial	dgidb
+TOP2A	NOVOBIOCIN	rxcui:7538	False				0.09	TTD	dgidb
+TOP2A	GANCOTAMAB	chembl:CHEMBL3833344	False			inhibitor	0.22	ChEMBL	dgidb
+TOP2A	SABARUBICIN	ncit:C1706	False				0.44	TTD	dgidb
+TOP2A	BECATECARIN	chembl:CHEMBL2107313	False			inhibitor	0.15	ChEMBL	dgidb
+TOP2A	CARINATIN G	chembl:CHEMBL2332131	False				0.44	DTC	dgidb
+TOP2A	GRC-6211	chembl:CHEMBL5314398	False				0.22	TTD	dgidb
+TOP2A	CHEMBL:CHEMBL594379	chembl:CHEMBL594379	False				0.88	DTC	dgidb
+TOP2A	L-377202	drugbank:DB19022	False				0.44	TTD	dgidb
+TOP2A	HYDROQUINONE	rxcui:5509	True				0.05	NCI	dgidb
+TOP2A	NALIDIXIC ACID	rxcui:7240	True				0.11	TTD	dgidb
+TOP2A	DIPHYLLIN	chembl:CHEMBL221190	False				0.22	DTC	dgidb
+TOP2A	ELINAFIDE	chembl:CHEMBL31400	False				0.88	DTC	dgidb
+TOP2A	DACTINOMYCIN	rxcui:3100	True				0.03	NCI	dgidb
+TOP2A	LUPEOL	chembl:CHEMBL289191	False				0.88	DTC	dgidb
+TOP2A	CHEMBL:CHEMBL2332126	chembl:CHEMBL2332126	False				0.44	DTC	dgidb
+TOP2A	BROXURIDINE	ncit:C318	False				0.07	NCI	dgidb
+TOP2A	DTS-201	drugbank:DB06071	False				0.44	TdgClinicalTrial	dgidb
+TOP2A	GEPOTIDACIN	rxcui:2709212	True				0.22	TTD	dgidb
+TOP2A	TENIPOSIDE	rxcui:10362	True			inhibitor	0.33	NCI|TEND|TdgClinicalTrial|ChEMBL|TTD	dgidb
+TOP2A	ENOXACIN	rxcui:3925	True				0.15	TTD	dgidb
+TOP2A	CAMPTOTHECIN	ncit:C338	True				0.04	NCI	dgidb
+TOP2A	CHEMBL:CHEMBL2023733	chembl:CHEMBL2023733	False				0.88	DTC	dgidb
+TOP2A	BERUBICIN HYDROCHLORIDE	chembl:CHEMBL2103796	False			inhibitor	0.22	ChEMBL	dgidb
+TOP2A	PAZUFLOXACIN	ncit:C66331	False			inhibitor	0.22	ChEMBL	dgidb
+TOP2A	ETOPOSIDE	rxcui:4179	True			inhibitor|inhibitor	0.43	ChEMBL|TEND|GuideToPharmacology|TTD|TdgClinicalTrial|CIViC|DTC|NCI	dgidb
+TOP2A	AMRUBICIN	ncit:C80089	False			inhibitor	0.44	ChEMBL	dgidb
+TOP2A	SALVICINE	ncit:C222152	False				0.44	TTD	dgidb
+TOP2A	ANNAMYCIN LIPOSOMAL	ncit:C25838	False				0.44	TTD	dgidb
+TOP2A	FLUOROQUINOLONE	wikidata:Q28801726	False				0.44	TTD	dgidb
+TOP2A	MITOXANTRONE	rxcui:7005	True			inhibitor	0.05	TTD|GuideToPharmacology|TEND|TdgClinicalTrial	dgidb
+TOP2A	MYRICETIN	drugbank:DB02375	False			inhibitor	0.04	GuideToPharmacology|DTC	dgidb
+TOP2A	IDRONOXIL	ncit:C2642	False			inhibitor	0.06	ClearityFoundationClinicalTrial	dgidb
+TOP2A	FISETIN	iuphar.ligand:5182	False				0.07	DTC	dgidb
+TOP2A	DOXORUBICIN HYDROCHLORIDE	rxcui:142433	True			inhibitor|inhibitor	0.04	DTC|TTD|ClearityFoundationBiomarkers|ClearityFoundationClinicalTrial|TdgClinicalTrial|NCI|GuideToPharmacology|TEND|ChEMBL	dgidb
+TOP2A	DEXRAZOXANE	rxcui:42736	True			inhibitor	0.35	NCI|TTD|ChEMBL	dgidb
+TOP2A	4'-O-ACETYLPATENTIFLORIN B	chembl:CHEMBL454803	False				0.88	DTC	dgidb
+TOP2A	CINOXACIN	rxcui:2550	True				0.44	TTD	dgidb
+PRKAA2	METFORMIN	rxcui:6809	True				0.33	PharmGKB|DTC	dgidb
+PRKAA2	ACADESINE	ncit:C71537	False			activator	1.26	TTD|ChEMBL	dgidb
+PRKAA2	IMEGLIMIN	ncit:C132841	False				4.41	TTD	dgidb
+PRKAA2	VALPROIC ACID	rxcui:11118	True				0.15	PharmGKB	dgidb
+PRKAA2	METFORMIN HYDROCHLORIDE	rxcui:235743	True			activator	1.47	ClearityFoundationClinicalTrial	dgidb
+PRKAA2	HESPERADIN	iuphar.ligand:8354	False			inhibitor	0.11	DTC	dgidb
+PRKAA2	CHEMBL:CHEMBL2348411	chembl:CHEMBL2348411	False				4.41	DTC	dgidb
+PRKAA2	SAPONARIN	chembl:CHEMBL538921	False				1.26	DTC	dgidb
+PRKAA2	CLOZAPINE	rxcui:2626	True				0.1	PharmGKB	dgidb
+PRKAA2	LIXUMISTAT ACETATE	ncit:C153372	False				4.41	TTD	dgidb
+PRKAA2	OLANZAPINE	rxcui:61381	True				0.13	PharmGKB	dgidb
+MDM2	LISSOCLINIDINE B	chembl:CHEMBL461462	False				3.31	DTC	dgidb
+MDM2	THIRAM	chembl:CHEMBL120563	False				0.07	DTC	dgidb
+MDM2	PEMBROLIZUMAB	rxcui:1547545	True				0.08	CIViC	dgidb
+MDM2	TCDD	iuphar.ligand:9642	False				0.14	NCI	dgidb
+MDM2	MILADEMETAN TOSYLATE	ncit:C107384	False				1.65	OncoKB	dgidb
+MDM2	ALRIZOMADLIN	ncit:C132991	False				0.83	TTD	dgidb
+MDM2	IPILIMUMAB	rxcui:1094833	True				0.16	CIViC	dgidb
+MDM2	SIREMADLIN	chembl:CHEMBL3653256	False			inhibitor	0.83	ChEMBL	dgidb
+MDM2	MILADEMETAN	ncit:C141432	False				1.65	TTD	dgidb
+MDM2	SERDEMETAN	ncit:C77904	False				0.83	TTD	dgidb
+MDM2	NAVTEMADLIN	ncit:C116624	False			inhibitor|inhibitor	0.99	GuideToPharmacology|TTD|ChEMBL	dgidb
+MDM2	SULANEMADLIN	ncit:C118669	False				0.55	TTD	dgidb
+MDM2	MEK INHIBITOR PD-98059	ncit:C1625	False				0.15	NCI	dgidb
+MDM2	ANGIOGENESIS INHIBITOR	ncit:C1742	False				0.28	NCI	dgidb
+MDM2	NUTLIN-3	chembl:CHEMBL191334	False				4.14	DTC	dgidb
+MDM2	CISPLATIN	rxcui:2555	True				0.01	CGI	dgidb
+MDM2	JN122	iuphar.ligand:13126	False			inhibitor	1.65	GuideToPharmacology	dgidb
+MDM2	IDASANUTLIN	ncit:C99131	False				0.55	TTD	dgidb
+MDM2	CHEMBL:CHEMBL1492017	chembl:CHEMBL1492017	False				0.28	DTC	dgidb
+MDM2	DIPLAMINE B	chembl:CHEMBL513108	False				3.31	DTC	dgidb
+MDM2	NIVOLUMAB	rxcui:1597876	True				0.1	CIViC	dgidb
+MDM2	HELENALIN	chembl:CHEMBL338474	False				0.1	DTC	dgidb
+MDM2	HDM2 INHIBITOR MK-8242	ncit:C116867	False				1.65	CIViC	dgidb
+MDM2	MANGOSTIN	rxcui:2619910	False				0.15	DTC	dgidb
+MDM2	MDM2 ANTAGONIST RO5045337	ncit:C91724	False				1.65	OncoKB	dgidb
+MDM2	GAMBOGIC ACID	chembl:CHEMBL555017	False				0.18	DTC	dgidb
+MDM2	RG7112	iuphar.ligand:9599	False			inhibitor	0.83	GuideToPharmacology	dgidb
+SQSTM1	YTK-2205	iuphar.ligand:12281	False			agonist	17.64	GuideToPharmacology	dgidb
+SQSTM1	DUSQUETIDE	chembl:CHEMBL3545314	False				17.64	TTD	dgidb
+SQSTM1	OROXYLIN A	iuphar.ligand:13522	False				17.64	GuideToPharmacology	dgidb
+TP53	PIRARUBICIN	rxcui:33764	False				0.03	CKB-CORE	dgidb
+TP53	OXALIPLATIN	rxcui:32592	True				0.01	PharmGKB|CIViC	dgidb
+TP53	SIREMADLIN	chembl:CHEMBL3653256	False			inhibitor	0.06	ChEMBL	dgidb
+TP53	CARBOPLATIN	rxcui:40048	True				0.01	CKB-CORE|CIViC	dgidb
+TP53	DAUNORUBICIN HYDROCHLORIDE	chembl:CHEMBL1563	True				0.0	DTC	dgidb
+TP53	CHEMBL:CHEMBL260560	chembl:CHEMBL260560	False				0.01	DTC	dgidb
+TP53	MELPHALAN	rxcui:6718	True				0.01	DTC	dgidb
+TP53	LAPACHONE	chembl:CHEMBL15192	False				0.01	DTC	dgidb
+TP53	VITAMIN K3	rxcui:6728	True				0.0	DTC	dgidb
+TP53	CHEMBL:CHEMBL260451	chembl:CHEMBL260451	False				0.02	DTC	dgidb
+TP53	DINOSEB	chembl:CHEMBL1892987	False				0.03	DTC	dgidb
+TP53	RIMCAZOLE	chembl:CHEMBL275707	False				0.02	DTC	dgidb
+TP53	TRACAZOLATE	ncit:C152706	False				0.01	DTC	dgidb
+TP53	CAPIVASERTIB	rxcui:2669967	True				0.02	CKB-CORE	dgidb
+TP53	AZD7648	iuphar.ligand:10601	False				0.05	CKB-CORE	dgidb
+TP53	QUINALIZARIN	chembl:CHEMBL29898	False				0.01	DTC	dgidb
+TP53	INOSITOL	rxcui:5833	True				0.02	NCI	dgidb
+TP53	ECONAZOLE NITRATE	chembl:CHEMBL1201049	True				0.01	DTC	dgidb
+TP53	L-733,060	iuphar.ligand:13432	False				0.02	DTC	dgidb
+TP53	U50488	iuphar.ligand:1652	False				0.03	DTC	dgidb
+TP53	CHEMBL:CHEMBL260028	chembl:CHEMBL260028	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL601140	chembl:CHEMBL601140	False				0.03	DTC	dgidb
+TP53	CHEMBL:CHEMBL408563	chembl:CHEMBL408563	False				0.02	DTC	dgidb
+TP53	ENALAPRIL MALEATE	rxcui:203123	True				0.02	NCI	dgidb
+TP53	HOMIDIUM BROMIDE	chembl:CHEMBL284328	False				0.0	DTC	dgidb
+TP53	IOXYNIL	chembl:CHEMBL509523	False				0.04	DTC	dgidb
+TP53	ACALABRUTINIB	rxcui:1986808	True				0.02	PharmGKB|CKB-CORE	dgidb
+TP53	INDOPROFEN	ncit:C83801	True				0.01	DTC	dgidb
+TP53	MERCAPTOPURINE	rxcui:103	True				0.0	DTC	dgidb
+TP53	AUTOLOGOUS DENDRITIC CELLS TRANSDUCED WITH WILD-TYPE P53 ADENOVIRUS VACCINE	ncit:C148241	False			vaccine	0.12	TALC	dgidb
+TP53	ZIRAM	chembl:CHEMBL1519327	False				0.01	DTC	dgidb
+TP53	IFOSFAMIDE	rxcui:5657	True				0.02	CKB-CORE	dgidb
+TP53	DOCETAXEL ANHYDROUS	rxcui:1299922	True				0.01	CKB-CORE|CIViC	dgidb
+TP53	SOTULETINIB	ncit:C129653	False				0.12	CKB-CORE	dgidb
+TP53	SERTRALINE HYDROCHLORIDE	rxcui:155137	True				0.01	DTC	dgidb
+TP53	PD166285	iuphar.ligand:8183	False				0.0	CKB-CORE	dgidb
+TP53	SAPANISERTIB	rxcui:2395271	True				0.02	CKB-CORE	dgidb
+TP53	ENZALUTAMIDE	rxcui:1307298	True				0.02	CKB-CORE	dgidb
+TP53	PYRITHIONE ZINC	ncit:C47698	True				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL1169388	chembl:CHEMBL1169388	False				0.01	DTC	dgidb
+TP53	ALPELISIB	rxcui:2169285	True				0.01	CKB-CORE	dgidb
+TP53	CLOFOCTOL	ncit:C78048	False				0.02	DTC	dgidb
+TP53	CHLOROXINE	rxcui:20875	True				0.01	DTC	dgidb
+TP53	APOMORPHINE	rxcui:1043	True				0.01	DTC	dgidb
+TP53	NIVOLUMAB	rxcui:1597876	True				0.01	CKB-CORE	dgidb
+TP53	TEMOZOLOMIDE	rxcui:37776	True				0.02	CKB-CORE|CIViC	dgidb
+TP53	O-PHENANTHROLINE	rxcui:1872047	True				0.01	DTC	dgidb
+TP53	CISPLATIN	rxcui:2555	True				0.01	CGI|CKB-CORE|NCI|CIViC	dgidb
+TP53	BUPARLISIB	ncit:C90565	False				0.01	CKB-CORE	dgidb
+TP53	RALOXIFENE HYDROCHLORIDE	rxcui:166551	True				0.0	DTC	dgidb
+TP53	IPILIMUMAB	rxcui:1094833	True				0.01	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL600347	chembl:CHEMBL600347	False				0.12	DTC	dgidb
+TP53	DOPAMINE	rxcui:3628	True				0.01	DTC	dgidb
+TP53	CHLORFENAPYR	chembl:CHEMBL1869551	False				0.03	DTC	dgidb
+TP53	CHEMBL:CHEMBL259422	chembl:CHEMBL259422	False				0.12	DTC	dgidb
+TP53	AHPN	iuphar.ligand:3431	False				0.02	DTC	dgidb
+TP53	CLOMIPRAMINE	rxcui:2597	True				0.01	DTC	dgidb
+TP53	TRIFLURIDINE	rxcui:10803	True				0.08	CKB-CORE	dgidb
+TP53	CERALASERTIB	ncit:C111993	False				0.08	CGI|CKB-CORE	dgidb
+TP53	METHOTREXATE	rxcui:6851	True				0.0	DTC|CIViC	dgidb
+TP53	CEP-1347	iuphar.ligand:8173	False				0.02	CKB-CORE	dgidb
+TP53	SELUMETINIB	rxcui:2289380	True				0.01	CKB-CORE|CIViC	dgidb
+TP53	ELLIPTECINE	chembl:CHEMBL123	False				0.0	DTC	dgidb
+TP53	GENISTEIN	rxcui:25696	True				0.0	DTC	dgidb
+TP53	MDM2 INHIBITOR AMGMDS3	ncit:C171616	False				0.23	CIViC	dgidb
+TP53	CHEMBL:CHEMBL154580	chembl:CHEMBL154580	False				0.01	DTC	dgidb
+TP53	MITOMYCIN	rxcui:632	True				0.02	CGI|CIViC	dgidb
+TP53	SAPONIN	ncit:C823	False				0.05	NCI	dgidb
+TP53	ALT-801	drugbank:DB15386	False				0.12	TTD	dgidb
+TP53	SP600125	iuphar.ligand:5273	False				0.06	CKB-CORE	dgidb
+TP53	CADMIUM ACETATE	chembl:CHEMBL1476898	False				0.01	DTC	dgidb
+TP53	EPRENETAPOPT	ncit:C85465	False				1.15	CKB-CORE|CIViC|TTD	dgidb
+TP53	DOXORUBICIN HYDROCHLORIDE	rxcui:142433	True				0.01	PharmGKB|DTC|CGI|CKB-CORE|CIViC	dgidb
+TP53	OCHRATOXIN A	iuphar.ligand:4672	False				0.01	DTC	dgidb
+TP53	SORAFENIB	rxcui:495881	True				0.0	CKB-CORE	dgidb
+TP53	STREPTONIGRIN	ncit:C844	False				0.12	NCI	dgidb
+TP53	CLOFIBRATE	rxcui:2594	True				0.02	DTC	dgidb
+TP53	NIGULDIPINE	ncit:C84018	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL1389794	chembl:CHEMBL1389794	False				0.02	DTC	dgidb
+TP53	SELICICLIB	ncit:C62783	False				0.04	DTC|CKB-CORE	dgidb
+TP53	TERPYRIDINE	chembl:CHEMBL89445	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL545900	chembl:CHEMBL545900	False				0.12	DTC	dgidb
+TP53	CADMIUM DICHLORIDE	chembl:CHEMBL1458880	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL1241268	chembl:CHEMBL1241268	False				0.23	DTC	dgidb
+TP53	NORTRIPTYLINE	rxcui:7531	True				0.01	DTC	dgidb
+TP53	GR 127935	iuphar.ligand:14	False				0.0	DTC	dgidb
+TP53	DABRAFENIB	rxcui:1424911	True				0.02	CKB-CORE	dgidb
+TP53	PACLITAXEL PROTEIN-BOUND	rxcui:486610	True				0.01	CKB-CORE|NCI|CIViC	dgidb
+TP53	PYRACLOSTROBIN	chembl:CHEMBL519873	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL1522984	chembl:CHEMBL1522984	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL233194	chembl:CHEMBL233194	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL599088	chembl:CHEMBL599088	False				0.06	DTC	dgidb
+TP53	NAVTEMADLIN	ncit:C116624	False			inhibitor	0.12	CKB-CORE|ChEMBL	dgidb
+TP53	BITHIONOL	ncit:C77030	True				0.0	DTC	dgidb
+TP53	TIRAPAZAMINE	ncit:C1464	False				0.06	NCI	dgidb
+TP53	SALMETEROL XINAFOATE	chembl:CHEMBL1082607	True				0.02	DTC	dgidb
+TP53	DIMETHYL GAMBOGATE	chembl:CHEMBL1436860	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL1346468	chembl:CHEMBL1346468	False				0.06	DTC	dgidb
+TP53	ACEQUINOCYL	chembl:CHEMBL1869353	False				0.12	DTC	dgidb
+TP53	BENZO[B]FLUORANTHENE	chembl:CHEMBL1337502	False				0.02	DTC	dgidb
+TP53	DORDAVIPRONE	rxcui:2721194	True				0.04	CKB-CORE	dgidb
+TP53	SELECTIVE ESTROGEN RECEPTOR MODULATOR	ncit:C1821	False				0.03	NCI	dgidb
+TP53	ZM336372	iuphar.ligand:9130	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL428789	chembl:CHEMBL428789	False				0.01	DTC	dgidb
+TP53	NAVITOCLAX	ncit:C64776	False				0.02	CKB-CORE	dgidb
+TP53	AZD6482	iuphar.ligand:8059	False				0.02	CKB-CORE	dgidb
+TP53	ANTIMYCIN A	chembl:CHEMBL211501	False				0.04	DTC	dgidb
+TP53	OLAPARIB	rxcui:1597582	True				0.01	CKB-CORE	dgidb
+TP53	MPI-0479605	iuphar.ligand:9399	False				0.08	CKB-CORE	dgidb
+TP53	VESNARINONE	ncit:C1415	False				0.03	NCI	dgidb
+TP53	CHEMBL:CHEMBL596633	chembl:CHEMBL596633	False				0.01	DTC	dgidb
+TP53	PRAMLINTIDE	rxcui:139953	True				0.02	CGI	dgidb
+TP53	THIOUREIDOBUTYRONITRILE	ncit:C102881	False				0.35	CKB-CORE|TTD	dgidb
+TP53	NAPABUCASIN	ncit:C96429	False				0.23	CKB-CORE	dgidb
+TP53	RUXOLITINIB	rxcui:1193326	True				0.02	CKB-CORE	dgidb
+TP53	THIMEROSAL	chembl:CHEMBL508338	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL201325	chembl:CHEMBL201325	False				0.01	DTC	dgidb
+TP53	2-AMINOANTHRACENE	chembl:CHEMBL83154	False				0.03	DTC	dgidb
+TP53	CAULIBUGULONE C	chembl:CHEMBL445969	False				0.04	DTC	dgidb
+TP53	KRESOXIM-METHYL	chembl:CHEMBL203191	False				0.04	DTC	dgidb
+TP53	PERPHENAZINE	rxcui:8076	True				0.0	DTC	dgidb
+TP53	CLIOQUINOL	rxcui:5942	True				0.01	DTC	dgidb
+TP53	TAMOXIFEN CITRATE	chembl:CHEMBL786	True				0.01	DTC	dgidb
+TP53	2-CHLOROADENOSINE	iuphar.ligand:372	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL267160	chembl:CHEMBL267160	False				0.03	DTC	dgidb
+TP53	MAPROTILINE	rxcui:6646	True				0.01	DTC	dgidb
+TP53	PIRTOBRUTINIB	rxcui:2629338	True				0.08	PharmGKB|CKB-CORE	dgidb
+TP53	DECITABINE	rxcui:15657	True				0.01	CGI|CKB-CORE	dgidb
+TP53	ZINC CHLORIDE	rxcui:39937	True				0.05	NCI	dgidb
+TP53	CHEMBL:CHEMBL530049	chembl:CHEMBL530049	False				0.01	DTC	dgidb
+TP53	PROCHLORPERAZINE	rxcui:8704	True				0.0	DTC	dgidb
+TP53	BENOMYL	chembl:CHEMBL327919	False				0.12	DTC	dgidb
+TP53	CHEMBL:CHEMBL546170	chembl:CHEMBL546170	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL407501	chembl:CHEMBL407501	False				0.12	DTC	dgidb
+TP53	CRIZOTINIB	rxcui:1148495	True				0.02	CKB-CORE	dgidb
+TP53	2-IODOACETAMIDE	iuphar.ligand:6271	False				0.01	DTC	dgidb
+TP53	FURAZOLIDONE	chembl:CHEMBL1103	True				0.06	DTC	dgidb
+TP53	PHA-680632	chembl:CHEMBL363160	False				0.23	CKB-CORE	dgidb
+TP53	VORINOSTAT	rxcui:194337	True				0.01	CKB-CORE	dgidb
+TP53	BENZO(K)FLUORANTHENE	chembl:CHEMBL1441574	False				0.01	DTC	dgidb
+TP53	SULCONAZOLE NITRATE	chembl:CHEMBL1200348	True				0.04	DTC	dgidb
+TP53	CHEMBL:CHEMBL260213	chembl:CHEMBL260213	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL578512	chembl:CHEMBL578512	False				0.0	DTC	dgidb
+TP53	RECOMBINANT MONOCYTE CHEMOATTRACTANT PROTEIN-1	ncit:C1393	False				0.03	NCI	dgidb
+TP53	MITOXANTRONE	rxcui:7005	True				0.0	DTC	dgidb
+TP53	CHK1 INHIBITOR GDC-0575	ncit:C116845	False				0.23	CKB-CORE	dgidb
+TP53	PANITUMUMAB	rxcui:263034	True				0.01	CKB-CORE	dgidb
+TP53	LENALIDOMIDE	rxcui:342369	True				0.01	CKB-CORE	dgidb
+TP53	ALEMTUZUMAB	rxcui:117055	True				0.04	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL600334	chembl:CHEMBL600334	False				0.04	DTC	dgidb
+TP53	CERITINIB	rxcui:1535457	True				0.03	CKB-CORE	dgidb
+TP53	CHLORANIL	chembl:CHEMBL192627	False				0.01	DTC	dgidb
+TP53	SB 206553	iuphar.ligand:189	False				0.01	DTC	dgidb
+TP53	CLOTRIMAZOLE	rxcui:2623	True				0.01	DTC	dgidb
+TP53	VANOXERINE	iuphar.ligand:9983	False				0.01	DTC	dgidb
+TP53	NITAZOXANIDE	rxcui:31819	True				0.01	DTC	dgidb
+TP53	7,8-DIHYDROXYFLAVONE	chembl:CHEMBL75267	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL601757	chembl:CHEMBL601757	False				0.0	DTC	dgidb
+TP53	ABIRATERONE ACETATE	rxcui:1100071	True				0.02	CKB-CORE	dgidb
+TP53	EPIRUBICIN	rxcui:3995	True				0.02	PharmGKB|CKB-CORE	dgidb
+TP53	TRABECTEDIN	rxcui:1716278	True				0.05	NCI	dgidb
+TP53	HEXACHLOROPHENE	rxcui:5293	True				0.0	DTC	dgidb
+TP53	BORTEZOMIB	rxcui:358258	True				0.0	CIViC	dgidb
+TP53	PENTACHLOROPHENOL	chembl:CHEMBL75967	False				0.01	DTC	dgidb
+TP53	SAR-405838	drugbank:DB12541	False				0.12	TTD	dgidb
+TP53	OLVANIL	ncit:C166774	False				0.02	DTC	dgidb
+TP53	CHIR-124	drugbank:DB06852	False				0.23	CKB-CORE	dgidb
+TP53	GOSSYPOL	iuphar.ligand:4204	False				0.0	DTC	dgidb
+TP53	THUNBERGINOL B	chembl:CHEMBL70501	False				0.01	DTC	dgidb
+TP53	PLUMBAGIN	iuphar.ligand:7003	False				0.01	DTC	dgidb
+TP53	INTERFERON ALFA-2B	rxcui:5880	True				0.02	NCI	dgidb
+TP53	CYTARABINE	rxcui:3041	True				0.0	CKB-CORE	dgidb
+TP53	EMBELIN	chembl:CHEMBL221137	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL582473	chembl:CHEMBL582473	False				0.04	DTC	dgidb
+TP53	OLEAMIDE	iuphar.ligand:284	False				0.04	DTC	dgidb
+TP53	CHEMBL:CHEMBL1256869	chembl:CHEMBL1256869	False				0.02	DTC	dgidb
+TP53	FULVESTRANT	rxcui:282357	True				0.01	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL578890	chembl:CHEMBL578890	False				0.04	DTC	dgidb
+TP53	ALRIZOMADLIN	chembl:CHEMBL4091801	False			inhibitor	0.06	ChEMBL	dgidb
+TP53	LB-100	drugbank:DB15412	False				0.08	CKB-CORE	dgidb
+TP53	JQ1	drugbank:DB17021	False				0.05	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL259784	chembl:CHEMBL259784	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL1494650	chembl:CHEMBL1494650	False				0.06	DTC	dgidb
+TP53	CAULIBUGULONE B	chembl:CHEMBL508779	False				0.04	DTC	dgidb
+TP53	PROCHLORPERAZINE EDISYLATE	chembl:CHEMBL1201154	True				0.01	DTC	dgidb
+TP53	MAGROLIMAB	ncit:C117730	False				0.06	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL599943	chembl:CHEMBL599943	False				0.02	DTC	dgidb
+TP53	AMOXAPINE	rxcui:722	True				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL591126	chembl:CHEMBL591126	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL259421	chembl:CHEMBL259421	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL16685	chembl:CHEMBL16685	False				0.06	DTC	dgidb
+TP53	REZATAPOPT	ncit:C203051	False				0.35	CKB-CORE|CIViC	dgidb
+TP53	OBINUTUZUMAB	rxcui:974779	True				0.12	CKB-CORE	dgidb
+TP53	PIMASERTIB	ncit:C84864	False				0.03	CKB-CORE	dgidb
+TP53	4-METHOXYDALBERGIONE	chembl:CHEMBL1554531	False				0.01	DTC	dgidb
+TP53	VENETOCLAX	rxcui:1747556	True				0.02	PharmGKB|CKB-CORE|FDA	dgidb
+TP53	CHEMBL:CHEMBL225513	chembl:CHEMBL225513	False				0.01	DTC	dgidb
+TP53	PROPACHLOR	chembl:CHEMBL1394829	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL261693	chembl:CHEMBL261693	False				0.02	DTC	dgidb
+TP53	SERDEMETAN	ncit:C77904	False				0.12	CKB-CORE	dgidb
+TP53	METHYLPREDNISOLONE	rxcui:6902	True				0.02	CKB-CORE|NCI	dgidb
+TP53	CETUXIMAB	rxcui:318341	True				0.01	CIViC	dgidb
+TP53	TETRANDRINE	iuphar.ligand:11859	False				0.02	DTC	dgidb
+TP53	THIOTEPA	rxcui:10473	True				0.02	NCI	dgidb
+TP53	CABOZANTINIB S-MALATE	rxcui:1363267	True				0.01	CKB-CORE	dgidb
+TP53	PF-04217903	drugbank:DB12848	False				0.08	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL1397308	chembl:CHEMBL1397308	False				0.02	DTC	dgidb
+TP53	GLUTARAL	chembl:CHEMBL1235482	False				0.06	DTC	dgidb
+TP53	METHYL ROBUSTONE	chembl:CHEMBL1403041	False				0.02	DTC	dgidb
+TP53	MASOPROCOL	rxcui:227239	True				0.0	DTC	dgidb
+TP53	KU-60019	iuphar.ligand:8041	False				0.08	CKB-CORE	dgidb
+TP53	MDM2 ANTAGONIST RO6839921	ncit:C114980	False				0.12	CKB-CORE	dgidb
+TP53	ROTENONE	chembl:CHEMBL429023	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL177809	chembl:CHEMBL177809	False				0.03	DTC	dgidb
+TP53	MULTI-NEO-EPITOPE VACCINE OSE 2101	ncit:C26645	False			vaccine	0.03	TALC	dgidb
+TP53	N-OLEOYLDOPAMINE	iuphar.ligand:5552	False				0.01	DTC	dgidb
+TP53	(R)-INDOPROFEN	chembl:CHEMBL264931	False				0.12	DTC	dgidb
+TP53	GALLIC ACID	ncit:C63648	False				0.01	DTC	dgidb
+TP53	WARFARIN	rxcui:11289	True				0.0	DTC	dgidb
+TP53	3-METHOXYCATECHOL	chembl:CHEMBL1518159	False				0.01	DTC	dgidb
+TP53	BEVACIZUMAB	rxcui:253337	True				0.01	CKB-CORE	dgidb
+TP53	PROPYLTHIOURACIL	rxcui:8794	True				0.01	NCI	dgidb
+TP53	RS-17053	iuphar.ligand:495	False				0.01	DTC	dgidb
+TP53	PIPERLONGUMINE	iuphar.ligand:13376	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL271023	chembl:CHEMBL271023	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL429335	chembl:CHEMBL429335	False				0.02	DTC	dgidb
+TP53	TEPRASIRAN	chembl:CHEMBL4297574	False				0.12	TTD	dgidb
+TP53	CHEMBL:CHEMBL1214407	chembl:CHEMBL1214407	False				0.03	DTC	dgidb
+TP53	NEBULARINE	chembl:CHEMBL1399702	False				0.06	DTC	dgidb
+TP53	CHEMBL:CHEMBL259615	chembl:CHEMBL259615	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL265686	chembl:CHEMBL265686	False				0.03	DTC	dgidb
+TP53	CHEMBL:CHEMBL291143	chembl:CHEMBL291143	False				0.02	DTC	dgidb
+TP53	ERLOTINIB	rxcui:337525	True				0.0	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL602922	chembl:CHEMBL602922	False				0.12	DTC	dgidb
+TP53	PEMBROLIZUMAB	rxcui:1547545	True				0.01	CKB-CORE|CIViC	dgidb
+TP53	SANGUINARINE SULFATE	chembl:CHEMBL1565133	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL429095	chembl:CHEMBL429095	False				0.0	DTC	dgidb
+TP53	CHEMBL:CHEMBL337173	chembl:CHEMBL337173	False				0.02	DTC	dgidb
+TP53	TEROXIRONE	chembl:CHEMBL453863	False				0.02	DTC	dgidb
+TP53	AZATHIOPRINE	rxcui:1256	True				0.0	DTC	dgidb
+TP53	PSEUDOCHELERYTHRINE	iuphar.ligand:11563	False				0.0	DTC	dgidb
+TP53	CHEMBL:CHEMBL587620	chembl:CHEMBL587620	False				0.02	DTC	dgidb
+TP53	RG7112	iuphar.ligand:9599	False				0.23	CKB-CORE|CIViC	dgidb
+TP53	IODOQUINOL	rxcui:3435	True				0.01	DTC	dgidb
+TP53	LORLATINIB	rxcui:2103164	True				0.03	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL85194	chembl:CHEMBL85194	False				0.02	DTC	dgidb
+TP53	TEBUFENPYRAD	chembl:CHEMBL1897070	False				0.06	DTC	dgidb
+TP53	TARENFLURBIL	ncit:C26666	False				0.02	NCI	dgidb
+TP53	CHEMBL:CHEMBL411085	chembl:CHEMBL411085	False				0.04	DTC	dgidb
+TP53	MANGOSTIN	rxcui:2619910	False				0.01	DTC	dgidb
+TP53	LONTUCIREV	ncit:C2830	False				0.12	TTD	dgidb
+TP53	SIROLIMUS	rxcui:35302	True				0.0	NCI	dgidb
+TP53	BAICALEIN	iuphar.ligand:5144	False				0.0	DTC	dgidb
+TP53	DICHLOROPHEN	chembl:CHEMBL33845	False				0.01	DTC	dgidb
+TP53	CGP7930	iuphar.ligand:1079	False				0.02	DTC	dgidb
+TP53	ANISINDIONE	rxcui:17941	True				0.02	DTC	dgidb
+TP53	MICHLER'S KETONE	chembl:CHEMBL15137	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL533226	chembl:CHEMBL533226	False				0.01	DTC	dgidb
+TP53	FENOFIBRATE MICRONIZED	rxcui:221100	True				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL1303948	chembl:CHEMBL1303948	False				0.02	DTC	dgidb
+TP53	SR59230A	iuphar.ligand:547	False				0.02	DTC	dgidb
+TP53	P53/HDM2 INTERACTION INHIBITOR CGM097	ncit:C104280	False				0.15	CKB-CORE|TTD	dgidb
+TP53	ROBUSTIC ACID	chembl:CHEMBL400777	False				0.04	DTC	dgidb
+TP53	CHEMBL:CHEMBL227959	chembl:CHEMBL227959	False				0.03	DTC	dgidb
+TP53	NICLOSAMIDE	rxcui:7402	True				0.0	DTC	dgidb
+TP53	TOPOTECAN HYDROCHLORIDE	rxcui:266573	True				0.02	CKB-CORE	dgidb
+TP53	ENCORAFENIB	rxcui:2049106	True				0.01	CKB-CORE	dgidb
+TP53	GSK2830371	iuphar.ligand:11103	False				0.12	CKB-CORE	dgidb
+TP53	HALOPERIDOL DECANOATE	rxcui:26420	True				0.0	NCI	dgidb
+TP53	ASTEMIZOLE	rxcui:42328	True				0.01	DTC	dgidb
+TP53	PHENETHYLISOTHIOCYANATE	chembl:CHEMBL151649	False				0.03	DTC	dgidb
+TP53	POTASSIUM DICHROMATE	chembl:CHEMBL1374101	False				0.02	DTC	dgidb
+TP53	PUROMYCIN	ncit:C787	False				0.03	NCI	dgidb
+TP53	RECOMBINANT VASCULAR ENDOTHELIAL GROWTH FACTOR	ncit:C1272	False				0.02	NCI	dgidb
+TP53	TYRPHOSTIN A9	chembl:CHEMBL78150	False				0.01	DTC	dgidb
+TP53	DOXORUBICIN LIPOSOME	rxcui:214525	True				0.04	CKB-CORE	dgidb
+TP53	ETOPOSIDE	rxcui:4179	True				0.01	CKB-CORE|CIViC	dgidb
+TP53	CLEMASTINE	rxcui:2578	True				0.01	DTC	dgidb
+TP53	(Z)-PIPLARTINE	chembl:CHEMBL1456697	False				0.06	DTC	dgidb
+TP53	CHEMBL:CHEMBL406557	chembl:CHEMBL406557	False				0.01	DTC	dgidb
+TP53	CHLORAMBUCIL	rxcui:2346	True				0.01	DTC	dgidb
+TP53	ZANUBRUTINIB	rxcui:2262435	True				0.15	PharmGKB|CKB-CORE	dgidb
+TP53	P53-HDM2 INTERACTION INHIBITOR MI-773	ncit:C106120	False				0.27	CKB-CORE	dgidb
+TP53	SELINEXOR	rxcui:2178390	True				0.06	CKB-CORE	dgidb
+TP53	IRINOTECAN HYDROCHLORIDE	rxcui:153329	True				0.01	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL1708	chembl:CHEMBL1708	False				0.01	DTC	dgidb
+TP53	FLUPENTHIXOL	rxcui:4495	False				0.01	DTC	dgidb
+TP53	ABEMACICLIB	rxcui:1946825	True				0.01	CGI	dgidb
+TP53	CONTUSUGENE LADENOVEC	chembl:CHEMBL2108585	False				0.12	ChEMBL	dgidb
+TP53	SULANEMADLIN	ncit:C118669	False				0.12	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL602150	chembl:CHEMBL602150	False				0.03	DTC	dgidb
+TP53	3,4-DICHLOROBENZAMIL	iuphar.ligand:4597	False				0.03	DTC	dgidb
+TP53	EMODIN	chembl:CHEMBL289277	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL2002487	chembl:CHEMBL2002487	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL329673	chembl:CHEMBL329673	False				0.01	DTC	dgidb
+TP53	EDODEKIN ALFA	rxcui:1371906	False				0.03	NCI	dgidb
+TP53	DS-7423	iuphar.ligand:12616	False				0.03	CKB-CORE	dgidb
+TP53	DUVELISIB	rxcui:2058509	True				0.02	CKB-CORE	dgidb
+TP53	AZD1390	iuphar.ligand:11277	False				0.06	CKB-CORE	dgidb
+TP53	CHLOROTHALONIL	chembl:CHEMBL468167	False				0.01	DTC	dgidb
+TP53	MITOXANTRONE HYDROCHLORIDE	chembl:CHEMBL1417019	True				0.0	DTC	dgidb
+TP53	CHEMBL:CHEMBL198759	chembl:CHEMBL198759	False				0.05	DTC	dgidb
+TP53	CHLORPROMAZINE	rxcui:2403	True				0.0	DTC	dgidb
+TP53	BRIGIMADLIN	ncit:C156709	False				0.23	CKB-CORE	dgidb
+TP53	IDASANUTLIN	ncit:C99131	False				0.12	CKB-CORE	dgidb
+TP53	ALK INHIBITOR TAE684	ncit:C171615	False				0.06	CKB-CORE	dgidb
+TP53	MERCURIC CHLORIDE	chembl:CHEMBL1374360	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL444376	chembl:CHEMBL444376	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL1333386	chembl:CHEMBL1333386	False				0.02	DTC	dgidb
+TP53	METHIMAZOLE	rxcui:6835	True				0.01	NCI	dgidb
+TP53	CHEMBL:CHEMBL195350	chembl:CHEMBL195350	False				0.06	DTC	dgidb
+TP53	PF-00477736	chembl:CHEMBL3545137	False				0.06	CKB-CORE	dgidb
+TP53	DIETHYLSTILBESTROL	rxcui:3390	True				0.01	NCI	dgidb
+TP53	DNA VACCINE	ncit:C39619	False				0.05	NCI	dgidb
+TP53	OSIMERTINIB	rxcui:1721560	True				0.01	CKB-CORE	dgidb
+TP53	M8891	iuphar.ligand:12714	False				0.08	CKB-CORE	dgidb
+TP53	PD98059	iuphar.ligand:5241	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL4165848	chembl:CHEMBL4165848	False				0.12	CKB-CORE	dgidb
+TP53	DENDRITIC CELL VACCINE	ncit:C28310	False				0.06	TTD	dgidb
+TP53	INDIRUBIN-3'-MONOXIME	drugbank:DB02052	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL591618	chembl:CHEMBL591618	False				0.02	DTC	dgidb
+TP53	DIBENZ[A,H]ANTHRACENE	chembl:CHEMBL1346946	False				0.02	DTC	dgidb
+TP53	TRIFLUOPERAZINE	rxcui:10800	True				0.0	DTC	dgidb
+TP53	CHEMBL:CHEMBL410484	chembl:CHEMBL410484	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL408850	chembl:CHEMBL408850	False				0.01	DTC	dgidb
+TP53	FENTICLOR	chembl:CHEMBL473535	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL599100	chembl:CHEMBL599100	False				0.02	DTC	dgidb
+TP53	CAMPTOTHECIN	ncit:C338	True				0.01	CKB-CORE	dgidb
+TP53	CYAZOFAMID	chembl:CHEMBL1863429	False				0.06	DTC	dgidb
+TP53	TRIACETYLRESVERATROL	chembl:CHEMBL597744	False				0.06	DTC	dgidb
+TP53	TRANSFERRIN RECEPTOR-TARGETED LIPOSOMAL P53 CDNA	ncit:C29474	False				0.12	TTD	dgidb
+TP53	REBEMADLIN	ncit:C74594	False				0.52	CKB-CORE|CIViC	dgidb
+TP53	ATRACTYLENOLIDE I	chembl:CHEMBL449520	False				0.23	DTC	dgidb
+TP53	CHEMBL:CHEMBL1801219	chembl:CHEMBL1801219	False				0.23	DTC	dgidb
+TP53	CHEMBL:CHEMBL261123	chembl:CHEMBL261123	False				0.02	DTC	dgidb
+TP53	TANESPIMYCIN	ncit:C37899	False				0.04	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL408653	chembl:CHEMBL408653	False				0.02	DTC	dgidb
+TP53	COTI-2	drugbank:DB17507	False				0.12	TTD	dgidb
+TP53	RIBAVIRIN	rxcui:9344	True				0.0	DTC	dgidb
+TP53	QUINACRINE DIHYDROCHLORIDE	chembl:CHEMBL554190	False				0.01	DTC	dgidb
+TP53	DIHYDROGAMBOGIC ACID	chembl:CHEMBL1526240	False				0.01	DTC	dgidb
+TP53	URSODIOL	rxcui:11065	True				0.01	NCI	dgidb
+TP53	ONONIN	chembl:CHEMBL465980	False				0.02	DTC	dgidb
+TP53	METHYLENE BLUE	chembl:CHEMBL550495	True				0.01	DTC	dgidb
+TP53	IBRUTINIB	rxcui:1442981	True				0.02	CKB-CORE	dgidb
+TP53	CAPECITABINE	rxcui:194000	True				0.01	PharmGKB|CIViC	dgidb
+TP53	NUTLIN-3	chembl:CHEMBL191334	False				0.29	DTC	dgidb
+TP53	PALBOCICLIB	rxcui:1601374	True				0.0	CKB-CORE	dgidb
+TP53	VEMURAFENIB	rxcui:1147220	True				0.01	CKB-CORE	dgidb
+TP53	BOMEDEMSTAT	ncit:C131827	False				0.08	CKB-CORE	dgidb
+TP53	TAMOXIFEN	rxcui:10324	True				0.01	DTC|CIViC	dgidb
+TP53	CHEMBL:CHEMBL320361	chembl:CHEMBL320361	False				0.04	DTC	dgidb
+TP53	CHEMBL:CHEMBL528712	chembl:CHEMBL528712	False				0.04	DTC	dgidb
+TP53	HYDRALAZINE HYDROCHLORIDE	chembl:CHEMBL542541	True				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL592123	chembl:CHEMBL592123	False				0.03	DTC	dgidb
+TP53	FENRETINIDE	ncit:C1098	True				0.0	DTC	dgidb
+TP53	BROXYQUINOLINE	chembl:CHEMBL223448	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL66114	chembl:CHEMBL66114	False				0.04	DTC	dgidb
+TP53	CHEMBL:CHEMBL1343568	chembl:CHEMBL1343568	False				0.02	DTC	dgidb
+TP53	MECHLORETHAMINE HYDROCHLORIDE	chembl:CHEMBL1201001	True				0.02	DTC	dgidb
+TP53	N6-BENZYLADENOSINE	chembl:CHEMBL388757	False				0.12	DTC	dgidb
+TP53	[3H]GBR12935	iuphar.ligand:4638	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL590665	chembl:CHEMBL590665	False				0.04	DTC	dgidb
+TP53	GEMCITABINE	rxcui:12574	True				0.01	CGI|CKB-CORE	dgidb
+TP53	CARBENDAZIM	chembl:CHEMBL70971	False				0.06	DTC	dgidb
+TP53	CHEMBL:CHEMBL261118	chembl:CHEMBL261118	False				0.04	DTC	dgidb
+TP53	BENDAMUSTINE	rxcui:134547	True				0.08	CKB-CORE	dgidb
+TP53	SN-38	drugbank:DB05482	False				0.02	CKB-CORE	dgidb
+TP53	R547	iuphar.ligand:5707	False				0.05	CKB-CORE	dgidb
+TP53	FLUPHENAZINE HYDROCHLORIDE	rxcui:203207	True				0.01	DTC	dgidb
+TP53	CIS-RESVERATROL	chembl:CHEMBL87333	False				0.02	DTC	dgidb
+TP53	CHEMBL:CHEMBL405914	chembl:CHEMBL405914	False				0.02	DTC	dgidb
+TP53	CAULIBUGULONE D	chembl:CHEMBL447876	False				0.06	DTC	dgidb
+TP53	ALECTINIB	rxcui:1727455	True				0.05	CKB-CORE	dgidb
+TP53	LOPERAMIDE	rxcui:6468	True				0.01	DTC	dgidb
+TP53	MEDROXYPROGESTERONE ACETATE	rxcui:1000112	True				0.01	NCI	dgidb
+TP53	CLADRIBINE	rxcui:44157	True				0.01	DTC	dgidb
+TP53	TPCK	chembl:CHEMBL60718	False				0.01	DTC	dgidb
+TP53	TRIAMTERENE	rxcui:10763	True				0.01	DTC	dgidb
+TP53	PAZOPANIB	rxcui:714438	True				0.01	CKB-CORE	dgidb
+TP53	TOPICAL CORTICOSTEROID	ncit:C29505	False				0.08	NCI	dgidb
+TP53	PATULIN	chembl:CHEMBL294018	False				0.03	DTC	dgidb
+TP53	CHEMBL:CHEMBL473735	chembl:CHEMBL473735	False				0.02	DTC	dgidb
+TP53	ALEXIDINE DIHYDROCHLORIDE	chembl:CHEMBL554041	False				0.03	DTC	dgidb
+TP53	PRODIGIOSIN	chembl:CHEMBL275787	False				0.12	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL99408	chembl:CHEMBL99408	False				0.06	DTC	dgidb
+TP53	CHEMBL:CHEMBL184450	chembl:CHEMBL184450	False				0.01	DTC	dgidb
+TP53	ALVESPIMYCIN	ncit:C38142	False				0.08	CKB-CORE	dgidb
+TP53	KINETIN RIBOSIDE	chembl:CHEMBL411066	False				0.03	DTC	dgidb
+TP53	GDC-0425	drugbank:DB14791	False				0.12	CKB-CORE	dgidb
+TP53	RECOMBINANT FAS LIGAND	ncit:C1538	False				0.02	NCI	dgidb
+TP53	2,6-DIMETHOXYQUINONE	chembl:CHEMBL448515	False				0.02	DTC	dgidb
+TP53	TRANILAST	rxcui:57330	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL405317	chembl:CHEMBL405317	False				0.03	DTC	dgidb
+TP53	TRIFLOXYSTROBIN	chemidplus:141517-21-7	False				0.04	DTC	dgidb
+TP53	CHEMBL:CHEMBL563919	chembl:CHEMBL563919	False				0.02	DTC	dgidb
+TP53	IDELALISIB	rxcui:1544460	True				0.03	CKB-CORE	dgidb
+TP53	TRICLOCARBAN	chembl:CHEMBL1076347	False				0.02	DTC	dgidb
+TP53	BENZALKONIUM CHLORIDE	chembl:CHEMBL502109	False				0.06	DTC	dgidb
+TP53	FLUOROURACIL	rxcui:4492	True				0.01	PharmGKB|DTC|CKB-CORE	dgidb
+TP53	DEOXIEPINEPHRINE	chembl:CHEMBL31088	False				0.02	DTC	dgidb
+TP53	RITUXIMAB	rxcui:121191	True				0.02	CKB-CORE|NCI	dgidb
+TP53	RHODOMYRTOXIN B	chembl:CHEMBL1552997	False				0.06	DTC	dgidb
+TP53	(R,S)-INDATRALINE	chembl:CHEMBL341898	False				0.01	DTC	dgidb
+TP53	CHEMBL:CHEMBL422942	chembl:CHEMBL422942	False				0.06	DTC	dgidb
+TP53	AZACITIDINE	rxcui:1251	True				0.01	DTC|CKB-CORE|CIViC	dgidb
+TP53	CHEMBL:CHEMBL580421	chembl:CHEMBL580421	False				0.01	DTC	dgidb
+TP53	GANETESPIB	ncit:C77872	False				0.03	CKB-CORE	dgidb
+TP53	LEVONORGESTREL	rxcui:6373	True				0.05	PharmGKB	dgidb
+TP53	CHEMBL:CHEMBL582715	chembl:CHEMBL582715	False				0.06	DTC	dgidb
+TP53	BENZETHONIUM CHLORIDE	chembl:CHEMBL221753	False				0.01	DTC	dgidb
+TP53	L-744,832	ncit:C1682	False				0.12	NCI	dgidb
+TP53	CHELERYTHRINE	iuphar.ligand:5953	False				0.01	DTC	dgidb
+TP53	GEDATOLISIB	ncit:C91732	False				0.01	CKB-CORE	dgidb
+TP53	DAIDZEIN	iuphar.ligand:2828	False				0.01	DTC	dgidb
+TP53	LY3009120	iuphar.ligand:8943	False				0.03	CKB-CORE	dgidb
+TP53	THIORIDAZINE HYDROCHLORIDE	chembl:CHEMBL1200916	True				0.01	DTC	dgidb
+TP53	ADAVOSERTIB	ncit:C91725	False				0.3	CKB-CORE	dgidb
+TP53	PROPARGITE	chembl:CHEMBL1416084	False				0.03	DTC	dgidb
+TP53	CHEMBL:CHEMBL374632	chembl:CHEMBL374632	False				0.01	DTC	dgidb
+TP53	GARLIC	ncit:C38706	False				0.02	NCI	dgidb
+TP53	AZD7762	iuphar.ligand:7713	False				0.05	CKB-CORE	dgidb
+TP53	GRANISETRON	rxcui:26237	True			activator	0.01	ClearityFoundationClinicalTrial	dgidb
+TP53	CHEMBL:CHEMBL259805	chembl:CHEMBL259805	False				0.03	DTC	dgidb
+TP53	CHEMBL:CHEMBL1321398	chembl:CHEMBL1321398	False				0.02	DTC	dgidb
+TP53	FUROXAN	chembl:CHEMBL336467	False				0.02	DTC	dgidb
+TP53	CYCLOPHOSPHAMIDE ANHYDROUS	rxcui:1545988	True				0.01	CKB-CORE	dgidb
+TP53	SUNITINIB	rxcui:357977	True				0.01	CKB-CORE	dgidb
+TP53	TRIFLUOPERAZINE HYDROCHLORIDE	rxcui:91130	True				0.05	NCI	dgidb
+TP53	ETHOPROPAZINE HYDROCHLORIDE	chembl:CHEMBL1200970	True				0.02	DTC	dgidb
+TP53	BRIGATINIB	rxcui:1921217	True				0.03	CKB-CORE	dgidb
+TP53	TRIFLUPROMAZINE	rxcui:10805	True				0.01	DTC	dgidb
+TP53	IL-27 SUBUNIT &ALPHA;	iuphar.ligand:6152	False				0.23	CKB-CORE	dgidb
+TP53	LUXEPTINIB	ncit:C162573	False				0.03	CKB-CORE	dgidb
+TP53	MUNDULONE	chembl:CHEMBL465339	False				0.03	DTC	dgidb
+TP53	CHEMBL:CHEMBL242171	chembl:CHEMBL242171	False				0.01	DTC	dgidb
+TP53	AURORA KINASE INHIBITOR AMG 900	ncit:C82349	False				0.06	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL528807	chembl:CHEMBL528807	False				0.04	DTC	dgidb
+TP53	S(+)-APOMORPHINE	iuphar.ligand:8285	False				0.01	DTC	dgidb
+TP53	CINNARIZINE	rxcui:2549	True				0.02	DTC	dgidb
+TP53	FLAVANONE	iuphar.ligand:408	False				0.01	DTC	dgidb
+TP53	HDM2 INHIBITOR MK-8242	ncit:C116867	False				0.12	CKB-CORE	dgidb
+TP53	PIMOZIDE	rxcui:8331	True				0.0	DTC	dgidb
+TP53	PHENYLMERCURIC ACETATE	chembl:CHEMBL1333953	False				0.01	DTC	dgidb
+TP53	EZABENLIMAB	ncit:C132252	False				0.12	CKB-CORE	dgidb
+TP53	RESVERATROL	rxcui:1000492	True				0.0	DTC	dgidb
+TP53	IXAZOMIB	rxcui:1723735	True				0.01	CKB-CORE	dgidb
+TP53	TRAMETINIB DIMETHYL SULFOXIDE	rxcui:1425098	True				0.01	CKB-CORE	dgidb
+TP53	MIRDAMETINIB	rxcui:2705551	True				0.02	CKB-CORE	dgidb
+TP53	AXITINIB	rxcui:1242999	True				0.01	CKB-CORE	dgidb
+TP53	CHEMBL:CHEMBL579550	chembl:CHEMBL579550	False				0.04	DTC	dgidb
+TP53	CHEMBL:CHEMBL421215	chembl:CHEMBL421215	False				0.01	DTC	dgidb
+TP53	ALPHA-NAPHTHOFLAVONE	chembl:CHEMBL283196	False				0.02	DTC	dgidb
+NAMPT	DAPORINAD	ncit:C67043	False			inhibitor	21.17	TTD|ChEMBL	dgidb
+NAMPT	CHS-828	drugbank:DB12980	False				10.59	TTD	dgidb
+NAMPT	TEGLARINAD CHLORIDE	ncit:C68931	False				21.17	TdgClinicalTrial|TTD	dgidb
+NAMPT	NITRIC OXIDE	rxcui:7442	True				2.12	PharmGKB	dgidb
+SIRT1	SRT1720	iuphar.ligand:7703	False			activator	2.94	DTC|GuideToPharmacology	dgidb
+SIRT1	RISEDRONIC ACID	rxcui:55685	True				0.74	PharmGKB	dgidb
+SIRT1	ALTISSIMACOUMARIN C	chembl:CHEMBL2071525	False				2.94	DTC	dgidb
+SIRT1	SRT-2104	chembl:CHEMBL4297436	False			activator	1.47	ChEMBL	dgidb
+SIRT1	ALENDRONATE SODIUM	rxcui:203152	True				0.25	PharmGKB	dgidb
+SIRT1	EX-527	chembl:CHEMBL382277	False			inhibitor	1.47	ChEMBL	dgidb
+SIRT1	RESVERATROL	rxcui:1000492	True				0.18	DTC	dgidb
+SIRT1	LAPACHONE	chembl:CHEMBL15192	False				0.06	TTD	dgidb
+SIRT1	CHEMBL:CHEMBL403308	chembl:CHEMBL403308	False				2.94	DTC	dgidb
+SIRT1	PANOBINOSTAT	rxcui:1603350	True			inhibitor	0.06	TALC	dgidb
+SIRT1	ALTISSIMACOUMARIN D	chembl:CHEMBL2071526	False				2.94	DTC	dgidb
+SIRT1	CAMBINOL	drugbank:DB15493	False				1.47	TTD	dgidb
+SIRT1	GINSENOSIDE RG3	iuphar.ligand:7658	False				0.74	DTC	dgidb
+SIRT1	SURAMIN	rxcui:10256	False				0.11	DTC	dgidb
+SIRT1	CHEMBL:CHEMBL254156	chembl:CHEMBL254156	False				2.94	DTC	dgidb
+SIRT1	CHEMBL:CHEMBL375563	chembl:CHEMBL375563	False				0.59	DTC	dgidb
+SIRT1	CHEMBL:CHEMBL200762	chembl:CHEMBL200762	False				2.94	DTC	dgidb
+SIRT1	COMPOUND 17 [PMID: 23570514]	iuphar.ligand:8778	False			inhibitor	0.49	GuideToPharmacology	dgidb
+SIRT1	SIRT1 ACTIVATOR 3	iuphar.ligand:9514	False			activator	1.47	GuideToPharmacology	dgidb
+SIRT1	NIACIN	rxcui:7393	True				0.2	DTC	dgidb
+SIRT1	GINSENOSIDE RH1	chembl:CHEMBL466844	False				2.94	DTC	dgidb
+SIRT1	SIRTINOL	chembl:CHEMBL380797	False				2.94	DTC	dgidb
+SIRT1	CHEMBL:CHEMBL255683	chembl:CHEMBL255683	False				2.94	DTC	dgidb
+SIRT1	ALTISSIMACOUMARIN F	chembl:CHEMBL2071528	False				2.94	DTC	dgidb
+SIRT1	SALERMIDE	chembl:CHEMBL597845	False				0.74	DTC	dgidb
+SIRT1	IBANDRONATE	rxcui:115264	True				1.47	PharmGKB	dgidb
+SIRT1	CHEMBL:CHEMBL1436543	chembl:CHEMBL1436543	False				1.47	DTC	dgidb
+SIRT1	CHEMBL:CHEMBL1945130	chembl:CHEMBL1945130	False				1.47	DTC	dgidb
+SIRT1	ZOLEDRONIC ACID ANHYDROUS	rxcui:1546014	True				0.2	PharmGKB	dgidb
+SIRT1	SRT2104	iuphar.ligand:9515	False			activator	2.94	GuideToPharmacology|TTD	dgidb
+SIRT1	SPLITOMICIN	iuphar.ligand:8101	False			inhibitor	0.29	GuideToPharmacology	dgidb
+SIRT1	ALTISSIMACOUMARIN E	chembl:CHEMBL2071527	False				2.94	DTC	dgidb
+SIRT1	PSAMMAPLIN A	chembl:CHEMBL83747	False				0.23	DTC	dgidb
+SIRT1	CHEMBL:CHEMBL372375	chembl:CHEMBL372375	False				2.94	DTC	dgidb
+SIRT1	GISENOSIDE RK1	chembl:CHEMBL251235	False				2.94	DTC	dgidb
+SIRT1	SELISISTAT	ncit:C152325	False			inhibitor	2.94	TdgClinicalTrial|GuideToPharmacology	dgidb
+CDKN2A	(10R)-10-METHYL-3-(6-METHYLPYRIDIN-3-YL)-9,10,11,12-TETRAHYDRO-8H-[1,4]DIAZEPINO[5',6':4,5]THIENO[3,2-F]QUINOLIN-8-ONE	drugbank:DB07430	False				1.22	CKB-CORE	dgidb
+CDKN2A	LETROZOLE	rxcui:72965	True				0.21	CIViC	dgidb
+CDKN2A	PALBOCICLIB	rxcui:1601374	True				1.06	PharmGKB|ClearityFoundationBiomarkers|OncoKB|CKB-CORE|CIViC	dgidb
+CDKN2A	VEMURAFENIB	rxcui:1147220	True				0.27	CKB-CORE|CIViC	dgidb
+CDKN2A	PF-04691502	drugbank:DB11974	False				0.61	CKB-CORE	dgidb
+CDKN2A	SIROLIMUS	rxcui:35302	True				0.06	CKB-CORE	dgidb
+CDKN2A	CARBOPLATIN	rxcui:40048	True				0.04	CKB-CORE	dgidb
+CDKN2A	TEMOZOLOMIDE	rxcui:37776	True				0.17	CKB-CORE	dgidb
+CDKN2A	DABRAFENIB	rxcui:1424911	True				0.35	CKB-CORE|CIViC	dgidb
+CDKN2A	ABEMACICLIB	rxcui:1946825	True				0.77	ClearityFoundationBiomarkers|OncoKB|CKB-CORE	dgidb
+CDKN2A	POLO-LIKE KINASE 1 INHIBITOR GSK461364	ncit:C70948	False				1.83	CKB-CORE	dgidb
+CDKN2A	PACLITAXEL PROTEIN-BOUND	rxcui:486610	True				0.03	CKB-CORE	dgidb
+CDKN2A	CETUXIMAB	rxcui:318341	True				0.1	CKB-CORE	dgidb
+CDKN2A	IMMUNE CHECKPOINT INHIBITOR	ncit:C143250	False				0.91	CIViC	dgidb
+CDKN2A	COBIMETINIB	rxcui:1722365	True				0.21	CKB-CORE	dgidb
+CDKN2A	ULIXERTINIB	ncit:C104744	False				0.41	CKB-CORE	dgidb
+CDKN2A	SAPANISERTIB	rxcui:2395271	True				0.17	CKB-CORE	dgidb
+CDKN2A	ALVOCIDIB	ncit:C74940	False				0.24	CKB-CORE	dgidb
+CDKN2A	MILCICLIB	ncit:C148410	False				0.46	CKB-CORE	dgidb
+CDKN2A	HMN-214	chembl:CHEMBL3991927	False				1.83	CKB-CORE	dgidb
+CDKN2A	TRAMETINIB DIMETHYL SULFOXIDE	rxcui:1425098	True				0.28	CKB-CORE	dgidb
+CDKN2A	RIBOCICLIB	rxcui:1873916	True				0.46	ClearityFoundationBiomarkers|OncoKB|CKB-CORE	dgidb
+CDKN2A	GEMCITABINE	rxcui:12574	True				0.05	CKB-CORE	dgidb
+CDKN2A	ILORASERTIB	ncit:C116729	False				0.02	CGI	dgidb
+CDKN2A	RONICICLIB	ncit:C92579	False				0.18	ClearityFoundationBiomarkers	dgidb
+CDKN2A	PF-00477736	chembl:CHEMBL3545137	False				0.91	CKB-CORE	dgidb
+CDKN2A	PANITUMUMAB	rxcui:263034	True				0.19	CIViC	dgidb
+CDKN2A	BUPARLISIB	ncit:C90565	False				0.15	CKB-CORE	dgidb
+CDKN2A	EVEROLIMUS	rxcui:141704	True				0.1	CKB-CORE	dgidb
+TTK	BAY-1161909	CHEMBL4303241	False	2.0	Small molecule	Dual specificity protein kinase TTK inhibitor		chembl_mechanism	chembl
+TTK	BAY-1217389	CHEMBL4456085	False	1.0	Small molecule	Dual specificity protein kinase TTK inhibitor		chembl_mechanism	chembl
+AURKB	IBCASERTIB	CHEMBL5095033	False	3.0	Small molecule	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+AURKB	GSK-1070916	CHEMBL1090479	False	1.0	Small molecule	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+AURKB	KW-2449	CHEMBL1908397	False	1.0	Small molecule	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+AURKB	PF-03814735	CHEMBL4289017	False	1.0	Small molecule	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+AURKB	TAK-901	CHEMBL3544932	False	1.0	Small molecule	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+AURKB	AT-9283	CHEMBL495727	False	2.0	Small molecule	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+AURKB	BI-811283	CHEMBL3545395	False	2.0	Unknown	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+AURKB	ENMD-2076	CHEMBL482968	False	2.0	Small molecule	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+AURKB	BARASERTIB	CHEMBL415049	False	3.0	Small molecule	Serine/threonine-protein kinase Aurora-B inhibitor		chembl_mechanism	chembl
+PLK1	GSK-461364	CHEMBL1908394	False	1.0	Small molecule	Serine/threonine-protein kinase PLK1 inhibitor		chembl_mechanism	chembl
+PLK1	HMN-214	CHEMBL3991927	False	1.0	Small molecule	Serine/threonine-protein kinase PLK1 inhibitor		chembl_mechanism	chembl
+PLK1	MK-1496	CHEMBL5314387	False	1.0	Small molecule	Serine/threonine-protein kinase PLK1 inhibitor		chembl_mechanism	chembl
+PLK1	ONVANSERTIB	CHEMBL1738758	False	2.0	Small molecule	Serine/threonine-protein kinase PLK1 inhibitor		chembl_mechanism	chembl
+PLK1	TAK-960	CHEMBL2392545	False	1.0	Small molecule	Serine/threonine-protein kinase PLK1 inhibitor		chembl_mechanism	chembl
+PLK1	CAFUSERTIB	CHEMBL3545354	False	1.0	Unknown	Serine/threonine-protein kinase PLK1 inhibitor		chembl_mechanism	chembl
+PLK1	BI-2536	CHEMBL513909	False	2.0	Small molecule	Serine/threonine-protein kinase PLK1 inhibitor		chembl_mechanism	chembl
+PLK1	VOLASERTIB	CHEMBL1233528	False	3.0	Small molecule	Serine/threonine-protein kinase PLK1 inhibitor		chembl_mechanism	chembl
+KIF11	LITRONESIB	CHEMBL2105661	False	2.0	Small molecule	Kinesin-like protein 1 inhibitor		chembl_mechanism	chembl
+KIF11	FILANESIB	CHEMBL2347655	False	2.0	Small molecule	Kinesin-like protein 1 inhibitor		chembl_mechanism	chembl
+KIF11	ISPINESIB	CHEMBL228814	False	2.0	Small molecule	Kinesin-like protein 1 inhibitor		chembl_mechanism	chembl
+KIF11	AZD-4877	CHEMBL1829433	False	2.0	Small molecule	Kinesin-like protein 1 inhibitor		chembl_mechanism	chembl
+CDK1	AG-24322	CHEMBL3545420	False	1.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+CDK1	RG-547	CHEMBL384304	False	2.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+CDK1	RGB-286638	CHEMBL3545083	False	1.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+CDK1	ZOTIRACICLIB	CHEMBL1944698	False	2.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+CDK1	SELICICLIB	CHEMBL14762	False	2.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+CDK1	RIVICICLIB	CHEMBL3545283	False	2.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+CDK1	MILCICLIB	CHEMBL564829	False	2.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+CDK1	ALVOCIDIB	CHEMBL428690	False	3.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+CDK1	DINACICLIB	CHEMBL2103840	False	3.0	Small molecule	Cyclin-dependent kinase 1 inhibitor		chembl_mechanism	chembl
+HDAC1	VORINOSTAT	CHEMBL98	True	4.0	Small molecule	Histone deacetylase 1 inhibitor		chembl_mechanism	chembl
+HDAC1	MOCETINOSTAT	CHEMBL272980	False	2.0	Small molecule	Histone deacetylase 1 inhibitor		chembl_mechanism	chembl
+HDAC6	VORINOSTAT	CHEMBL98	True	4.0	Small molecule	Histone deacetylase 6 inhibitor		chembl_mechanism	chembl
+HDAC6	RICOLINOSTAT	CHEMBL2364628	False	2.0	Small molecule	Histone deacetylase 6 inhibitor		chembl_mechanism	chembl
+MTOR	SAPANISERTIB	CHEMBL3545097	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	AZD-8055	CHEMBL1801204	False	1.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	CC-115	CHEMBL3586573	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	DS-3078A	CHEMBL3544963	False	1.0	Unknown	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	DS-7423	CHEMBL3545248	False	1.0	Unknown	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	OMIPALISIB	CHEMBL1236962	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	PANULISIB	CHEMBL5095025	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	PALOMID-529	CHEMBL2141712	False	1.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	PKI-179	CHEMBL1258517	False	1.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	PWT-33579	CHEMBL3545323	False	1.0	Unknown	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	PWT-33587	CHEMBL3545006	False	1.0	Unknown	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	RG-7603	CHEMBL2331680	False	1.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	SF-1126	CHEMBL2326966	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	VS-5584	CHEMBL3393066	False	1.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	DACTOLISIB	CHEMBL1879463	False	3.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	BGT-226	CHEMBL3545096	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	ONATASERTIB	CHEMBL3586404	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	OSI-027	CHEMBL3120215	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	PF-04691502	CHEMBL1234354	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	GEDATOLISIB	CHEMBL592445	False	3.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	APITOLISIB	CHEMBL1922094	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	VOXTALISIB	CHEMBL3545366	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	SAMOTOLISIB	CHEMBL4297181	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	RIDAFOROLIMUS	CHEMBL2103839	False	3.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	PERHEXILINE MALEATE	CHEMBL1334033	True	4.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+MTOR	VISTUSERTIB	CHEMBL2336325	False	2.0	Small molecule	Serine/threonine-protein kinase mTOR inhibitor		chembl_mechanism	chembl
+BCL2L1	OBATOCLAX MESYLATE	CHEMBL2107358	False	3.0	Small molecule	Apoptosis regulator Bcl-X inhibitor		chembl_mechanism	chembl
+BCL2L1	NAVITOCLAX	CHEMBL443684	False	3.0	Small molecule	Apoptosis regulator Bcl-X inhibitor		chembl_mechanism	chembl
+NAMPT	TEGLARINAD CHLORIDE	CHEMBL190412	False	2.0	Small molecule	Nicotinamide phosphoribosyltransferase inhibitor		chembl_mechanism	chembl
+NAMPT	DAPORINAD	CHEMBL566757	False	2.0	Small molecule	Nicotinamide phosphoribosyltransferase inhibitor		chembl_mechanism	chembl
+TOP2A	ETOPOSIDE PHOSPHATE	CHEMBL1200645	True	4.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	DAUNORUBICIN CITRATE	CHEMBL1200475	True	4.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	DAUNORUBICIN HYDROCHLORIDE	CHEMBL1563	True	4.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	DOXORUBICIN HYDROCHLORIDE	CHEMBL359744	True	4.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	MITOXANTRONE HYDROCHLORIDE	CHEMBL1417019	True	4.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	VALRUBICIN	CHEMBL1096885	True	4.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	IDARUBICIN HYDROCHLORIDE	CHEMBL1200976	True	4.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	AMRUBICIN HYDROCHLORIDE	CHEMBL481958	False	3.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	ALDOXORUBICIN	CHEMBL2107818	False	3.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	AMRUBICIN	CHEMBL1186894	False	3.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	GANCOTAMAB	CHEMBL3833344	False	2.0	Antibody	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+TOP2A	DAUNORUBICIN	CHEMBL178	True	4.0	Small molecule	DNA topoisomerase II alpha inhibitor		chembl_mechanism	chembl
+BIRC5	SVN53-67/M57-KLH PEPTIDE VACCINE	CHEMBL4650424	False	2.0	Vaccine component	Baculoviral IAP repeat-containing protein 5 vaccine antigen		chembl_mechanism	chembl

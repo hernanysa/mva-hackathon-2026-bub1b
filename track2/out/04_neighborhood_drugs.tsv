@@ -1,0 +1,7 @@
+neighbor_gene	drug	concept_id	approved	itype	sources	score
+NEK2	PALBOCICLIB	rxcui:1601374	True		DTC	0.05
+NEK2	PAZOPANIB	rxcui:714438	True		DTC	0.06
+PPP2CA	CANTHARIDIN	rxcui:1984	True	inhibitor	GuideToPharmacology	2.94
+CCNA2	TAMOXIFEN	rxcui:10324	True		PharmGKB	0.33
+CCNA2	ETHINYL ESTRADIOL	rxcui:4124	True		NCI	0.89
+CCNA2	GENISTEIN	rxcui:25696	True		NCI	0.26

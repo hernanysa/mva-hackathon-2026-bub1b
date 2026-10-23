@@ -18,3 +18,14 @@ venv/
 __pycache__/
 *.pyc
 .conda/
+# Track 2: datos públicos re-descargables, modelos de voz, renders, archivos privados
+investigacion/repurposing/data/
+investigacion/estructura/*.pdb
+investigacion/pgx/
+video/voices/
+video/build/
+video/samples/
+*.mp4
+track2/_report_preview.html
+track2/run.log
+track2/run.pid

@@ -1,0 +1,374 @@
+{
+ "disease_side": [
+  {
+   "sym": "BUB1B",
+   "essential": true,
+   "sm_tractable": [
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "drugs": 0,
+   "dep_median": -1.21,
+   "dep_min": -2.76,
+   "lof_upperBin": 2
+  },
+  {
+   "sym": "BUB1",
+   "essential": true,
+   "sm_tractable": [
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Med-Quality Pocket",
+    "Druggable Family"
+   ],
+   "drugs": 0,
+   "dep_median": -0.64,
+   "dep_min": -1.5,
+   "lof_upperBin": 2
+  },
+  {
+   "sym": "TTK",
+   "essential": true,
+   "sm_tractable": [
+    "Advanced Clinical",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "High-Quality Pocket",
+    "Druggable Family"
+   ],
+   "drugs": 2,
+   "dep_median": -0.84,
+   "dep_min": -1.89,
+   "lof_upperBin": 2
+  },
+  {
+   "sym": "MAD2L1",
+   "essential": true,
+   "sm_tractable": [
+    "Structure with Ligand",
+    "High-Quality Pocket"
+   ],
+   "drugs": 0,
+   "dep_median": -1.37,
+   "dep_min": -3.05,
+   "lof_upperBin": 2
+  },
+  {
+   "sym": "CDC20",
+   "essential": true,
+   "sm_tractable": [
+    "Structure with Ligand"
+   ],
+   "drugs": 0,
+   "dep_median": -2.09,
+   "dep_min": -4.27,
+   "lof_upperBin": 3
+  },
+  {
+   "sym": "AURKB",
+   "essential": true,
+   "sm_tractable": [
+    "Advanced Clinical",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "drugs": 18,
+   "dep_median": -2.2,
+   "dep_min": -3.52,
+   "lof_upperBin": 4
+  },
+  {
+   "sym": "TRIP13",
+   "essential": false,
+   "sm_tractable": [
+    "Structure with Ligand"
+   ],
+   "drugs": 0,
+   "dep_median": -0.24,
+   "dep_min": -1.78,
+   "lof_upperBin": 2
+  }
+ ],
+ "drug_targets": [
+  {
+   "sym": "PRKAA1",
+   "axis": "metformina / AMPK",
+   "essential": false,
+   "sm_tractable": [
+    "Advanced Clinical",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "n_drugs": 1,
+   "approved_drugs": [
+    "ACADESINE"
+   ],
+   "stages": {
+    "APPROVAL": 1
+   },
+   "gen_support_any": 0.465,
+   "gen_support_any_dis": "gastric carcinoma",
+   "gen_support_cancer": 0.465,
+   "gen_support_cancer_dis": "gastric carcinoma"
+  },
+  {
+   "sym": "PRKAA2",
+   "axis": "metformina / AMPK",
+   "essential": false,
+   "sm_tractable": [
+    "Advanced Clinical",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "High-Quality Pocket",
+    "Druggable Family"
+   ],
+   "n_drugs": 1,
+   "approved_drugs": [
+    "ACADESINE"
+   ],
+   "stages": {
+    "APPROVAL": 1
+   },
+   "gen_support_any": 0.405,
+   "gen_support_any_dis": "allergic rhinitis",
+   "gen_support_cancer": 0.353,
+   "gen_support_cancer_dis": "ovarian neoplasm"
+  },
+  {
+   "sym": "MTOR",
+   "axis": "rapamicina / mTOR",
+   "essential": true,
+   "sm_tractable": [
+    "Approved Drug",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "n_drugs": 26,
+   "approved_drugs": [
+    "PERHEXILINE",
+    "DS-7423",
+    "CC-115",
+    "GEDATOLISIB"
+   ],
+   "stages": {
+    "APPROVAL": 2,
+    "PHASE_1": 8,
+    "PHASE_2": 10,
+    "PHASE_3": 3,
+    "PHASE_1_2": 2,
+    "PHASE_2_3": 1
+   },
+   "gen_support_any": 0.931,
+   "gen_support_any_dis": "isolated focal cortical dysplasia type II",
+   "gen_support_cancer": 0.0,
+   "gen_support_cancer_dis": null
+  },
+  {
+   "sym": "BCL2L1",
+   "axis": "navitoclax / sen\u00f3lisis (BCL-xL)",
+   "essential": true,
+   "sm_tractable": [
+    "Advanced Clinical",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "n_drugs": 3,
+   "approved_drugs": [
+    "OBATOCLAX",
+    "NAVITOCLAX",
+    "OBATOCLAX MESYLATE"
+   ],
+   "stages": {
+    "PHASE_2": 1,
+    "APPROVAL": 1,
+    "PHASE_3": 1
+   },
+   "gen_support_any": 0.195,
+   "gen_support_any_dis": "Hereditary breast and ovarian cancer syndrome",
+   "gen_support_cancer": 0.195,
+   "gen_support_cancer_dis": "Hereditary breast and ovarian cancer syndrome"
+  },
+  {
+   "sym": "BCL2",
+   "axis": "navitoclax / venetoclax",
+   "essential": false,
+   "sm_tractable": [
+    "Approved Drug",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "n_drugs": 7,
+   "approved_drugs": [
+    "OBLIMERSEN SODIUM",
+    "NAVITOCLAX",
+    "OBLIMERSEN",
+    "APG-2575"
+   ],
+   "stages": {
+    "PHASE_3": 3,
+    "APPROVAL": 3,
+    "PHASE_2": 1
+   },
+   "gen_support_any": 0.769,
+   "gen_support_any_dis": "type 2 diabetes mellitus",
+   "gen_support_cancer": 0.762,
+   "gen_support_cancer_dis": "lymphoid leukemia"
+  },
+  {
+   "sym": "SIRT1",
+   "axis": "fisetina / NR (sirtuinas)",
+   "essential": false,
+   "sm_tractable": [
+    "Advanced Clinical",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "n_drugs": 1,
+   "approved_drugs": [
+    "SRT-2104"
+   ],
+   "stages": {
+    "PHASE_2": 1
+   },
+   "gen_support_any": 0.561,
+   "gen_support_any_dis": "atrial fibrillation",
+   "gen_support_cancer": 0.0,
+   "gen_support_cancer_dis": null
+  },
+  {
+   "sym": "SIRT2",
+   "axis": "fisetina (SIRT2\u2192BubR1)",
+   "essential": false,
+   "sm_tractable": [
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "High-Quality Pocket",
+    "Druggable Family"
+   ],
+   "n_drugs": 0,
+   "approved_drugs": [],
+   "stages": {},
+   "gen_support_any": 0.163,
+   "gen_support_any_dis": "type 2 diabetes mellitus",
+   "gen_support_cancer": 0.0,
+   "gen_support_cancer_dis": null
+  },
+  {
+   "sym": "NAMPT",
+   "axis": "NR / salvamento de NAD+",
+   "essential": false,
+   "sm_tractable": [
+    "Advanced Clinical",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "High-Quality Pocket",
+    "Druggable Family"
+   ],
+   "n_drugs": 3,
+   "approved_drugs": [
+    "TEGLARINAD",
+    "TEGLARINAD CHLORIDE",
+    "DAPORINAD"
+   ],
+   "stages": {
+    "PHASE_1": 2,
+    "PHASE_2": 1
+   },
+   "gen_support_any": 0.387,
+   "gen_support_any_dis": "eosinophilic esophagitis",
+   "gen_support_cancer": 0.0,
+   "gen_support_cancer_dis": null
+  },
+  {
+   "sym": "HSP90AA1",
+   "axis": "17-AAG / HSP90 (control)",
+   "essential": false,
+   "sm_tractable": [
+    "Advanced Clinical",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "High-Quality Pocket",
+    "Druggable Family"
+   ],
+   "n_drugs": 10,
+   "approved_drugs": [
+    "RETASPIMYCIN",
+    "BIIB021",
+    "SNX 5422",
+    "RETASPIMYCIN HYDROCHLORIDE"
+   ],
+   "stages": {
+    "PHASE_2": 6,
+    "PHASE_3": 4
+   },
+   "gen_support_any": 0.497,
+   "gen_support_any_dis": "gout",
+   "gen_support_cancer": 0.489,
+   "gen_support_cancer_dis": "ovarian neoplasm"
+  },
+  {
+   "sym": "PTGS2",
+   "axis": "aspirina / COX-2",
+   "essential": false,
+   "sm_tractable": [
+    "Approved Drug",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "n_drugs": 79,
+   "approved_drugs": [
+    "FENCLOFENAC",
+    "MELOXICAM",
+    "DEXKETOPROFEN",
+    "SUPROFEN"
+   ],
+   "stages": {
+    "UNKNOWN": 5,
+    "APPROVAL": 68,
+    "PHASE_3": 2,
+    "PHASE_2_3": 1,
+    "PHASE_2": 2,
+    "PHASE_1": 1
+   },
+   "gen_support_any": 0.0,
+   "gen_support_any_dis": null,
+   "gen_support_cancer": 0.0,
+   "gen_support_cancer_dis": null
+  },
+  {
+   "sym": "HDAC1",
+   "axis": "vorinostat (recurrente en C1/C2/C4)",
+   "essential": false,
+   "sm_tractable": [
+    "Approved Drug",
+    "Structure with Ligand",
+    "High-Quality Ligand",
+    "Druggable Family"
+   ],
+   "n_drugs": 14,
+   "approved_drugs": [
+    "BELINOSTAT",
+    "FIMEPINOSTAT",
+    "MOCETINOSTAT",
+    "ABEXINOSTAT"
+   ],
+   "stages": {
+    "APPROVAL": 8,
+    "PHASE_2": 3,
+    "PHASE_3": 2,
+    "PHASE_1": 1
+   },
+   "gen_support_any": 0.0,
+   "gen_support_any_dis": null,
+   "gen_support_cancer": 0.0,
+   "gen_support_cancer_dis": null
+  }
+ ]
+}

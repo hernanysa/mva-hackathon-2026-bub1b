@@ -1,0 +1,320 @@
+{
+ "NCT03398824": {
+  "title": "Pilot Study of Metformin for Patients With Fanconi Anemia",
+  "acronym": null,
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "n": 15,
+  "minAge": "6 Years",
+  "maxAge": "35 Years",
+  "stdAges": [
+   "CHILD",
+   "ADULT"
+  ],
+  "conditions": [
+   "Fanconi Anemia"
+  ],
+  "interventions": [
+   "metformin HCl"
+  ],
+  "hasResults": true
+ },
+ "NCT06519786": {
+  "title": "Safety and Efficacy of Metformin for Treatment of Cytopenia in Children and Adolescents With Fanconi Anemia",
+  "acronym": null,
+  "status": "UNKNOWN",
+  "phase": "PHASE3",
+  "n": 30,
+  "minAge": "5 Years",
+  "maxAge": "18 Years",
+  "stdAges": [
+   "CHILD",
+   "ADULT"
+  ],
+  "conditions": [
+   "Fanconi Anemia"
+  ],
+  "interventions": [
+   "Metformin"
+  ],
+  "hasResults": false
+ },
+ "NCT01981525": {
+  "title": "A Pilot Study of Metformin in Patients With a Diagnosis of Li-Fraumeni Syndrome",
+  "acronym": null,
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "n": 26,
+  "minAge": "18 Years",
+  "maxAge": null,
+  "stdAges": [
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Li-Fraumeni Syndrome"
+  ],
+  "interventions": [
+   "Metformin"
+  ],
+  "hasResults": false
+ },
+ "NCT02733679": {
+  "title": "Response of Individuals With Ataxia-Telangiectasia to Metformin and Pioglitazone",
+  "acronym": "RAMP",
+  "status": "COMPLETED",
+  "phase": "PHASE4",
+  "n": 27,
+  "minAge": "18 Years",
+  "maxAge": "30 Years",
+  "stdAges": [
+   "ADULT"
+  ],
+  "conditions": [
+   "Ataxia-Telangiectasia"
+  ],
+  "interventions": [
+   "Metformin",
+   "Pioglitazone"
+  ],
+  "hasResults": false
+ },
+ "NCT04733534": {
+  "title": "SEN-SURVIVORS: An Open-Label Intervention Trial to Reduce Senescence and Improve Frailty in Adult Survivors of Childhood Cancer",
+  "acronym": null,
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE2",
+  "n": 120,
+  "minAge": "18 Years",
+  "maxAge": null,
+  "stdAges": [
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Frailty",
+   "Childhood Cancer"
+  ],
+  "interventions": [
+   "Dasatinib plus Quercetin",
+   "Fisetin"
+  ],
+  "hasResults": false
+ },
+ "NCT04313634": {
+  "title": "Targeting Cellular Senescence With Senolytics to Improve Skeletal Health in Older Humans: A Phase 2, Single-Center, 20-week, Open-Label, Randomized Controlled Trial.",
+  "acronym": null,
+  "status": "COMPLETED",
+  "phase": "PHASE2",
+  "n": 74,
+  "minAge": "60 Years",
+  "maxAge": null,
+  "stdAges": [
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Healthy"
+  ],
+  "interventions": [
+   "Dasatinib",
+   "Quercetin",
+   "Fisetin"
+  ],
+  "hasResults": true
+ },
+ "NCT02652052": {
+  "title": "Hematopoietic Stem Cell Transplant Survivors Study (HTSS Study)",
+  "acronym": null,
+  "status": "COMPLETED",
+  "phase": "PHASE1",
+  "n": 9,
+  "minAge": "18 Years",
+  "maxAge": null,
+  "stdAges": [
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Stem Cell Transplant"
+  ],
+  "interventions": [
+   "Standard of Care - Observation Only",
+   "Group 2: Quercetin",
+   "Group 2: Dasatinib"
+  ],
+  "hasResults": false
+ },
+ "NCT04870866": {
+  "title": "NAD Supplementation to Prevent Progressive Neurological Disease in Ataxia Telangiectasia",
+  "acronym": null,
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE2",
+  "n": 13,
+  "minAge": "3 Years",
+  "maxAge": null,
+  "stdAges": [
+   "CHILD",
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Ataxia Telangiectasia"
+  ],
+  "interventions": [
+   "Nicotinamide ribonucleoside"
+  ],
+  "hasResults": false
+ },
+ "NCT06324877": {
+  "title": "Single Arm Open-label Clinical Trial in Ataxia-telangiectasia to Test the Effects of Nicotinamide Riboside on Ataxia Scales, Immune Function, and Neurofilament Light Chain.",
+  "acronym": "ATNAD",
+  "status": "UNKNOWN",
+  "phase": "NA",
+  "n": 10,
+  "minAge": null,
+  "maxAge": null,
+  "stdAges": [
+   "CHILD",
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Ataxia Telangiectasia"
+  ],
+  "interventions": [
+   "Nicotinamide riboside"
+  ],
+  "hasResults": false
+ },
+ "NCT04192136": {
+  "title": "NAD+ Precursor Supplementation With Exercise Training to Increase Aerobic Capacity in Friedreich's Ataxia",
+  "acronym": "ExRx in FA",
+  "status": "COMPLETED",
+  "phase": "NA",
+  "n": 75,
+  "minAge": "10 Years",
+  "maxAge": "40 Years",
+  "stdAges": [
+   "CHILD",
+   "ADULT"
+  ],
+  "conditions": [
+   "Friedreich Ataxia 1"
+  ],
+  "interventions": [
+   "Nicotinamide Riboside",
+   "Placebo",
+   "Exercise Intervention"
+  ],
+  "hasResults": true
+ },
+ "NCT05955924": {
+  "title": "Nicotinamide Chemoprevention for Keratinocyte Carcinoma in Solid Organ Transplant Recipients: a Multicentre, Pragmatic Randomized Trial",
+  "acronym": "SPRINTR",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "n": 396,
+  "minAge": "18 Years",
+  "maxAge": null,
+  "stdAges": [
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Non-melanoma Skin Cancer",
+   "Carcinoma, Squamous Cell",
+   "Carcinoma, Basal Cell",
+   "Keratinocyte Carcinoma"
+  ],
+  "interventions": [
+   "Nicotinamide",
+   "Placebo"
+  ],
+  "hasResults": false
+ },
+ "NCT02579044": {
+  "title": "Phase I/II Trial of Everolimus in Combination With Lonafarnib in Progeria",
+  "acronym": null,
+  "status": "ENROLLING_BY_INVITATION",
+  "phase": "PHASE1/PHASE2",
+  "n": 80,
+  "minAge": "18 Months",
+  "maxAge": "25 Years",
+  "stdAges": [
+   "CHILD",
+   "ADULT"
+  ],
+  "conditions": [
+   "Progeria"
+  ],
+  "interventions": [
+   "Everolimus and lonafarnib"
+  ],
+  "hasResults": false
+ },
+ "NCT06950385": {
+  "title": "A Phase 3, Multi-Site, Prospective, Randomized, Double-Blind, Placebo-Controlled Trial of eRapa to Improve Clinical Outcomes in Patients With Familial Adenomatous Polyposis",
+  "acronym": "SERENTA",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "n": 168,
+  "minAge": "18 Years",
+  "maxAge": null,
+  "stdAges": [
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Familial Adenomatous Polyposis (FAP)"
+  ],
+  "interventions": [
+   "eRapa (encapsulated rapamycin)",
+   "Placebo"
+  ],
+  "hasResults": false
+ },
+ "NCT02497820": {
+  "title": "A Randomised Double Blind Dose Non-inferiority Trial of a Daily Dose of 600mg Versus 300mg Versus 100mg of Enteric Coated Aspirin as a Cancer Preventive in Carriers of a Germline Pathological Mismatch Repair Gene Defect, Lynch Syndrome",
+  "acronym": "CaPP3 Israel",
+  "status": "NOT_YET_RECRUITING",
+  "phase": "PHASE3",
+  "n": 1800,
+  "minAge": "18 Years",
+  "maxAge": null,
+  "stdAges": [
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Lynch Syndrome I (Site-specific Colonic Cancer)"
+  ],
+  "interventions": [
+   "Aspirin"
+  ],
+  "hasResults": false
+ },
+ "NCT02813824": {
+  "title": "Assessment of the Effect of a Daily Chemoprevention by Low-dose Aspirin of New or Recurrent Colorectal Adenomas in Patients With Lynch Syndrome",
+  "acronym": "AAS-Lynch",
+  "status": "ACTIVE_NOT_RECRUITING",
+  "phase": "PHASE3",
+  "n": 852,
+  "minAge": "18 Years",
+  "maxAge": "75 Years",
+  "stdAges": [
+   "ADULT",
+   "OLDER_ADULT"
+  ],
+  "conditions": [
+   "Lynch Syndrome"
+  ],
+  "interventions": [
+   "Acetylsalicylic acid lysinate 300 mg",
+   "Placebo (for Aspirin 300)",
+   "Acetylsalicylic acid lysinate 100 mg",
+   "Placebo 100 (for Aspirin 100)"
+  ],
+  "hasResults": false
+ }
+}
