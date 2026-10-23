@@ -38,7 +38,7 @@ Biallelic loss of function. Allele A, c.2210T>G p.(Leu737Ter) in exon 17, trunca
 
 ## Please provide an estimate of time or effort spent on this analysis (if possible).
 
-About 75–120 hours in total across both tracks, by one person working with an AI coding assistant, over August–October 2026 (an estimate: time was not formally tracked). This includes the Track 1 independent re-verification, the Track 2 analyses, the verification passes, the report and the video. No paid compute: every analysis ran on a dual-core laptop (i7-6500U, 11.8 GB RAM); most wall-clock time was API latency.
+About 75–100 hours in total across both tracks, by one person working with an AI coding assistant, over August–October 2026 (an estimate: time was not formally tracked). This includes the Track 1 independent re-verification, the Track 2 analyses, the verification passes, the report and the video. Most of this time went into designing, checking and writing; re-running the scripted analyses does not require it. No paid compute: every analysis ran on a dual-core laptop (i7-6500U, 11.8 GB RAM); most wall-clock time was API latency.
 
 ## Provide a method abstract (up to 500 words). Please include strengths and limitations of your approach as well as methodological detail.
 
